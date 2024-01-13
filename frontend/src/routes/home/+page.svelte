@@ -1,18 +1,19 @@
 <script lang="ts">
 	import LightSwitch from '$lib/components/LightSwitch.svelte';
-	import { goto } from '$app/navigation';
 	import {Label} from '$lib/components/ui/label';
 	import {Input} from '$lib/components/ui/input';
 	import FileUpload from '$lib/components/FileUpload.svelte';
 	import Header from '$lib/components/Header.svelte';
 	import {Button} from '$lib/components/ui/button';
+	import { goto } from '$app/navigation';
+
   </script>
   
   <LightSwitch />
   
   <div class="flex flex-col items-center justify-center h-screen">
 	<div class="mb-8">
-	  <button on:click={() => goto('/chatbot')} class="bg-blue-500 text-white px-4 py-2 rounded">
+	  <button on:click={() => goto('/chat')} class="bg-blue-500 text-white px-4 py-2 rounded">
 		Get Started
 	  </button>
 	</div>
