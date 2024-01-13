@@ -8,17 +8,6 @@
 	import { goto } from '$app/navigation';
 
   </script>
-  
-  <LightSwitch />
-  
-  <div class="flex flex-col items-center justify-center h-screen">
-	<div class="mb-8">
-	  <button on:click={() => goto('/chat')} class="bg-blue-500 text-white px-4 py-2 rounded">
-		Get Started
-	  </button>
-	</div>
-  </div>
-
 	<Header/>
 
     <div
@@ -50,6 +39,12 @@
 			Course Recommendations are tailored from our extensive school database, ensuring personalized course suggestions for an optimized learning journey.</span>
 		</p>	
 		<FileUpload />
+
+		<div class="mb-2">
+			<Button on:click={() => goto('/chat')} class="bg-blue-500 text-white px-4 py-2 rounded">
+			  Talk to Genie
+			</Button>
+		  </div>
     </div>
 
 	<div>
@@ -59,9 +54,5 @@
 				We are not affiliated with the University of California, Santa Barbara.<br>
 				<span class="italic text-gray-500">This is a disclaimer statement.</span></p>
 	</div>
-  
-  <button on:click={() => goto('/chat')}>Talk to the Genie</button>
-  
-
 <style>
 </style>
