@@ -1,0 +1,278 @@
+{
+    "pageNumber": 1,
+    "pageSize": 100,
+    "total": 4,
+    "classes": [
+        {
+            "quarter": "20241",
+            "courseId": "LATIN     2  ",
+            "title": "ELEMENTARY LATIN",
+            "contactHours": 40.0,
+            "description": "A continuation of Latin 1. Emphasis on mastering grammer and building vocabulary.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "LATIN   ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "DIS",
+            "onLineCourse": false,
+            "deptCode": "CLASS",
+            "generalEducation": [
+                {
+                    "geCode": "H  ",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "27706",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 4,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "4101",
+                            "building": "ILP",
+                            "roomCapacity": 30,
+                            "days": "MTWR   ",
+                            "beginTime": "13:00",
+                            "endTime": "13:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "ROALSVIG E K",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "27714",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 9,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "4101",
+                            "building": "ILP",
+                            "roomCapacity": 30,
+                            "days": "MTWR   ",
+                            "beginTime": "10:00",
+                            "endTime": "10:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "MACLEAN R B",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "LATIN   101  ",
+            "title": "INTRO LATIN POETRY",
+            "contactHours": 30.0,
+            "description": "Readings in various authors (often including Catallus and Ovid) to develop reading skills, introduce an understanding of meter, and begin study of the style and thought of Latin poetry.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "LATIN   ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "CLASS",
+            "generalEducation": [
+                {
+                    "geCode": "EUR",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "EUR",
+                    "geCollege": "ENGR"
+                },
+                {
+                    "geCode": "G  ",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "G  ",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "27722",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 6,
+                    "maxEnroll": 15,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "4065",
+                            "building": "HSSB",
+                            "roomCapacity": null,
+                            "days": "M W F  ",
+                            "beginTime": "10:00",
+                            "endTime": "10:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "LINDHEIM S H",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "LATIN   114  ",
+            "title": "ROMAN COMEDY",
+            "contactHours": 30.0,
+            "description": "Plautus and Terence. Reading of complete plays and study of the origins of Roman comedy.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "LATIN   ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "CLASS",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "54916",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 3,
+                    "maxEnroll": 12,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "4065",
+                            "building": "HSSB",
+                            "roomCapacity": null,
+                            "days": " T R   ",
+                            "beginTime": "12:30",
+                            "endTime": "13:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "DUTSCH D",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "LATIN   199  ",
+            "title": "INDEPENDENT STUDIES",
+            "contactHours": 10.0,
+            "description": "Independent investigations in Latin language and literature.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "LATIN   ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 5.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "CLASS",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "27748",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        }
+    ]
+}
