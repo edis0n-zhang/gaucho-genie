@@ -1,0 +1,392 @@
+{
+    "pageNumber": 1,
+    "pageSize": 100,
+    "total": 6,
+    "classes": [
+        {
+            "quarter": "20223",
+            "courseId": "ITAL      1  ",
+            "title": "ELEMENTARY ITALIAN",
+            "contactHours": 40.0,
+            "description": "Introduction to the most basic elements of Italian grammar. Articles, adjec tives, gender. Verbs in the present tense.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "ITAL    ",
+            "unitsFixed": 5.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "FR&IT",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "11171",
+                    "section": "0100",
+                    "session": "00000D  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 14,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "LINE",
+                            "building": "ON",
+                            "roomCapacity": 999,
+                            "days": "MTWRF  ",
+                            "beginTime": "09:30",
+                            "endTime": "11:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "DAHL SARNELLI",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "ITAL      2  ",
+            "title": "ELEMENTARY ITALIAN",
+            "contactHours": 40.0,
+            "description": "Logical continuation of Italian 1. Direct and indirect pronouns. Verbs in t he past tense and the imperfect. Emphasis on the correct writing and speaki ng of Italian.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "ITAL    ",
+            "unitsFixed": 5.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "FR&IT",
+            "generalEducation": [
+                {
+                    "geCode": "H  ",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "11189",
+                    "section": "0100",
+                    "session": "00000E  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 7,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1237",
+                            "building": "HSSB",
+                            "roomCapacity": 26,
+                            "days": "MTWRF  ",
+                            "beginTime": "09:30",
+                            "endTime": "11:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "MATTEI M",
+                            "functionCode": "Teaching but not in charge"
+                        },
+                        {
+                            "instructor": "PADULA V",
+                            "functionCode": "In charge but not teaching"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "ITAL      3  ",
+            "title": "ELEMENTARY ITALIAN",
+            "contactHours": 40.0,
+            "description": "Continuation of Italian 2. Verbs in the future, conditional. Introduction t o subjunctive. Further emphasis on the correct writing and speaking of Ital ian.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "ITAL    ",
+            "unitsFixed": 5.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "FR&IT",
+            "generalEducation": [
+                {
+                    "geCode": "B  ",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "H  ",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "11197",
+                    "section": "0100",
+                    "session": "00000F  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 13,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "LINE",
+                            "building": "ON",
+                            "roomCapacity": 999,
+                            "days": "MTWRF  ",
+                            "beginTime": "09:30",
+                            "endTime": "11:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "DE SIMONE T",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "ITAL     20X ",
+            "title": "ITALIAN CULTURE",
+            "contactHours": 40.0,
+            "description": "A sweeping inquiry into Italian culture, from its origins to its current tr ends. Exploration of the media, sports, gastronomy, art, music, politics, l anguage, regional and ethnic identity, sexuality, the family, and urban lif e. Taught in English.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "ITAL    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "FR&IT",
+            "generalEducation": [
+                {
+                    "geCode": "E  ",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "E  ",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "11205",
+                    "section": "0100",
+                    "session": "00000A  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 14,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "LINE",
+                            "building": "ON",
+                            "roomCapacity": 999,
+                            "days": " TWR   ",
+                            "beginTime": "14:00",
+                            "endTime": "15:55"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "FESTA E",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "ITAL     99RA",
+            "title": "INDEPENDEN RESEARCH",
+            "contactHours": null,
+            "description": "Individual research project supervised by a faculty member.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "ITAL    ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 4.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "FR&IT",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "11213",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": "Y",
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 5,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": null,
+                            "building": null,
+                            "roomCapacity": null,
+                            "days": "       ",
+                            "beginTime": null,
+                            "endTime": null
+                        }
+                    ],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "23267",
+                    "section": "0200",
+                    "session": "00000B  ",
+                    "classClosed": "Y",
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 5,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": null,
+                            "building": null,
+                            "roomCapacity": null,
+                            "days": "       ",
+                            "beginTime": null,
+                            "endTime": null
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "DAHL SARNELLI",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "ITAL    199  ",
+            "title": "INDEPENDENT STUDIES",
+            "contactHours": 10.0,
+            "description": "Individual investigations in literary fields.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "ITAL    ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 5.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "Y",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "FR&IT",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "11221",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 5,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        }
+    ]
+}

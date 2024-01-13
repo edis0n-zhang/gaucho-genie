@@ -1,0 +1,76 @@
+{
+    "pageNumber": 1,
+    "pageSize": 100,
+    "total": 1,
+    "classes": [
+        {
+            "quarter": "20231",
+            "courseId": "RENST   199  ",
+            "title": "INDEPENDENT STUDIES",
+            "contactHours": null,
+            "description": "Study or research under the guidance of a member of the advisory committee for seniors of high scholastic standing. Students wishing to enroll should prepare a short plan of study for their course work.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "RENST   ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 5.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "RENST",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "45377",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "76877",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "FUMERTON M P",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,347 @@
+{
+    "pageNumber": 1,
+    "pageSize": 100,
+    "total": 6,
+    "classes": [
+        {
+            "quarter": "20222",
+            "courseId": "SLAV     99  ",
+            "title": "INTRO TO RESEARCH",
+            "contactHours": 10.0,
+            "description": "Independent research under the guidance of a faculty member. Exceptional students are offered an opportunity to undertake independent or collaborative research or to act as interns for faculty-directed research projects.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "SLAV    ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 4.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [],
+            "classSections": []
+        },
+        {
+            "quarter": "20222",
+            "courseId": "SLAV    117A ",
+            "title": "PUSHKIN",
+            "contactHours": 30.0,
+            "description": "Intensive study of one writer. Readings supplemented by selected criticism. Taught in English.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "SLAV    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "52886",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 29,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1445",
+                            "building": "PHELP",
+                            "roomCapacity": 35,
+                            "days": " T R   ",
+                            "beginTime": "11:00",
+                            "endTime": "12:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "WELD S P",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "SLAV    152B ",
+            "title": "LANGUAGE & CULTURE",
+            "contactHours": 30.0,
+            "description": "Exploration of the way language is used to help construct cultural identity in Eastern Europe. Topics include the relationship between language and dialect and the use of language and other cultural symbols to identify self and other. Taught in English.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "SLAV    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [
+                {
+                    "geCode": "D  ",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "WRT",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "D  ",
+                    "geCollege": "ENGR"
+                },
+                {
+                    "geCode": "WRT",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "52902",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 25,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1448",
+                            "building": "PHELP",
+                            "roomCapacity": 35,
+                            "days": "M W    ",
+                            "beginTime": "12:30",
+                            "endTime": "13:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "MCCLAIN K L",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "SLAV    181A ",
+            "title": "HOLY FOOLS",
+            "contactHours": 30.0,
+            "description": "In-depth examination of specialized topics with contemporary relevance or h istorical significance within the study of Russian, East European, or Euras ian literature, culture, and thought. Topics vary by instructor. Topics may include: \"Holy Fools,\" \"Childhood in Russian Culture,\" \"Russian and East E uropean Literary Theory,\" and \"Russian Literature and Translation.\" Taught in English",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "SLAV    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [
+                {
+                    "geCode": "E  ",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "WRT",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "E  ",
+                    "geCollege": "ENGR"
+                },
+                {
+                    "geCode": "WRT",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "52894",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 18,
+                    "maxEnroll": 22,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [
+                        "C LIT   181A 0100"
+                    ],
+                    "timeLocations": [
+                        {
+                            "room": "1112",
+                            "building": "GIRV",
+                            "roomCapacity": 48,
+                            "days": "M W    ",
+                            "beginTime": "11:00",
+                            "endTime": "12:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "MOVSESIAN H",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "SLAV    197  ",
+            "title": "SR THESIS/RUSSIAN",
+            "contactHours": 40.0,
+            "description": "An independent study course (one or two quarters) directed by a faculty mem ber with a carefully chosen topic which results in a documented project or a senior thesis.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "SLAV    ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 8.0,
+            "unitsVariableLow": 4.0,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "46490",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 5,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "S",
+                    "restrictionMajor": "+SLAV",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "78170",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 5,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "S",
+                    "restrictionMajor": "+SLAV",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "WELD S P",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "SLAV    199  ",
+            "title": "INDEPENDENT STUDIES",
+            "contactHours": null,
+            "description": "Independent Studies in Russian.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "SLAV    ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 5.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "Y",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "46508",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1894 @@
+{
+    "pageNumber": 1,
+    "pageSize": 100,
+    "total": 21,
+    "classes": [
+        {
+            "quarter": "20223",
+            "courseId": "SOC       1  ",
+            "title": "INTRO TO SOCIOLOGY",
+            "contactHours": 30.0,
+            "description": "Basic concepts and issues in the study of human society. The structures and processes of human conduct, social organization, and social change.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "SOC     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "SOC  ",
+            "generalEducation": [
+                {
+                    "geCode": "D  ",
+                    "geCollege": "ENGR"
+                },
+                {
+                    "geCode": "D  ",
+                    "geCollege": "L&S "
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "17624",
+                    "section": "0100",
+                    "session": "00000A  ",
+                    "classClosed": "Y",
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 46,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1260",
+                            "building": "PHELP",
+                            "roomCapacity": 90,
+                            "days": "MTWR   ",
+                            "beginTime": "12:30",
+                            "endTime": "13:35"
+                        }
+                    ],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "17632",
+                    "section": "0101",
+                    "session": "00000A  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 22,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "3201",
+                            "building": "HSSB",
+                            "roomCapacity": 24,
+                            "days": "    F  ",
+                            "beginTime": "08:00",
+                            "endTime": "08:50"
+                        }
+                    ],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "17640",
+                    "section": "0102",
+                    "session": "00000A  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 23,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "3201",
+                            "building": "HSSB",
+                            "roomCapacity": 24,
+                            "days": "    F  ",
+                            "beginTime": "09:00",
+                            "endTime": "09:50"
+                        }
+                    ],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "17657",
+                    "section": "0103",
+                    "session": "00000A  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 22,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "3201",
+                            "building": "HSSB",
+                            "roomCapacity": 24,
+                            "days": "    F  ",
+                            "beginTime": "10:00",
+                            "endTime": "10:50"
+                        }
+                    ],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "17665",
+                    "section": "0104",
+                    "session": "00000A  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 23,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "4201",
+                            "building": "HSSB",
+                            "roomCapacity": 24,
+                            "days": "    F  ",
+                            "beginTime": "11:00",
+                            "endTime": "11:50"
+                        }
+                    ],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "17673",
+                    "section": "0200",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 31,
+                    "maxEnroll": 45,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1940",
+                            "building": "BUCHN",
+                            "roomCapacity": 149,
+                            "days": "MTWR   ",
+                            "beginTime": "14:00",
+                            "endTime": "15:05"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "NIELSEN E S",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "17681",
+                    "section": "0201",
+                    "session": "00000B  ",
+                    "classClosed": "Y",
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 12,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "3201",
+                            "building": "HSSB",
+                            "roomCapacity": 24,
+                            "days": "    F  ",
+                            "beginTime": "08:00",
+                            "endTime": "08:50"
+                        }
+                    ],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "17699",
+                    "section": "0202",
+                    "session": "00000B  ",
+                    "classClosed": "Y",
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 13,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1101",
+                            "building": "LSB",
+                            "roomCapacity": 25,
+                            "days": "    F  ",
+                            "beginTime": "09:00",
+                            "endTime": "09:50"
+                        }
+                    ],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "17707",
+                    "section": "0203",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 15,
+                    "maxEnroll": 22,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1223",
+                            "building": "HSSB",
+                            "roomCapacity": 26,
+                            "days": "    F  ",
+                            "beginTime": "10:00",
+                            "endTime": "10:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "GODOY B A",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "17715",
+                    "section": "0204",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 16,
+                    "maxEnroll": 23,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1231",
+                            "building": "HSSB",
+                            "roomCapacity": 26,
+                            "days": "    F  ",
+                            "beginTime": "11:00",
+                            "endTime": "11:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "GODOY B A",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "SOC      91  ",
+            "title": "GROUP EXP LEARNING",
+            "contactHours": 20.0,
+            "description": "Group experiential learning in a sociological setting as directed by facult y.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "SOC     ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 4.0,
+            "unitsVariableLow": 2.0,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "P",
+            "instructionType": "FLD",
+            "onLineCourse": false,
+            "deptCode": "SOC  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "17723",
+                    "section": "0100",
+                    "session": "00000A  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 5,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "17731",
+                    "section": "0200",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 5,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "SOC      99  ",
+            "title": "INTRO RESEARCH SOC",
+            "contactHours": 10.0,
+            "description": "Independent research under the guidance of a faculty member in the department. Course offers exceptional students the opportunity to undertake independent research or work in a research group. Students wishing to enroll must prepare a short plan of study.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "SOC     ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 4.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "SOC  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "17749",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "SOC     108C ",
+            "title": "CULTURAL ANALYSIS",
+            "contactHours": 30.0,
+            "description": "A survey of several methodological approaches that can be applied to the analysis of culture. Methods will be chosen from among the following: interviewing, content analysis, historical methods, structuralism, survey, ethnography, etc.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "SOC     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "SOC  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "17756",
+                    "section": "0100",
+                    "session": "00000A  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 44,
+                    "maxEnroll": 60,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": "+SOC  +PRSOC",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1160",
+                            "building": "PHELP",
+                            "roomCapacity": 70,
+                            "days": "MTW    ",
+                            "beginTime": "11:00",
+                            "endTime": "12:20"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "DEVOTO S A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "17764",
+                    "section": "0101",
+                    "session": "00000A  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 14,
+                    "maxEnroll": 15,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": "+SOC  +PRSOC",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2202",
+                            "building": "HSSB",
+                            "roomCapacity": 18,
+                            "days": "   R   ",
+                            "beginTime": "10:00",
+                            "endTime": "10:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "GODOY B A",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "17772",
+                    "section": "0102",
+                    "session": "00000A  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 11,
+                    "maxEnroll": 15,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": "+SOC  +PRSOC",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2202",
+                            "building": "HSSB",
+                            "roomCapacity": 18,
+                            "days": "   R   ",
+                            "beginTime": "11:00",
+                            "endTime": "11:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "GODOY B A",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "17780",
+                    "section": "0103",
+                    "session": "00000A  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 10,
+                    "maxEnroll": 15,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": "+SOC  +PRSOC",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2816",
+                            "building": "ELLSN",
+                            "roomCapacity": 18,
+                            "days": "   R   ",
+                            "beginTime": "12:00",
+                            "endTime": "12:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "LIU YUCHENG",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "17798",
+                    "section": "0104",
+                    "session": "00000A  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 9,
+                    "maxEnroll": 15,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": "+SOC  +PRSOC",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2202",
+                            "building": "HSSB",
+                            "roomCapacity": 18,
+                            "days": "   R   ",
+                            "beginTime": "13:00",
+                            "endTime": "13:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "LIU YUCHENG",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "21063",
+                    "section": "0200",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 30,
+                    "maxEnroll": 60,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": "+SOC  +PRSOC",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1105",
+                            "building": "NH",
+                            "roomCapacity": 65,
+                            "days": "MTW    ",
+                            "beginTime": "14:00",
+                            "endTime": "15:20"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "WALLER I A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "21071",
+                    "section": "0201",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 3,
+                    "maxEnroll": 15,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": "+SOC  +PRSOC",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2110",
+                            "building": "GIRV",
+                            "roomCapacity": 16,
+                            "days": "   R   ",
+                            "beginTime": "09:00",
+                            "endTime": "09:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "BUSCARIOLLI A",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "21089",
+                    "section": "0202",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 11,
+                    "maxEnroll": 15,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": "+SOC  +PRSOC",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2110",
+                            "building": "GIRV",
+                            "roomCapacity": 16,
+                            "days": "   R   ",
+                            "beginTime": "10:00",
+                            "endTime": "10:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "BUSCARIOLLI A",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "21097",
+                    "section": "0203",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 10,
+                    "maxEnroll": 15,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": "+SOC  +PRSOC",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2110",
+                            "building": "GIRV",
+                            "roomCapacity": 16,
+                            "days": "   R   ",
+                            "beginTime": "11:00",
+                            "endTime": "11:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "BUSCARIOLLI A",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "21105",
+                    "section": "0204",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 6,
+                    "maxEnroll": 15,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": "+SOC  +PRSOC",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2110",
+                            "building": "GIRV",
+                            "roomCapacity": 16,
+                            "days": "   R   ",
+                            "beginTime": "12:00",
+                            "endTime": "12:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "BUSCARIOLLI A",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "SOC     128  ",
+            "title": "RACE AND ETHNICITY",
+            "contactHours": 30.0,
+            "description": "Patterns of racial and ethnic relations, with particular   emphasis upon mi norities in the United States.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "SOC     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "SOC  ",
+            "generalEducation": [
+                {
+                    "geCode": "ETH",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "ETH",
+                    "geCollege": "ENGR"
+                },
+                {
+                    "geCode": "ETH",
+                    "geCollege": "CRST"
+                },
+                {
+                    "geCode": "WRT",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "WRT",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "17855",
+                    "section": "0100",
+                    "session": "00000B  ",
+                    "classClosed": "Y",
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 90,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1174",
+                            "building": "HSSB",
+                            "roomCapacity": 95,
+                            "days": "MTW    ",
+                            "beginTime": "11:00",
+                            "endTime": "12:20"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "MALDONADO FAB",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "BUSCARIOLLI A",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "SOC     130SG",
+            "title": "SOC GLOBALIZATION",
+            "contactHours": 30.0,
+            "description": "Introduction to the sociological study of globalization. Survey of principa l theories and debates in globalization studies with a focus on economic, p olitical, and cultural transnational processes, gender/race/class and globa lization, transnational social movements, and local-global linkages.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "SOC     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "SOC  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "21006",
+                    "section": "0100",
+                    "session": "00000A  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 46,
+                    "maxEnroll": 90,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1100",
+                            "building": "WEBB",
+                            "roomCapacity": 92,
+                            "days": "MTW    ",
+                            "beginTime": "15:30",
+                            "endTime": "16:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "FELDMAN D B",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "SALOUR S",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "SOC     134  ",
+            "title": "SOCIAL MOVEMENTS",
+            "contactHours": 40.0,
+            "description": "Causes, dynamics and consequences of protest. American social movements, particularly labor, civil rights, student and women's movements, are studied as cases in movement development. Documentary and fiction films help illustrate   analytic themes and historical moments.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "SOC     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "SOC  ",
+            "generalEducation": [
+                {
+                    "geCode": "D  ",
+                    "geCollege": "ENGR"
+                },
+                {
+                    "geCode": "D  ",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "WRT",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "WRT",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "17863",
+                    "section": "0100",
+                    "session": "00000A  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 70,
+                    "maxEnroll": 90,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1260",
+                            "building": "PHELP",
+                            "roomCapacity": 90,
+                            "days": "MTW    ",
+                            "beginTime": "15:30",
+                            "endTime": "16:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "BURSTON A S",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "BRYANT K N",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "SOC     145  ",
+            "title": "SOCIAL INEQUALITIES",
+            "contactHours": 40.0,
+            "description": "A broad introduction to sociological research on diverse forms of social in equality. Offers a review of the classics and a critical analysis of the la test literature on class, race, and gender inequalities.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "SOC     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "SOC  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "17889",
+                    "section": "0100",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 80,
+                    "maxEnroll": 90,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1260",
+                            "building": "PHELP",
+                            "roomCapacity": 90,
+                            "days": "MTW    ",
+                            "beginTime": "15:30",
+                            "endTime": "16:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "RAYMOND E",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "CYKMAN N N",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "SOC     147  ",
+            "title": "ISSUES IN SOC PSYCH",
+            "contactHours": 30.0,
+            "description": "Examination of recent developments in research and theory within selected f ields of social psychology.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "SOC     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "SOC  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "17897",
+                    "section": "0100",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 90,
+                    "maxEnroll": 90,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1640",
+                            "building": "BRDA",
+                            "roomCapacity": 94,
+                            "days": "MTW    ",
+                            "beginTime": "11:00",
+                            "endTime": "12:20"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "CAST A D",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "LEE A R",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "SOC     152A ",
+            "title": "SOC HUMAN SEXUALITY",
+            "contactHours": 30.0,
+            "description": "This course covers all the main aspects of human sexuality-anatomy, sexual response, pregnancy, sexual diseases including HIV, birth control, abortion, learning to be sexual, sexual orientation, gender differences, sex therapy and enrichment, love, and related sociological issues.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "SOC     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "SOC  ",
+            "generalEducation": [
+                {
+                    "geCode": "D  ",
+                    "geCollege": "ENGR"
+                },
+                {
+                    "geCode": "D  ",
+                    "geCollege": "L&S "
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "21014",
+                    "section": "0100",
+                    "session": "00000A  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 40,
+                    "maxEnroll": 90,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1100",
+                            "building": "WEBB",
+                            "roomCapacity": 92,
+                            "days": "MTWR   ",
+                            "beginTime": "12:30",
+                            "endTime": "13:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "BALDWIN J D",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "BALDWIN J I",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "SOC     153  ",
+            "title": "WOMEN AND WORK",
+            "contactHours": 30.0,
+            "description": "The course will begin with readings and discussion of the sociological features of work in society. The role of women in the labor market will be explored, as well as their lives as unpaid workers in their own homes. Finally, more global issues of sexual inequality and social change will be discussed.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "SOC     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "SOC  ",
+            "generalEducation": [
+                {
+                    "geCode": "ETH",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "ETH",
+                    "geCollege": "ENGR"
+                },
+                {
+                    "geCode": "WRT",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "WRT",
+                    "geCollege": "ENGR"
+                },
+                {
+                    "geCode": "D  ",
+                    "geCollege": "ENGR"
+                },
+                {
+                    "geCode": "D  ",
+                    "geCollege": "L&S "
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "17905",
+                    "section": "0100",
+                    "session": "00000A  ",
+                    "classClosed": "Y",
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 79,
+                    "maxEnroll": 90,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "LINE",
+                            "building": "ON",
+                            "roomCapacity": 999,
+                            "days": "MTW    ",
+                            "beginTime": "09:30",
+                            "endTime": "10:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "SEGURA D A",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "HOPPEN C N",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "SOC     155  ",
+            "title": "SOCIOLOGY OF GENDER",
+            "contactHours": 30.0,
+            "description": "Examines the gendered dynamics of social relations in social institutions a nd interactions. We ask the questions: Why do men and women appear to be so different? Why are men and women found in different places in society? Why do gender inequalities persist? This course takes a sociological, intersec tional, evidence-based approach to understanding gender as social. Provide students with practice in critical thinking skills as well as an overview o f how feminist, social scientists think about gender.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "SOC     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "SOC  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "21139",
+                    "section": "0100",
+                    "session": "00000A  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 90,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1100",
+                            "building": "WEBB",
+                            "roomCapacity": 92,
+                            "days": "MTW    ",
+                            "beginTime": "14:00",
+                            "endTime": "15:20"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "TAYLOR C J",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "SOC     164  ",
+            "title": "SOC OF EDUCATION",
+            "contactHours": 30.0,
+            "description": "Changing character of education in complex societies its relation to political, economic, and technological institutions; and its effect on individual and community behavior and development.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "SOC     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "SOC  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "21113",
+                    "section": "0100",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 81,
+                    "maxEnroll": 90,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "LINE",
+                            "building": "ON",
+                            "roomCapacity": 999,
+                            "days": "MTW    ",
+                            "beginTime": "09:30",
+                            "endTime": "10:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "RAYMOND E",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "HOPPEN C N",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "SOC     185C ",
+            "title": "CULTURAL THEORY",
+            "contactHours": 30.0,
+            "description": "An introduction to functionalist, semiotic, Dramaturgical, Weberian, Durkehimian, Marxian and post-structuralist approaches to cultural analysis.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "SOC     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "SOC  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "20990",
+                    "section": "0100",
+                    "session": "00000A  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 35,
+                    "maxEnroll": 90,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1260",
+                            "building": "PHELP",
+                            "roomCapacity": 90,
+                            "days": "MTW    ",
+                            "beginTime": "14:00",
+                            "endTime": "15:20"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "WALLER I A",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "BRYANT K N",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "SOC     185E ",
+            "title": "INTRO TO ETHNOMETH",
+            "contactHours": 30.0,
+            "description": "Fundamental processes of social interaction and social organization. Accoun tability of action and the fundamental mechanisms of interaction; co-implic ation of institutional context and individual agency in interaction; reprod uction of individual identities and social structure as trans-situational r ealities.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "SOC     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "SOC  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "17939",
+                    "section": "0100",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 81,
+                    "maxEnroll": 90,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "LINE",
+                            "building": "ON",
+                            "roomCapacity": 999,
+                            "days": "MTW    ",
+                            "beginTime": "14:00",
+                            "endTime": "15:20"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "RAYMOND G",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "ELEAZAR A S",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "SOC     185G ",
+            "title": "GENDER INEQUALITY",
+            "contactHours": 30.0,
+            "description": "Varying theoretical perspectives on cause of gender inequaltiy, maintenance and reproduction of gender systems, social consequences of gender stratific ation, and dynamics of change in systems of inequality.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "SOC     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "SOC  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "21121",
+                    "section": "0100",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 55,
+                    "maxEnroll": 90,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1100",
+                            "building": "WEBB",
+                            "roomCapacity": 92,
+                            "days": "MTW    ",
+                            "beginTime": "09:30",
+                            "endTime": "10:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "BRIDGES T S",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "NISHIMURA M H",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "SOC     190A ",
+            "title": "GROUP STUDIES",
+            "contactHours": 10.0,
+            "description": "Faculty led, systematic exploration of a particular study of interest as de fined by faculty and students. May involve in-depth study of a mutual topic of interest and/or may involve direct involvement in research, including d iscussion relevant to the process of sociological inquiry.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "SOC     ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 4.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "P",
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "SOC  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "17954",
+                    "section": "0100",
+                    "session": "00000A  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 5,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "17962",
+                    "section": "0200",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 5,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "SOC     191CA",
+            "title": "INSTRUCTIONAL LAB",
+            "contactHours": 10.0,
+            "description": "Designed for outstanding students who intern as course assistants under the supervision of the assigned faculty member.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "SOC     ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 4.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": "P",
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "SOC  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "17970",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "SOC     198  ",
+            "title": "READINGS IN SOC",
+            "contactHours": null,
+            "description": "Readings in sociology under the guidance of a faculty member in the departm ent.   Students wishing to enroll should prepare a short plan of study.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "SOC     ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 5.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "Y",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "SOC  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "17988",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "SOC     199  ",
+            "title": "INDEPENDENT STUDIES",
+            "contactHours": null,
+            "description": "Independent studies in sociology under the guidance of a faculty member in the   department. Students wishing to enroll should prepare a short plan of study.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "SOC     ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 5.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "Y",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "SOC  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "17996",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "SOC     199RA",
+            "title": "IND RESEARCH ASSIST",
+            "contactHours": null,
+            "description": "Coursework shall consist of faculty supervised research assistance.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "SOC     ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 5.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": "P",
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "SOC  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "18002",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 15,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "25767",
+                    "section": "0200",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 3,
+                    "maxEnroll": 15,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "WINDER T J",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

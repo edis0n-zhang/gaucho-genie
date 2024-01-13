@@ -1,0 +1,831 @@
+{
+    "pageNumber": 1,
+    "pageSize": 100,
+    "total": 13,
+    "classes": [
+        {
+            "quarter": "20222",
+            "courseId": "CHIN      3  ",
+            "title": "ELEM MODERN CHINESE",
+            "contactHours": 50.0,
+            "description": "Continuation of Chinese 2.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "CHIN    ",
+            "unitsFixed": 5.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "DIS",
+            "onLineCourse": false,
+            "deptCode": "EALCS",
+            "generalEducation": [
+                {
+                    "geCode": "B  ",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "H  ",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "06999",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 20,
+                    "maxEnroll": 26,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1215",
+                            "building": "HSSB",
+                            "roomCapacity": 26,
+                            "days": "MTWRF  ",
+                            "beginTime": "10:00",
+                            "endTime": "10:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "CHEN S C",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "07005",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 23,
+                    "maxEnroll": 26,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1215",
+                            "building": "HSSB",
+                            "roomCapacity": 26,
+                            "days": "MTWRF  ",
+                            "beginTime": "11:00",
+                            "endTime": "11:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "CHEN S C",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "CHIN      3NH",
+            "title": "1ST YR CHIN HERITAG",
+            "contactHours": 40.0,
+            "description": "Continuation of Chinese 2NH.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "CHIN    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "EALCS",
+            "generalEducation": [
+                {
+                    "geCode": "B  ",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "H  ",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "07039",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 17,
+                    "maxEnroll": 26,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1224",
+                            "building": "HSSB",
+                            "roomCapacity": 26,
+                            "days": "MTWR   ",
+                            "beginTime": "10:00",
+                            "endTime": "10:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "GUAN D",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "CHIN      6  ",
+            "title": "INTERM MODERN CHIN",
+            "contactHours": 50.0,
+            "description": "Continuation of Chinese 5.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "CHIN    ",
+            "unitsFixed": 5.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "DIS",
+            "onLineCourse": false,
+            "deptCode": "EALCS",
+            "generalEducation": [
+                {
+                    "geCode": "B  ",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "H  ",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "07047",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 12,
+                    "maxEnroll": 26,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1214",
+                            "building": "HSSB",
+                            "roomCapacity": 26,
+                            "days": "MTWRF  ",
+                            "beginTime": "10:00",
+                            "endTime": "10:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "HSU C-C",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "07054",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 13,
+                    "maxEnroll": 26,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1214",
+                            "building": "HSSB",
+                            "roomCapacity": 26,
+                            "days": "MTWRF  ",
+                            "beginTime": "11:00",
+                            "endTime": "11:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "HSU C-C",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "CHIN     99  ",
+            "title": "IND STUDY CHINESE",
+            "contactHours": 10.0,
+            "description": "Introduction to independent research in Chinese.  Topic and content are decided   by the supervising Professor in   the Department of East Asian Languages and Cultural Studies.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "CHIN    ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 5.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "Y",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "EALCS",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "07112",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": null,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "CHIN     99RA",
+            "title": "INDEP RESEARCH ASST",
+            "contactHours": 10.0,
+            "description": "Research details are decided by the supervising Professor in   the Department of East Asian Languages and Cultural Studies.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "CHIN    ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 4.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "Y",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "EALCS",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "07120",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": null,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "CHIN    122C ",
+            "title": "ADV MODERN CHINESE",
+            "contactHours": 30.0,
+            "description": "Advanced practice in grammar and composition.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "CHIN    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "EALCS",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "07153",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 13,
+                    "maxEnroll": 26,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1214",
+                            "building": "HSSB",
+                            "roomCapacity": 26,
+                            "days": "M W    ",
+                            "beginTime": "12:30",
+                            "endTime": "13:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "GUAN D",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "CHIN    126B ",
+            "title": "READING TAIWAN LIT",
+            "contactHours": 40.0,
+            "description": "A selection of texts in Chinese by representative authors; works after WW I I to the present. Designed for advanced students to gain an overall view of achievements of major writers in different genres.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "CHIN    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "EALCS",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "50641",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 12,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "4202",
+                            "building": "HSSB",
+                            "roomCapacity": 24,
+                            "days": "  W    ",
+                            "beginTime": "10:00",
+                            "endTime": "12:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "TSAI P B",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "CHIN    127C ",
+            "title": "FOURTH YEAR CHINESE",
+            "contactHours": 30.0,
+            "description": "Course series for students who have completed third-year Chinese. Extensive reading and discussion of colloquial versus formal usage of Chinese are th e major focus of the course.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "CHIN    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "EALCS",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "07161",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 12,
+                    "maxEnroll": 12,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2202",
+                            "building": "HSSB",
+                            "roomCapacity": 18,
+                            "days": " T R   ",
+                            "beginTime": "15:30",
+                            "endTime": "16:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "LI X",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "CHIN    138B ",
+            "title": "TAIWAN - SOCIAL SCI",
+            "contactHours": 30.0,
+            "description": "Special topics in Taiwan studies with respect to historical, economic, poli tical, cultural, and social changes in Taiwan from the period of Japanese r ule (1895-1945) to the present.  Topics and readings will vary with instruc tors.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "CHIN    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "EALCS",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "50658",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 33,
+                    "maxEnroll": 35,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1444",
+                            "building": "PHELP",
+                            "roomCapacity": 35,
+                            "days": "M W    ",
+                            "beginTime": "14:00",
+                            "endTime": "15:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "TSAI P B",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "CHIN    148  ",
+            "title": "HISTORIC LIVES",
+            "contactHours": 30.0,
+            "description": "A study of selected notable lives from early and middle China   for their c ontributions to Chinese history and literature.   Subjects include Confucio us, the First Emperor, the recluse   Tao Yuanming, the usurper Empress Wu, the Buddhist Sixth   Patriarch, the \"post-historian\" Du Fu, and the female song-  lyricist Li Qingzhao.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "CHIN    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "EALCS",
+            "generalEducation": [
+                {
+                    "geCode": "E  ",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "G  ",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "NWC",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "E  ",
+                    "geCollege": "ENGR"
+                },
+                {
+                    "geCode": "G  ",
+                    "geCollege": "ENGR"
+                },
+                {
+                    "geCode": "NWC",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "50666",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 39,
+                    "maxEnroll": 35,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1440",
+                            "building": "PHELP",
+                            "roomCapacity": 35,
+                            "days": "M W    ",
+                            "beginTime": "17:00",
+                            "endTime": "18:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "WU Y",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "CHIN    176  ",
+            "title": "CHIN GLOBAL CINEMA",
+            "contactHours": 30.0,
+            "description": "A critical overview of some of the major cinematic trends in Chinese-langua ge film over the past several decades. Works from the PRC, Taiwan and Hong Kong, as well as Chinese cinema will be considered in a global context.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "CHIN    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "EALCS",
+            "generalEducation": [
+                {
+                    "geCode": "F  ",
+                    "geCollege": "ENGR"
+                },
+                {
+                    "geCode": "F  ",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "NWC",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "NWC",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "52878",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 62,
+                    "maxEnroll": 60,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2600",
+                            "building": "TD-W",
+                            "roomCapacity": 60,
+                            "days": "M W    ",
+                            "beginTime": "14:00",
+                            "endTime": "15:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "XU H",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "CHIN    198  ",
+            "title": "READINGS IN CHINESE",
+            "contactHours": 20.0,
+            "description": "Readings in Chinese.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "CHIN    ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 4.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "EALCS",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "07203",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 15,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "CHIN    199  ",
+            "title": "INDEPENDENT STUDIES",
+            "contactHours": null,
+            "description": "Independent studies in Chinese. Individual investigations in   literary fields.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "CHIN    ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 5.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "Y",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "EALCS",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "07211",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 5,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        }
+    ]
+}

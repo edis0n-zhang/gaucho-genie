@@ -25,6 +25,7 @@ index = pinecone.Index(index_name)
 
 # Variables for the loop
 quarters = ["20241"]
+
 file = open('subject_codes.csv', 'r')
 subject_codes = file.read().split(', ')
 
@@ -60,9 +61,20 @@ for line in file:
     value = line[1].strip()
     course_difficulty[key] = value
 
+# load subject code data and make a dict
+file = open('subject_areas.csv', 'r')
+subject_areas = {}
+
+for line in file:
+    line = line.split(',')
+    key = " ".join(line[0].split())
+    value = line[1].strip()
+    subject_areas[key] = value
+
 # Load the JSON data
 for quarter in quarters:
     for subject in subject_codes:
+        print(f"{quarter}-classes/{subject}.json")
         with open(f"{quarter}-classes/{subject}.json", 'r') as file:
             data = json.load(file)
 
@@ -74,7 +86,7 @@ for quarter in quarters:
             title = str(class_info['title'])
             description = str(class_info['description'])
             college = str(class_info['college'])
-            subjectArea = str(class_info['subjectArea'].strip())
+            subjectArea = str(subject_areas.get(class_info['subjectArea'].strip(), "not found"))
             unitsFixed = str(class_info['unitsFixed'])
             deptCode = str(class_info['deptCode'].strip())
             generalEducation = str(class_info['generalEducation'])

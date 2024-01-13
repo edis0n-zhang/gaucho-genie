@@ -1,0 +1,196 @@
+{
+    "pageNumber": 1,
+    "pageSize": 100,
+    "total": 3,
+    "classes": [
+        {
+            "quarter": "20233",
+            "courseId": "KOR       1  ",
+            "title": "FIRST YEAR KOR 1",
+            "contactHours": 50.0,
+            "description": "The beginning course in Korean. The student acquires a basic knowledge of t he grammar, a limited general vocabulary, correct pronunciation, and an abi lity to read and understand simple texts. Weekly laboratory assignments sup port and enhance classroom learning.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "KOR     ",
+            "unitsFixed": 5.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LAB",
+            "onLineCourse": false,
+            "deptCode": "EALCS",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "10637",
+                    "section": "0100",
+                    "session": "00000D  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 12,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2201",
+                            "building": "HSSB",
+                            "roomCapacity": 20,
+                            "days": "MTWRF  ",
+                            "beginTime": "09:00",
+                            "endTime": "11:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "LEE W A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20233",
+            "courseId": "KOR       2  ",
+            "title": "FIRST YEAR KOR 2",
+            "contactHours": 50.0,
+            "description": "Continuation of Korean 1.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "KOR     ",
+            "unitsFixed": 5.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LAB",
+            "onLineCourse": false,
+            "deptCode": "EALCS",
+            "generalEducation": [
+                {
+                    "geCode": "H  ",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "10645",
+                    "section": "0100",
+                    "session": "00000E  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 11,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2201",
+                            "building": "HSSB",
+                            "roomCapacity": 20,
+                            "days": "MTWRF  ",
+                            "beginTime": "09:00",
+                            "endTime": "11:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "LEE W A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20233",
+            "courseId": "KOR       3  ",
+            "title": "FIRST YEAR KOR 3",
+            "contactHours": 50.0,
+            "description": "Continuation of Korean 2.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "KOR     ",
+            "unitsFixed": 5.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LAB",
+            "onLineCourse": false,
+            "deptCode": "EALCS",
+            "generalEducation": [
+                {
+                    "geCode": "H  ",
+                    "geCollege": "ENGR"
+                },
+                {
+                    "geCode": "B  ",
+                    "geCollege": "CRST"
+                },
+                {
+                    "geCode": "B  ",
+                    "geCollege": "L&S "
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "10652",
+                    "section": "0100",
+                    "session": "00000F  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 12,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2201",
+                            "building": "HSSB",
+                            "roomCapacity": 20,
+                            "days": "MTWRF  ",
+                            "beginTime": "09:00",
+                            "endTime": "11:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "KIM HAEWON",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "pageNumber": 1,
+    "pageSize": 100,
+    "total": 1,
+    "classes": [
+        {
+            "quarter": "20224",
+            "courseId": "HEB       1  ",
+            "title": "ELEMENTARY HEBREW",
+            "contactHours": 40.0,
+            "description": "The beginning course in Hebrew. Starting with the study of the alphabet, th e student is initiated into the rudiments of the language. Basic grammar, v ocabulary, and conversation.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "HEB     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "DIS",
+            "onLineCourse": false,
+            "deptCode": "RELST",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "54809",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 8,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "4080",
+                            "building": "HSSB",
+                            "roomCapacity": null,
+                            "days": "MTWR   ",
+                            "beginTime": "12:00",
+                            "endTime": "12:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "MEDINA R W",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

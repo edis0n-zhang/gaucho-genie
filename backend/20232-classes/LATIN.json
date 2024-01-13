@@ -1,0 +1,230 @@
+{
+    "pageNumber": 1,
+    "pageSize": 100,
+    "total": 4,
+    "classes": [
+        {
+            "quarter": "20232",
+            "courseId": "LATIN     3  ",
+            "title": "INTERMEDIATE LATIN",
+            "contactHours": 40.0,
+            "description": "Continuation of Latin 2. Emphasis on building a working vocabulary and the syntax of complex sentences. Reading in classical prose introduce students to ancient Roman literature and culture.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "LATIN   ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "DIS",
+            "onLineCourse": false,
+            "deptCode": "CLASS",
+            "generalEducation": [
+                {
+                    "geCode": "B  ",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "H  ",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "27730",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 14,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "3101",
+                            "building": "ILP",
+                            "roomCapacity": 30,
+                            "days": "MTWR   ",
+                            "beginTime": "10:00",
+                            "endTime": "10:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "LINDHEIM S H",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20232",
+            "courseId": "LATIN   102  ",
+            "title": "READINGS LATIN LIT",
+            "contactHours": 30.0,
+            "description": "Selected readings in Latin prose and/or poetry are designed to develop reading profeciency, and to help students make the transition to more advanced study of classical Latin literature.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "LATIN   ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "CLASS",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "58057",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 5,
+                    "maxEnroll": 15,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2135",
+                            "building": "GIRV",
+                            "roomCapacity": 15,
+                            "days": "M W F  ",
+                            "beginTime": "10:00",
+                            "endTime": "10:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "MACLEAN R B",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20232",
+            "courseId": "LATIN   137  ",
+            "title": "CATULLUS",
+            "contactHours": 30.0,
+            "description": "Translation and discussion of Catullus' poetry in its literary, social, and historical contexts.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "LATIN   ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "CLASS",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "58008",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 3,
+                    "maxEnroll": 5,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "4065",
+                            "building": "HSSB",
+                            "roomCapacity": null,
+                            "days": "M W    ",
+                            "beginTime": "12:30",
+                            "endTime": "13:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "LINDHEIM S H",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20232",
+            "courseId": "LATIN   199  ",
+            "title": "INDEPENDENT STUDIES",
+            "contactHours": 10.0,
+            "description": "Independent investigations in Latin language and literature.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "LATIN   ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 5.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "CLASS",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "27763",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        }
+    ]
+}

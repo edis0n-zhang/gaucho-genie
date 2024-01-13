@@ -1,0 +1,391 @@
+{
+    "pageNumber": 1,
+    "pageSize": 100,
+    "total": 6,
+    "classes": [
+        {
+            "quarter": "20223",
+            "courseId": "GER       1  ",
+            "title": "ELEMENTARY GERMAN",
+            "contactHours": 40.0,
+            "description": "Beginning course in German. Student acquires the basic   structure of the language, communicative skills, a limited   general vocabulary, correct pronunciation, and an ability   to read and understand simple cultural texts.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "GER     ",
+            "unitsFixed": 5.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "09001",
+                    "section": "0100",
+                    "session": "00000D  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 15,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1609",
+                            "building": "SH",
+                            "roomCapacity": 26,
+                            "days": "MTWR   ",
+                            "beginTime": "09:30",
+                            "endTime": "12:20"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "WHITE K D",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "GER       2  ",
+            "title": "ELEMENTARY GERMAN",
+            "contactHours": 40.0,
+            "description": "Continuation of German 1.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "GER     ",
+            "unitsFixed": 5.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [
+                {
+                    "geCode": "H  ",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "09019",
+                    "section": "0100",
+                    "session": "00000E  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 13,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1214",
+                            "building": "HSSB",
+                            "roomCapacity": 26,
+                            "days": "MTWR   ",
+                            "beginTime": "09:30",
+                            "endTime": "12:20"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "WHITE K D",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "GER       3  ",
+            "title": "ELEMENTARY GERMAN",
+            "contactHours": 40.0,
+            "description": "Continuation of German 2.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "GER     ",
+            "unitsFixed": 5.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [
+                {
+                    "geCode": "B  ",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "H  ",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "09027",
+                    "section": "0100",
+                    "session": "00000F  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 11,
+                    "maxEnroll": 17,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1445",
+                            "building": "PHELP",
+                            "roomCapacity": 35,
+                            "days": "MTWR   ",
+                            "beginTime": "09:30",
+                            "endTime": "12:20"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "HOFMANN M J",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "GER      55A ",
+            "title": "GER POP CULTURE",
+            "contactHours": 30.0,
+            "description": "Study of contempory film, music, and other facets of pop culture that have shaped the lifestyle of today's nation of Germany. Study of pop music from 1989 to today and its impact on the new emerging society of post-Wall Germa ny, focusing on the pointed, humorous, and sometimes scathing lyrics and po p music's ties to German youth culture.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "GER     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [
+                {
+                    "geCode": "F  ",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "WRT",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "F  ",
+                    "geCollege": "ENGR"
+                },
+                {
+                    "geCode": "WRT",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "09035",
+                    "section": "0100",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 10,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1609",
+                            "building": "SH",
+                            "roomCapacity": 26,
+                            "days": " TWR   ",
+                            "beginTime": "10:00",
+                            "endTime": "11:55"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "SEIJO M A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "GER     116A ",
+            "title": "HOLOCAUST REPRESNTN",
+            "contactHours": 30.0,
+            "description": "Close reading of post-Holocaust literature. Taught in English.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "GER     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "SEM",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [
+                {
+                    "geCode": "E  ",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "G  ",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "WRT",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "E  ",
+                    "geCollege": "ENGR"
+                },
+                {
+                    "geCode": "G  ",
+                    "geCollege": "ENGR"
+                },
+                {
+                    "geCode": "WRT",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "19299",
+                    "section": "0100",
+                    "session": "00000A  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 15,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1207",
+                            "building": "HSSB",
+                            "roomCapacity": 26,
+                            "days": " TWR   ",
+                            "beginTime": "19:00",
+                            "endTime": "20:25"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "STROBEL M",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "GER     199  ",
+            "title": "INDEPENDENT STUDIES",
+            "contactHours": 10.0,
+            "description": "Individual investigations in literary fields.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "GER     ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 5.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "Y",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "09050",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 5,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": true,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        }
+    ]
+}

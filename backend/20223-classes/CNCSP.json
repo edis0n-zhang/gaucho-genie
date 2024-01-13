@@ -1,0 +1,561 @@
+{
+    "pageNumber": 1,
+    "pageSize": 100,
+    "total": 8,
+    "classes": [
+        {
+            "quarter": "20223",
+            "courseId": "CNCSP   101  ",
+            "title": "INTRO HELP SKILLS",
+            "contactHours": 20.0,
+            "description": "Introduces students to theory and practice of psychotherapy and other helping   relationships. Students learn about counseling, assessment, ethics, and   helping skills. Students gain experience by serving as practice counseling   clients or by volunteering in a relevant service setting.",
+            "college": "GSE",
+            "objLevelCode": "U",
+            "subjectArea": "CNCSP   ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "CNCSP",
+            "generalEducation": [
+                {
+                    "geCode": "WRT",
+                    "geCollege": "ENGR"
+                },
+                {
+                    "geCode": "WRT",
+                    "geCollege": "L&S "
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "03731",
+                    "section": "0100",
+                    "session": "00000A  ",
+                    "classClosed": "Y",
+                    "courseCancelled": "C         ",
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 80,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1640",
+                            "building": "BRDA",
+                            "roomCapacity": 94,
+                            "days": "MTWR   ",
+                            "beginTime": "09:30",
+                            "endTime": "10:50"
+                        }
+                    ],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "03749",
+                    "section": "0200",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 63,
+                    "maxEnroll": 80,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1924",
+                            "building": "PSYCH",
+                            "roomCapacity": 124,
+                            "days": "MTWR   ",
+                            "beginTime": "14:00",
+                            "endTime": "15:20"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "WEI C",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "CNCSP   102  ",
+            "title": "RESEARCH APP PSYCH",
+            "contactHours": 30.0,
+            "description": "Introduces students to research in applied psychology, including approaches to survey, experimental, and qualitative investigation. Students will be e xposed to current research in applied psychology through journal articles, presentations, and participation in research studies.",
+            "college": "GSE",
+            "objLevelCode": "U",
+            "subjectArea": "CNCSP   ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "FLD",
+            "onLineCourse": false,
+            "deptCode": "CNCSP",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "03756",
+                    "section": "0100",
+                    "session": "00000A  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 59,
+                    "maxEnroll": 80,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1100",
+                            "building": "WEBB",
+                            "roomCapacity": 92,
+                            "days": "MTWR   ",
+                            "beginTime": "11:00",
+                            "endTime": "12:20"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "RAMIREZ AMARA",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "03764",
+                    "section": "0200",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 60,
+                    "maxEnroll": 80,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1174",
+                            "building": "HSSB",
+                            "roomCapacity": 95,
+                            "days": "MTWR   ",
+                            "beginTime": "15:30",
+                            "endTime": "16:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "FLY J M",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "CNCSP   110  ",
+            "title": "INTRO ED & VOC GUID",
+            "contactHours": 20.0,
+            "description": "An overview of the theories and concepts involved in career decision making . Develop working knowledge of career information and field survey techniqu es for understanding the job market in relation to economic trends.",
+            "college": "GSE",
+            "objLevelCode": "U",
+            "subjectArea": "CNCSP   ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "CNCSP",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "03772",
+                    "section": "0100",
+                    "session": "00000A  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 25,
+                    "maxEnroll": 60,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1213",
+                            "building": "ED",
+                            "roomCapacity": 60,
+                            "days": "MTWR   ",
+                            "beginTime": "14:00",
+                            "endTime": "15:20"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "CHIN J",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "CNCSP   111  ",
+            "title": "IDENTITY-PLURALISM",
+            "contactHours": 40.0,
+            "description": "Course addresses topics such as racism, heterosexism,   ageism, and gender inequality.  Students will not only   learn about the current ideas in these areas, but also   engage in personal exploration pertaining to these and   related topics.",
+            "college": "GSE",
+            "objLevelCode": "U",
+            "subjectArea": "CNCSP   ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "CNCSP",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "03780",
+                    "section": "0100",
+                    "session": "00000D  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 23,
+                    "maxEnroll": 40,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1213",
+                            "building": "ED",
+                            "roomCapacity": 60,
+                            "days": "MT R   ",
+                            "beginTime": "09:30",
+                            "endTime": "12:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "MORGAN M L",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "CNCSP   112  ",
+            "title": "POSITIVE PSYCH",
+            "contactHours": 40.0,
+            "description": "Positive Psychology examines how people live life well.  It   looks at those factors associated with living a happy,   meaningful life. Course examines key concepts that include   hope, gratitude, grit and optimism to promote well-being   and authentic happiness.",
+            "college": "GSE",
+            "objLevelCode": "U",
+            "subjectArea": "CNCSP   ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "CNCSP",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "03798",
+                    "section": "0100",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 76,
+                    "maxEnroll": 80,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1001",
+                            "building": "BIOEN",
+                            "roomCapacity": 97,
+                            "days": "MTWR   ",
+                            "beginTime": "11:00",
+                            "endTime": "12:20"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "LAREZ N A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "CNCSP   114  ",
+            "title": "PSYCH OF GENDER",
+            "contactHours": 40.0,
+            "description": "Provides an overview of psychological theory and research   related to gender issues. Topics include bias in   psychology, gender socialization, communication styles,   lifespan development, ethnicity, education, careers,   relationships, violence and victimization, health and   mental health.",
+            "college": "GSE",
+            "objLevelCode": "U",
+            "subjectArea": "CNCSP   ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "CNCSP",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "03806",
+                    "section": "0100",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 54,
+                    "maxEnroll": 60,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1213",
+                            "building": "ED",
+                            "roomCapacity": 60,
+                            "days": "MTWR   ",
+                            "beginTime": "12:30",
+                            "endTime": "13:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "MITTELSTET A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "CNCSP   199  ",
+            "title": "INDEPEN STUDENTS",
+            "contactHours": 10.0,
+            "description": "Study of special problems in various fields of Applied   Psychology.",
+            "college": "GSE",
+            "objLevelCode": "U",
+            "subjectArea": "CNCSP   ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 5.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "CNCSP",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "03814",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "CNCSP   199RA",
+            "title": "INDEP RES ASST",
+            "contactHours": 10.0,
+            "description": "Faculty supervised research assistance.",
+            "college": "GSE",
+            "objLevelCode": "U",
+            "subjectArea": "CNCSP   ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 5.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "FLD",
+            "onLineCourse": false,
+            "deptCode": "CNCSP",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "03822",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "23218",
+                    "section": "0200",
+                    "session": "00000A  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "SHARKEY J D",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "24612",
+                    "section": "0300",
+                    "session": "00000A  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "MORGAN M L",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

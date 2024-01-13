@@ -1,0 +1,143 @@
+{
+    "pageNumber": 1,
+    "pageSize": 100,
+    "total": 1,
+    "classes": [
+        {
+            "quarter": "20223",
+            "courseId": "ASTRO     1  ",
+            "title": "BASIC ASTRONOMY",
+            "contactHours": 30.0,
+            "description": "A survey of the development of astronomy with an emphasis on understanding the observable properties of the solar system, the sun and other stars, our own and other galaxies, and the entire universe. Topics of current interes t will be discussed as time permits.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "ASTRO   ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "PHYS ",
+            "generalEducation": [
+                {
+                    "geCode": "QNT",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "C  ",
+                    "geCollege": "L&S "
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "01529",
+                    "section": "0100",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 20,
+                    "maxEnroll": 100,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1610",
+                            "building": "BRDA",
+                            "roomCapacity": 286,
+                            "days": "MT R   ",
+                            "beginTime": "15:30",
+                            "endTime": "16:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "GELLER R M",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "01537",
+                    "section": "0101",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 11,
+                    "maxEnroll": 50,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2524",
+                            "building": "PHELP",
+                            "roomCapacity": 55,
+                            "days": "   R   ",
+                            "beginTime": "11:00",
+                            "endTime": "12:20"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "AHN E",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "01545",
+                    "section": "0102",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 9,
+                    "maxEnroll": 50,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2524",
+                            "building": "PHELP",
+                            "roomCapacity": 55,
+                            "days": "   R   ",
+                            "beginTime": "12:30",
+                            "endTime": "13:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "AHN E",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

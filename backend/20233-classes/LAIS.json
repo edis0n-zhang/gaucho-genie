@@ -1,0 +1,236 @@
+{
+    "pageNumber": 1,
+    "pageSize": 100,
+    "total": 4,
+    "classes": [
+        {
+            "quarter": "20233",
+            "courseId": "LAIS    101  ",
+            "title": "INT HIST & SOC LAIS",
+            "contactHours": 30.0,
+            "description": "Issues central to the study of Latin America and Iberia across the social s ciences and history. Topics include nationalism, revolution, politics and t he state, economic development and international relations, labor, popular culture, race, gender, religion, migration, environment, imperialism, and c olonialism.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "LAIS    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "LAIS ",
+            "generalEducation": [
+                {
+                    "geCode": "E  ",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "WRT",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "E  ",
+                    "geCollege": "ENGR"
+                },
+                {
+                    "geCode": "WRT",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "10660",
+                    "section": "0100",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 29,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "LINE",
+                            "building": "ON",
+                            "roomCapacity": 999,
+                            "days": "MTWR   ",
+                            "beginTime": "14:00",
+                            "endTime": "15:05"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "ALVES FERREIR",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20233",
+            "courseId": "LAIS    195A ",
+            "title": "SENIOR HONRS THESIS",
+            "contactHours": null,
+            "description": "Individual study with the advisor for the purpose of writing a major interd isciplinary research paper on a topic of sufficient depth and sophisticatio n.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "LAIS    ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 5.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "LAIS ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "10678",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 5,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20233",
+            "courseId": "LAIS    195B ",
+            "title": "SENIOR HONRS THESIS",
+            "contactHours": 30.0,
+            "description": "Individual study with the advisor for the purpose of writing a major interd isciplinary research paper on a topic of sufficient depth and sophisticatio n.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "LAIS    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "LAIS ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "10686",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 5,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20233",
+            "courseId": "LAIS    199  ",
+            "title": "INDEPENDENT STUDIES",
+            "contactHours": 10.0,
+            "description": "Independent studies in the LAIS department.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "LAIS    ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 5.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "Y",
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "LAIS ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "10694",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "26112",
+                    "section": "0200",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "MIGLIO V G",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

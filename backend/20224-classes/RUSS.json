@@ -1,0 +1,301 @@
+{
+    "pageNumber": 1,
+    "pageSize": 100,
+    "total": 3,
+    "classes": [
+        {
+            "quarter": "20224",
+            "courseId": "RUSS      1  ",
+            "title": "ELEMENTARY RUSSIAN",
+            "contactHours": 40.0,
+            "description": "Comprehensive introduction to Russian. Focus on developing basic communicat ive skills (speaking, listening comprehension, reading, writing) within the framework of contemporary Russian culture. Students acquire a basic gramma tical framework for further language study. Audio, visual, and web-based ma terials included.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "RUSS    ",
+            "unitsFixed": 5.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "46193",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 13,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1349",
+                            "building": "ARTS",
+                            "roomCapacity": 54,
+                            "days": "M W F  ",
+                            "beginTime": "10:00",
+                            "endTime": "10:50"
+                        },
+                        {
+                            "room": "LINE",
+                            "building": "ON",
+                            "roomCapacity": 999,
+                            "days": "   R   ",
+                            "beginTime": "10:00",
+                            "endTime": "10:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "MCCLAIN K L",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "46201",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 9,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1349",
+                            "building": "ARTS",
+                            "roomCapacity": 54,
+                            "days": "M W F  ",
+                            "beginTime": "11:00",
+                            "endTime": "11:50"
+                        },
+                        {
+                            "room": "LINE",
+                            "building": "ON",
+                            "roomCapacity": 999,
+                            "days": "   R   ",
+                            "beginTime": "11:00",
+                            "endTime": "11:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "MCLELLAN L",
+                            "functionCode": "In charge but not teaching"
+                        },
+                        {
+                            "instructor": "CARTER M C",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "46219",
+                    "section": "0300",
+                    "session": null,
+                    "classClosed": "R",
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 8,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1224",
+                            "building": "HSSB",
+                            "roomCapacity": 26,
+                            "days": "M W F  ",
+                            "beginTime": "15:00",
+                            "endTime": "15:50"
+                        },
+                        {
+                            "room": "LINE",
+                            "building": "ON",
+                            "roomCapacity": 999,
+                            "days": "   R   ",
+                            "beginTime": "15:00",
+                            "endTime": "15:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "MCLELLAN L",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20224",
+            "courseId": "RUSS      4  ",
+            "title": "INTERMED RUSSIAN",
+            "contactHours": 40.0,
+            "description": "Focuses on developing fluency, expanding vocabulary, and acquiring basic re ading and writing skills. Comprehensive review of basic Russian grammar; in troduction to participles and verbal adverbs. Audio, video, and web-based m aterials are an integral part of the course.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "RUSS    ",
+            "unitsFixed": 5.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [
+                {
+                    "geCode": "B  ",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "H  ",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "46227",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 6,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1236",
+                            "building": "HSSB",
+                            "roomCapacity": 26,
+                            "days": "M W F  ",
+                            "beginTime": "14:00",
+                            "endTime": "14:50"
+                        },
+                        {
+                            "room": "LINE",
+                            "building": "ON",
+                            "roomCapacity": 999,
+                            "days": "   R   ",
+                            "beginTime": "14:00",
+                            "endTime": "14:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "MCLELLAN L",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20224",
+            "courseId": "RUSS    101D ",
+            "title": "ADVANCED RUSSIAN",
+            "contactHours": 40.0,
+            "description": "Continued development of oral and written fluency. Special attention to dev elopment of reading skills through a variety of texts related to Russian cu lture. Systematic review of advanced grammar. Compositions, translations, a nd oral presentations required. Periodic screenings of Russian films.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "RUSS    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "52282",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 4,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1224",
+                            "building": "HSSB",
+                            "roomCapacity": 26,
+                            "days": "M W    ",
+                            "beginTime": "11:00",
+                            "endTime": "12:15"
+                        },
+                        {
+                            "room": "1934",
+                            "building": "BUCHN",
+                            "roomCapacity": 25,
+                            "days": "    F  ",
+                            "beginTime": "11:00",
+                            "endTime": "11:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "MCLELLAN L",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

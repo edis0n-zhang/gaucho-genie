@@ -1,0 +1,617 @@
+{
+    "pageNumber": 1,
+    "pageSize": 100,
+    "total": 8,
+    "classes": [
+        {
+            "quarter": "20222",
+            "courseId": "LAIS     10  ",
+            "title": "INTRO TO LAIS WORLD",
+            "contactHours": 30.0,
+            "description": "Introduction to issues debates, and approaches in the study of Latin Americ a, Spain and Portugal, and the Latinx world, from an interdisciplinary pers pective. Topics considered include history, culture, society, and literatur e from various places and times.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "LAIS    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "LAIS ",
+            "generalEducation": [
+                {
+                    "geCode": "WRT",
+                    "geCollege": "ENGR"
+                },
+                {
+                    "geCode": "WRT",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "NWC",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "NWC",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "28894",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 94,
+                    "maxEnroll": 100,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1171",
+                            "building": "CHEM",
+                            "roomCapacity": 113,
+                            "days": " T R   ",
+                            "beginTime": "12:30",
+                            "endTime": "13:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "ATHAYDE M A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "28902",
+                    "section": "0101",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 22,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2129",
+                            "building": "GIRV",
+                            "roomCapacity": 40,
+                            "days": "M      ",
+                            "beginTime": "11:00",
+                            "endTime": "11:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "HOUSER A E",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "28910",
+                    "section": "0102",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 24,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1445",
+                            "building": "PHELP",
+                            "roomCapacity": 35,
+                            "days": "M      ",
+                            "beginTime": "14:00",
+                            "endTime": "14:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "ATHAYDE M A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "28928",
+                    "section": "0103",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 26,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1508",
+                            "building": "PHELP",
+                            "roomCapacity": 48,
+                            "days": "   R   ",
+                            "beginTime": "16:00",
+                            "endTime": "16:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "HOUSER A E",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "28936",
+                    "section": "0104",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 22,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2524",
+                            "building": "PHELP",
+                            "roomCapacity": 55,
+                            "days": "   R   ",
+                            "beginTime": "17:00",
+                            "endTime": "17:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "HOUSER A E",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "LAIS    102  ",
+            "title": "INT CULTR/LANG/LIT",
+            "contactHours": 30.0,
+            "description": "Issues pertinent to the diverse cultures, languages, and literatures of Lat in America and Iberia. Disciplines and approaches may include: pre-Columbia n studies, Spanish and Spanish American literatures, Portuguese and Brazili an literatures, translation studies, cultural, gender, and queer studies, r omance language and linguistics.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "LAIS    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "LAIS ",
+            "generalEducation": [
+                {
+                    "geCode": "WRT",
+                    "geCollege": "ENGR"
+                },
+                {
+                    "geCode": "G  ",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "G  ",
+                    "geCollege": "ENGR"
+                },
+                {
+                    "geCode": "WRT",
+                    "geCollege": "L&S "
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "51094",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 28,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1213",
+                            "building": "ED",
+                            "roomCapacity": 60,
+                            "days": " T R   ",
+                            "beginTime": "11:00",
+                            "endTime": "12:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "ATHAYDE M A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "LAIS    145  ",
+            "title": "SPAN FOR HEALTHCARE",
+            "contactHours": 30.0,
+            "description": "Designed for students interested in expanding and applying their knowledge of Spanish to the medical field. Students will learn and apply targeted voc abulary/grammar and develop bicultural/bilingual competency of healthcare i ssues in Hispanic countries and the US.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "LAIS    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "LAIS ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "51102",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 3,
+                    "maxEnroll": 5,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [
+                        "SPAN    145  0100"
+                    ],
+                    "timeLocations": [
+                        {
+                            "room": "1430",
+                            "building": "SH",
+                            "roomCapacity": 50,
+                            "days": "  W    ",
+                            "beginTime": "15:00",
+                            "endTime": "17:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "GONZALES-SMIT",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "LAIS    165  ",
+            "title": "ANDEAN LIT & CULTUR",
+            "contactHours": 30.0,
+            "description": "This course focuses on literature, music and culture of certain ethnic grou ps inhabiting the Andean region of South America including, but not limited to, the Aymara and Quechua peoples, their cosmovision and their languages. Through literary texts belonging to different genres, and through films, s pecial attention is placed on expressions of syncretism in seasonal festiva ls in which pre-Hispanic, European, and African music traditions and religi ons were shaped due to forced migration, wars and colonization. A strong em phasis on the ecological regions of the nations that share the Andean mount ain range contextualizes current indigenous movements of resistance against the degradation of its environment and the impact on its culture.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "LAIS    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "LAIS ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "51128",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 5,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [
+                        "SPAN    165  0100"
+                    ],
+                    "timeLocations": [
+                        {
+                            "room": "2124",
+                            "building": "GIRV",
+                            "roomCapacity": 30,
+                            "days": " T     ",
+                            "beginTime": "14:00",
+                            "endTime": "15:15"
+                        },
+                        {
+                            "room": "LINE",
+                            "building": "ON",
+                            "roomCapacity": 999,
+                            "days": "   R   ",
+                            "beginTime": "14:00",
+                            "endTime": "15:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "GONZALES-SMIT",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "LAIS    194  ",
+            "title": "SPAN AMER WOMEN WRI",
+            "contactHours": 30.0,
+            "description": "An introduction to nineteenth- and twentieth-century Spanish American women 's writings. Themes may include women's participation in the formation of n ational literatures, their engagement with a tradition of women's writing, and issues of authorship and authority.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "LAIS    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "LAIS ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "51136",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": "Y",
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 5,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [
+                        "SPAN    194  0100"
+                    ],
+                    "timeLocations": [
+                        {
+                            "room": "2124",
+                            "building": "GIRV",
+                            "roomCapacity": 30,
+                            "days": " T     ",
+                            "beginTime": "15:30",
+                            "endTime": "16:45"
+                        },
+                        {
+                            "room": "LINE",
+                            "building": "ON",
+                            "roomCapacity": 999,
+                            "days": "   R   ",
+                            "beginTime": "15:30",
+                            "endTime": "16:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "GONZALES-SMIT",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "LAIS    195A ",
+            "title": "SENIOR HONRS THESIS",
+            "contactHours": 30.0,
+            "description": "Individual study with the advisor for the purpose of writing a major interd isciplinary research paper on a topic of sufficient depth and sophisticatio n.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "LAIS    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": "I",
+            "inProgressCourse": "Y",
+            "gradingOption": "L",
+            "instructionType": "SEM",
+            "onLineCourse": false,
+            "deptCode": "LAIS ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "28985",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 5,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "LAIS    195B ",
+            "title": "SENIOR HONRS THESIS",
+            "contactHours": 30.0,
+            "description": "Individual study with the advisor for the purpose of writing a major interd isciplinary research paper on a topic of sufficient depth and sophisticatio n.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "LAIS    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": "I",
+            "inProgressCourse": "F",
+            "gradingOption": "L",
+            "instructionType": "SEM",
+            "onLineCourse": false,
+            "deptCode": "LAIS ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "28993",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 5,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "LAIS    199  ",
+            "title": "INDEPENDENT STUDIES",
+            "contactHours": 10.0,
+            "description": "The description of any one 199 must not be identical to any existing course description.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "LAIS    ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 5.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "LAIS ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "29009",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 5,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": true,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        }
+    ]
+}

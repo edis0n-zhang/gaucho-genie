@@ -1,0 +1,66 @@
+{
+    "pageNumber": 1,
+    "pageSize": 100,
+    "total": 1,
+    "classes": [
+        {
+            "quarter": "20231",
+            "courseId": "BIOE    120B ",
+            "title": "CELLULAR BIOENGR",
+            "contactHours": 30.0,
+            "description": "Introduces students to structural components of cells with application of e ngineering principles for analysis. Topics include: biomembrane structure a nd function, membrane proteins, membrane transport, intracellular compartme nts, intracellular trafficking, chemotaxis, cell cycle, apoptosis, and stem cells.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "BIOE    ",
+            "unitsFixed": 3.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "BENG ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "61242",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [
+                        "BIOE    220B 0100"
+                    ],
+                    "timeLocations": [
+                        {
+                            "room": "1109",
+                            "building": "NH",
+                            "roomCapacity": 48,
+                            "days": " T R   ",
+                            "beginTime": "11:00",
+                            "endTime": "12:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "STOWERS R S",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
