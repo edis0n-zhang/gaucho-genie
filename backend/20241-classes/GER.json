@@ -1,0 +1,1330 @@
+{
+    "pageNumber": 1,
+    "pageSize": 100,
+    "total": 15,
+    "classes": [
+        {
+            "quarter": "20241",
+            "courseId": "GER       1  ",
+            "title": "ELEMENTARY GERMAN",
+            "contactHours": 40.0,
+            "description": "Beginning course in German. Student acquires the basic   structure of the language, communicative skills, a limited   general vocabulary, correct pronunciation, and an ability   to read and understand simple cultural texts.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "GER     ",
+            "unitsFixed": 5.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "23945",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 30,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1448",
+                            "building": "PHELP",
+                            "roomCapacity": 35,
+                            "days": "MTWR   ",
+                            "beginTime": "13:00",
+                            "endTime": "13:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "PAJAK A K",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "23952",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": "Y",
+                    "courseCancelled": "C         ",
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "3316",
+                            "building": "ILP",
+                            "roomCapacity": 30,
+                            "days": "MTWR   ",
+                            "beginTime": "14:00",
+                            "endTime": "14:50"
+                        }
+                    ],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "51623",
+                    "section": "0300",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 28,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1445",
+                            "building": "PHELP",
+                            "roomCapacity": 35,
+                            "days": "MTWR   ",
+                            "beginTime": "10:00",
+                            "endTime": "10:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "PAJAK A K",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "GER       2  ",
+            "title": "ELEMENTARY GERMAN",
+            "contactHours": 40.0,
+            "description": "Continuation of German 1.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "GER     ",
+            "unitsFixed": 5.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [
+                {
+                    "geCode": "H  ",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "23960",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": "Y",
+                    "courseCancelled": "C         ",
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2127",
+                            "building": "GIRV",
+                            "roomCapacity": 31,
+                            "days": "MTWR   ",
+                            "beginTime": "09:00",
+                            "endTime": "09:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "WHITE K D",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "23978",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 19,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1444",
+                            "building": "PHELP",
+                            "roomCapacity": 35,
+                            "days": "MTWR   ",
+                            "beginTime": "10:00",
+                            "endTime": "10:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "SEYFERT A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "23986",
+                    "section": "0300",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 19,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1448",
+                            "building": "PHELP",
+                            "roomCapacity": 35,
+                            "days": "MTWR   ",
+                            "beginTime": "11:00",
+                            "endTime": "11:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "SEYFERT A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "23994",
+                    "section": "0400",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 24,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "3314",
+                            "building": "ILP",
+                            "roomCapacity": 30,
+                            "days": "MTWR   ",
+                            "beginTime": "13:00",
+                            "endTime": "13:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "WHITE K D",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "24000",
+                    "section": "0500",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 11,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "3310",
+                            "building": "ILP",
+                            "roomCapacity": 30,
+                            "days": "MTWR   ",
+                            "beginTime": "14:00",
+                            "endTime": "14:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "WHITE K D",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "51631",
+                    "section": "0600",
+                    "session": null,
+                    "classClosed": "Y",
+                    "courseCancelled": "C         ",
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "3316",
+                            "building": "ILP",
+                            "roomCapacity": 30,
+                            "days": "MTWR   ",
+                            "beginTime": "12:00",
+                            "endTime": "12:50"
+                        }
+                    ],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "GER       2G ",
+            "title": "INTRO READNG GERMAN",
+            "contactHours": 30.0,
+            "description": "Course is a continuation of German 1G, using the same approach, with reading texts on a more complex level.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "GER     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "DIS",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "24018",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 8,
+                    "maxEnroll": 15,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "G",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "6206C",
+                            "building": "PHELP",
+                            "roomCapacity": null,
+                            "days": "M W    ",
+                            "beginTime": "10:00",
+                            "endTime": "11:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "KOMMERELL G",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "GER       5  ",
+            "title": "INTERMEDIATE GERMAN",
+            "contactHours": 40.0,
+            "description": "Continuation of German 4.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "GER     ",
+            "unitsFixed": 5.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [
+                {
+                    "geCode": "B  ",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "H  ",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "24026",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 29,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "3314",
+                            "building": "ILP",
+                            "roomCapacity": 30,
+                            "days": "MTWR   ",
+                            "beginTime": "11:00",
+                            "endTime": "11:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "REDER E R",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "24034",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 18,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "3310",
+                            "building": "ILP",
+                            "roomCapacity": 30,
+                            "days": "MTWR   ",
+                            "beginTime": "13:00",
+                            "endTime": "13:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "SEYFERT A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "GER      35  ",
+            "title": "MAKING OF MOD WORLD",
+            "contactHours": 30.0,
+            "description": "Description and analysis of decisive events contributing to   the world we are inhabiting. Various themes presented: City   planning, war and industri al warfare, technology and media-  technology, ideologies of modernity, and modern master   theories.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "GER     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [
+                {
+                    "geCode": "E  ",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "WRT",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "E  ",
+                    "geCollege": "ENGR"
+                },
+                {
+                    "geCode": "WRT",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "24042",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 50,
+                    "maxEnroll": 50,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [
+                        "C LIT    35  0100"
+                    ],
+                    "timeLocations": [
+                        {
+                            "room": "1171",
+                            "building": "CHEM",
+                            "roomCapacity": 113,
+                            "days": " T R   ",
+                            "beginTime": "11:00",
+                            "endTime": "12:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "BERNARD A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "24059",
+                    "section": "0101",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 25,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2251",
+                            "building": "HSSB",
+                            "roomCapacity": 26,
+                            "days": "    F  ",
+                            "beginTime": "09:00",
+                            "endTime": "09:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "LECHINTAN A",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "24067",
+                    "section": "0102",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 25,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2251",
+                            "building": "HSSB",
+                            "roomCapacity": 26,
+                            "days": "    F  ",
+                            "beginTime": "10:00",
+                            "endTime": "10:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "LECHINTAN A",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "GER     101B ",
+            "title": "ADVANCED GERMAN",
+            "contactHours": 40.0,
+            "description": "Speaking, listening, reading, and writing on an advanced level, while exploring contemporary German culture. Systematic review of grammar material. Additional focus on vocabulary building. Written and oral discussions based on newspaper articles, literary texts, German films, and websites. Topics will vary by quarter.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "GER     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LAB",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "24075",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 12,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "Z",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "3312",
+                            "building": "ILP",
+                            "roomCapacity": 30,
+                            "days": "M W    ",
+                            "beginTime": "11:00",
+                            "endTime": "12:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "WHITE K D",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "24083",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 16,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "Z",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "3207",
+                            "building": "ILP",
+                            "roomCapacity": 30,
+                            "days": " T R   ",
+                            "beginTime": "12:30",
+                            "endTime": "13:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "REDER E R",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "GER     105C ",
+            "title": "ADV CONVERSATION",
+            "contactHours": 20.0,
+            "description": "Emphasizes interactional strategies needed for communication   in German, w hile also giving intermediate and advanced   students the opportunity to di scuss a wide variety of topics.   Not open to students with native fluency in German.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "GER     ",
+            "unitsFixed": 2.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "24091",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 20,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "4103",
+                            "building": "ILP",
+                            "roomCapacity": 30,
+                            "days": " T R   ",
+                            "beginTime": "10:00",
+                            "endTime": "10:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "KOMMERELL G",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "GER     107A ",
+            "title": "HISTORY OF CULTURE",
+            "contactHours": 30.0,
+            "description": "Careful and close readings from the cultural history of German speaking countries. Materials, which may be revised each academic year, include documents from literature, philosophy, art, music, architecture, science, politics, and law. Taught in German.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "GER     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "24109",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 20,
+                    "maxEnroll": 26,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2112",
+                            "building": "GIRV",
+                            "roomCapacity": 30,
+                            "days": "M W    ",
+                            "beginTime": "14:00",
+                            "endTime": "15:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "PAJAK A K",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "GER     113  ",
+            "title": "SPECIAL TOPICS",
+            "contactHours": 30.0,
+            "description": "In-depth study of special topics in literary texts of   German-speaking traditions.   Topics will vary by instructor. Topics may include: \"Science in German Literature,\" \"Literature and human   rights,\" \"Animals in literature,\" \"Literature and the   environment.\" Taught in German.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "GER     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "SEM",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "60236",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 11,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "3205",
+                            "building": "ILP",
+                            "roomCapacity": 30,
+                            "days": " T R   ",
+                            "beginTime": "11:00",
+                            "endTime": "12:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "KITTLER W D",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "GER     152  ",
+            "title": "DH PRACTICE",
+            "contactHours": 30.0,
+            "description": "In the 21st century, scholars have increasingly turned to computational met hods for the analysis of large corpora of art and literature. While early m ethods of \"distant reading\" and \"distant viewing\" could be realized with of f-the-shelf software, contemporary research in the digital humanities requi res technical skills beyond ready-made tools. This course provides an intro duction to computer programming for the humanities, including, but not limi ted to concepts from natural language processing, computer vision, and mach ine learning.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "GER     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [
+                {
+                    "geCode": "E  ",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "QNT",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "E  ",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "60244",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 15,
+                    "maxEnroll": 15,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [
+                        "C LIT   152  0100"
+                    ],
+                    "timeLocations": [
+                        {
+                            "room": "3312",
+                            "building": "ILP",
+                            "roomCapacity": 30,
+                            "days": "M W    ",
+                            "beginTime": "09:30",
+                            "endTime": "10:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "OFFERT F",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "GER     155  ",
+            "title": "CRITICAL AI",
+            "contactHours": 30.0,
+            "description": "Artificial intelligence now affects nearly all aspects of human life and kn owledge production, from labor to language, and from fundamental physics to the arts. The pivotal role of the humanities lies in the critical analysis of the specific cultural techniques emerging from this technical revolutio n: new methods of language processing, image production, scientific reasoni ng, and social control require new critical and historical approaches. This course provides an introduction to the history and theory of artificial in telligence from the perspective of the humanities. Participants will acquir e the skills to analyze and understand the design and construction of machi ne learning systems, and their philosophical and political implications.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "GER     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [
+                {
+                    "geCode": "E  ",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "E  ",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "24133",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 15,
+                    "maxEnroll": 15,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [
+                        "C LIT   155  0100"
+                    ],
+                    "timeLocations": [
+                        {
+                            "room": "3107",
+                            "building": "ILP",
+                            "roomCapacity": 30,
+                            "days": "M W    ",
+                            "beginTime": "12:30",
+                            "endTime": "13:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "OFFERT F",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "GER     164H ",
+            "title": "GER WRIT-HEIDEGGER",
+            "contactHours": 30.0,
+            "description": "A selection of Martin Heidegger's prolific philosophical oeuvre will be closely read and analyzed. Readings, lecture and discussion in English.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "GER     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [
+                {
+                    "geCode": "E  ",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "WRT",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "E  ",
+                    "geCollege": "ENGR"
+                },
+                {
+                    "geCode": "WRT",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "61358",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 14,
+                    "maxEnroll": 15,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2816",
+                            "building": "ELLSN",
+                            "roomCapacity": 18,
+                            "days": " T R   ",
+                            "beginTime": "09:30",
+                            "endTime": "10:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "VAGT C",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "GER     179C ",
+            "title": "MEDIATECHNOLOGY",
+            "contactHours": 30.0,
+            "description": "Telegraph, telephone, phonograph, and film are techniques that have engende red new forms of representation, communication, and thinking. Course studie s the impact of these transformations in literature and on literature. Taug ht in English.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "GER     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [
+                {
+                    "geCode": "G  ",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "WRT",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "G  ",
+                    "geCollege": "ENGR"
+                },
+                {
+                    "geCode": "WRT",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "61341",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 45,
+                    "maxEnroll": 46,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [
+                        "C LIT   179C 0100"
+                    ],
+                    "timeLocations": [
+                        {
+                            "room": "1104",
+                            "building": "HFH",
+                            "roomCapacity": 188,
+                            "days": " T R   ",
+                            "beginTime": "14:00",
+                            "endTime": "15:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "KITTLER W D",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "GER     197  ",
+            "title": "SR HONORS THESIS",
+            "contactHours": 30.0,
+            "description": "An independent study course (one to three quarters) directed by a faculty m ember with a carefully chosen topic and bibliography which will result in a documented project or a senior thesis.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "GER     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "24158",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "S",
+                    "restrictionMajor": "+GERM",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "GER     199  ",
+            "title": "INDEPENDENT STUDIES",
+            "contactHours": 10.0,
+            "description": "Individual investigations in literary fields.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "GER     ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 5.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "Y",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "GERSL",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "24166",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "79228",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "REDER E R",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

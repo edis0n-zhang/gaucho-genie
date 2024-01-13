@@ -1,0 +1,3366 @@
+{
+    "pageNumber": 1,
+    "pageSize": 100,
+    "total": 38,
+    "classes": [
+        {
+            "quarter": "20241",
+            "courseId": "THTR      1  ",
+            "title": "PLAY ANALYSIS",
+            "contactHours": 30.0,
+            "description": "Deep study of key concepts used in the analysis of plays in performance, in cluding story, action, genre, liveness, and experience. Includes study of e xemplary plays and performances.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [
+                {
+                    "geCode": "WRT",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "WRT",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "48082",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 76,
+                    "maxEnroll": 75,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+THTR",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1173",
+                            "building": "HSSB",
+                            "roomCapacity": 75,
+                            "days": "M W    ",
+                            "beginTime": "11:00",
+                            "endTime": "12:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "KING W D",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "48090",
+                    "section": "0101",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 19,
+                    "maxEnroll": 19,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+THTR",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1228",
+                            "building": "HSSB",
+                            "roomCapacity": 20,
+                            "days": " T     ",
+                            "beginTime": "14:00",
+                            "endTime": "14:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "ARCHER C L",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "48108",
+                    "section": "0102",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 18,
+                    "maxEnroll": 19,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+THTR",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2201",
+                            "building": "HSSB",
+                            "roomCapacity": 20,
+                            "days": "  W    ",
+                            "beginTime": "14:00",
+                            "endTime": "14:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "CABANISS M L",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "48116",
+                    "section": "0103",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 19,
+                    "maxEnroll": 19,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+THTR",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1236",
+                            "building": "HSSB",
+                            "roomCapacity": 20,
+                            "days": "  W    ",
+                            "beginTime": "15:00",
+                            "endTime": "15:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "CABANISS M L",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "48124",
+                    "section": "0104",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 20,
+                    "maxEnroll": 18,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+THTR",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1232",
+                            "building": "HSSB",
+                            "roomCapacity": 20,
+                            "days": "   R   ",
+                            "beginTime": "14:00",
+                            "endTime": "14:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "ARCHER C L",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR      5  ",
+            "title": "INTRO TO ACTING",
+            "contactHours": 20.0,
+            "description": "An introduction for majors and nonmajors to the multiple problems of the actor's art and craft.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": 3.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [
+                {
+                    "geCode": "F  ",
+                    "geCollege": "ENGR"
+                },
+                {
+                    "geCode": "F  ",
+                    "geCollege": "L&S "
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "48181",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 20,
+                    "maxEnroll": 18,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+DA   +THETR+THTR +DANCE",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1143",
+                            "building": "HSSB",
+                            "roomCapacity": null,
+                            "days": "M W    ",
+                            "beginTime": "09:00",
+                            "endTime": "10:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "LENZI DE ALME",
+                            "functionCode": "Teaching but not in charge"
+                        },
+                        {
+                            "instructor": "FISHELL J K",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "48199",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 21,
+                    "maxEnroll": 18,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+DA   +THETR+THTR +DANCE",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1143",
+                            "building": "HSSB",
+                            "roomCapacity": null,
+                            "days": "M W    ",
+                            "beginTime": "11:00",
+                            "endTime": "12:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "LENZI DE ALME",
+                            "functionCode": "Teaching but not in charge"
+                        },
+                        {
+                            "instructor": "FISHELL J K",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "48207",
+                    "section": "0300",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 18,
+                    "maxEnroll": 18,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+DA   +THETR+THTR +DANCE",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1143",
+                            "building": "HSSB",
+                            "roomCapacity": null,
+                            "days": "M W    ",
+                            "beginTime": "13:00",
+                            "endTime": "14:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "YOO E",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "FISHELL J K",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "48215",
+                    "section": "0400",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 18,
+                    "maxEnroll": 18,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+DA   +THETR+THTR +DANCE",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1143",
+                            "building": "HSSB",
+                            "roomCapacity": null,
+                            "days": "M W    ",
+                            "beginTime": "15:00",
+                            "endTime": "16:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "YOO E",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "FISHELL J K",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "48223",
+                    "section": "0500",
+                    "session": null,
+                    "classClosed": "Y",
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": null,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+DA   +THETR+THTR +DANCE",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1143",
+                            "building": "HSSB",
+                            "roomCapacity": null,
+                            "days": "M W    ",
+                            "beginTime": "17:00",
+                            "endTime": "18:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "FISHELL J K",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "48231",
+                    "section": "0600",
+                    "session": null,
+                    "classClosed": "Y",
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": null,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+DA   +THETR+THTR +DANCE",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1143",
+                            "building": "HSSB",
+                            "roomCapacity": null,
+                            "days": " T R   ",
+                            "beginTime": "08:00",
+                            "endTime": "09:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "FISHELL J K",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "48249",
+                    "section": "0700",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 20,
+                    "maxEnroll": 18,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+DA   +THETR+THTR +DANCE",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1143",
+                            "building": "HSSB",
+                            "roomCapacity": null,
+                            "days": " T R   ",
+                            "beginTime": "09:00",
+                            "endTime": "10:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "FANTON M R",
+                            "functionCode": "Teaching but not in charge"
+                        },
+                        {
+                            "instructor": "FISHELL J K",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "48256",
+                    "section": "0800",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 19,
+                    "maxEnroll": 18,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+DA   +THETR+THTR +DANCE",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1143",
+                            "building": "HSSB",
+                            "roomCapacity": null,
+                            "days": " T R   ",
+                            "beginTime": "11:00",
+                            "endTime": "12:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "FANTON M R",
+                            "functionCode": "Teaching but not in charge"
+                        },
+                        {
+                            "instructor": "FISHELL J K",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "48264",
+                    "section": "0900",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 21,
+                    "maxEnroll": 18,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+DA   +THETR+THTR +DANCE",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1143",
+                            "building": "HSSB",
+                            "roomCapacity": null,
+                            "days": " T R   ",
+                            "beginTime": "13:00",
+                            "endTime": "14:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "CHATTERJI A",
+                            "functionCode": "Teaching but not in charge"
+                        },
+                        {
+                            "instructor": "FISHELL J K",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "48272",
+                    "section": "1000",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 18,
+                    "maxEnroll": 18,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+DA   +THETR+THTR +DANCE",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1143",
+                            "building": "HSSB",
+                            "roomCapacity": null,
+                            "days": " T R   ",
+                            "beginTime": "15:00",
+                            "endTime": "16:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "CHATTERJI A",
+                            "functionCode": "Teaching but not in charge"
+                        },
+                        {
+                            "instructor": "FISHELL J K",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR     10B ",
+            "title": "MOVEMENT FOR STAGE",
+            "contactHours": 30.0,
+            "description": "Intense physical training designed to produce a neutral, dynamic, and expre ssive bodily instrument.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": 2.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LAB",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "48280",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 9,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": true,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+THTR",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1101",
+                            "building": "TD-E",
+                            "roomCapacity": null,
+                            "days": "M W    ",
+                            "beginTime": "15:30",
+                            "endTime": "16:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "STEIN D A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR     11B ",
+            "title": "VOICE LABORATORY",
+            "contactHours": 30.0,
+            "description": "A fundamental approach to voice for the actor with emphasis on vocal produc tion, articulation, and quality; plus physical relaxation techniques.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": 2.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "STD",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "48298",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 9,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+THTR",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1507",
+                            "building": "TD-W",
+                            "roomCapacity": null,
+                            "days": "M W    ",
+                            "beginTime": "09:30",
+                            "endTime": "10:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "MORGAN M",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR     15B ",
+            "title": "FUNDAMENTALS ACTING",
+            "contactHours": 40.0,
+            "description": "Development of the intermediate actor's foundational work in improvisation, technique, scene study, textual analysis, and characterization while explo ring creative capacity.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "STD",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "48306",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 9,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "A",
+                    "restrictionMajor": "+THTR",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1507",
+                            "building": "TD-W",
+                            "roomCapacity": null,
+                            "days": "M      ",
+                            "beginTime": "12:30",
+                            "endTime": "14:30"
+                        },
+                        {
+                            "room": "1507",
+                            "building": "TD-W",
+                            "roomCapacity": null,
+                            "days": "  W    ",
+                            "beginTime": "12:30",
+                            "endTime": "15:30"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "BENAVIDES-NEL",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR     25  ",
+            "title": "COSTUME DESIGN",
+            "contactHours": 40.0,
+            "description": "Exploration of basic elements and principles of theatre   costume design. Projects in the interpretation of plays   through costume elements with concentration on the design   process. Emphasis on figure drawing.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "54007",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 13,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1530",
+                            "building": "TD-W",
+                            "roomCapacity": null,
+                            "days": "   R   ",
+                            "beginTime": "10:00",
+                            "endTime": "12:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "BEHM A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR     29A ",
+            "title": "SCENIC PRACTICUM",
+            "contactHours": 30.0,
+            "description": "Empirical understanding of methods of assembly and materials for stage scenery. Shop organization and operation are experienced during the construction process.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": 1.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LAB",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "48322",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 5,
+                    "maxEnroll": 4,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+DA   +THETR+DANCE+THTR",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1119",
+                            "building": "TD-E",
+                            "roomCapacity": null,
+                            "days": " T R   ",
+                            "beginTime": "13:00",
+                            "endTime": "14:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "SHEFFIELD C A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "48330",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 4,
+                    "maxEnroll": 4,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+DA   +THETR+DANCE+THTR",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1119",
+                            "building": "TD-E",
+                            "roomCapacity": null,
+                            "days": " T R   ",
+                            "beginTime": "10:00",
+                            "endTime": "11:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "SHEFFIELD C A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR     29B ",
+            "title": "LIGHTING PRACTICUM",
+            "contactHours": 30.0,
+            "description": "Empirical understanding of optical properties of lightin units, available hanging positions and apparatus, lighting control, electrical safety and stage crew organization.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": 1.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LAB",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "48348",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 6,
+                    "maxEnroll": 4,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+DA   +THETR+DANCE+THTR",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": null,
+                            "building": null,
+                            "roomCapacity": null,
+                            "days": " T R   ",
+                            "beginTime": "13:00",
+                            "endTime": "14:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "SHEFFIELD C A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "48355",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 4,
+                    "maxEnroll": 4,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+DA   +THETR+DANCE+THTR",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": null,
+                            "building": null,
+                            "roomCapacity": null,
+                            "days": " T R   ",
+                            "beginTime": "15:00",
+                            "endTime": "16:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "SHEFFIELD C A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR     29C ",
+            "title": "COSTUME PRACTICUM",
+            "contactHours": 30.0,
+            "description": "Empirical understanding of methods of assembly and materials for stage dress. Costume shop organization and operation are experienced during the construction process.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": 1.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LAB",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "48363",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 6,
+                    "maxEnroll": 4,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1313",
+                            "building": "TD-E",
+                            "roomCapacity": null,
+                            "days": " T R   ",
+                            "beginTime": "13:00",
+                            "endTime": "14:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "SHEFFIELD C A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "48371",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 6,
+                    "maxEnroll": 4,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1313",
+                            "building": "TD-E",
+                            "roomCapacity": null,
+                            "days": " T R   ",
+                            "beginTime": "15:00",
+                            "endTime": "16:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "SHEFFIELD C A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR     29D ",
+            "title": "RUN CREW PRACTICUM",
+            "contactHours": 30.0,
+            "description": "Empirical understanding of backstage organization and operation during live performance.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": 1.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LAB",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "48389",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 80,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "74773",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 6,
+                    "maxEnroll": 80,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "SHEFFIELD C A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "75192",
+                    "section": "0300",
+                    "session": "00000002",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 2,
+                    "maxEnroll": 80,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "SHEFFIELD C A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "76125",
+                    "section": "0400",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 80,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "TORSIGLIERI A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "79483",
+                    "section": "0500",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 80,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "WHITED B S",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR     42  ",
+            "title": "I.V. LIVE",
+            "contactHours": 60.0,
+            "description": "This course produces a weekly performance series in Isla Vista.  Students get   first-hand experience in the rigors of theatrical production, as they learn to   execute all logistical, technical, and promotional details. The course is affiliated   with Isla Vista Arts (www.islavista-arts.org).",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": 2.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "FLD",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "48397",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 6,
+                    "maxEnroll": 8,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "L",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [
+                        "THTR    142  0100"
+                    ],
+                    "timeLocations": [
+                        {
+                            "room": "2609",
+                            "building": "TD-E",
+                            "roomCapacity": null,
+                            "days": " T     ",
+                            "beginTime": "10:00",
+                            "endTime": "10:50"
+                        },
+                        {
+                            "room": "HALL",
+                            "building": "EMBAR",
+                            "roomCapacity": 247,
+                            "days": "    F  ",
+                            "beginTime": "18:00",
+                            "endTime": "23:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "KIMBALL G R",
+                            "functionCode": "Teaching but not in charge"
+                        },
+                        {
+                            "instructor": "BRAININ R",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR     49  ",
+            "title": "THEATER WORKSHOP",
+            "contactHours": 30.0,
+            "description": "Projects in costume, scenery, lighting, acting, directing.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 6.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LAB",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "48405",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 100,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": true,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "L",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR     94  ",
+            "title": "GRP ST LD STUDENTS",
+            "contactHours": 20.0,
+            "description": "Special opportunities for study, research, and project preparation.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 4.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LAB",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "48413",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "L",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR    104A ",
+            "title": "PLAYWRITING WKSHP",
+            "contactHours": 40.0,
+            "description": "An exploration of the essential components of playwriting.   Exercises focu s on writing dialogue, monologue, creating three-dimensional characters, bu ilding effective story structures, and developing action through language a nd stage images. A series of written assignments.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "63495",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": "Y",
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 10,
+                    "maxEnroll": 12,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1507",
+                            "building": "TD-W",
+                            "roomCapacity": null,
+                            "days": "    F  ",
+                            "beginTime": "10:00",
+                            "endTime": "12:50"
+                        }
+                    ],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR    104C ",
+            "title": "ENSEMBLE DEVISING",
+            "contactHours": 40.0,
+            "description": "Open to playwrights, dancers, directors, actors, and designers. A series of written and ensemble performance-based assignments in which small groups e xplore different ways of generating and staging new material.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "54072",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 18,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1101",
+                            "building": "TD-E",
+                            "roomCapacity": null,
+                            "days": "M W    ",
+                            "beginTime": "11:00",
+                            "endTime": "12:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "BERNARD M A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR    110B ",
+            "title": "ADV MOVEMENT STAGE",
+            "contactHours": 30.0,
+            "description": "A continuation of the Theater 10 series with increased focus on physical ch aracterization and technical skills.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": 2.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "STD",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "48439",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 10,
+                    "maxEnroll": 15,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+THTR",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1101",
+                            "building": "TD-E",
+                            "roomCapacity": null,
+                            "days": "M W    ",
+                            "beginTime": "13:00",
+                            "endTime": "14:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "STEIN D A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR    110D ",
+            "title": "ADV PERFORMANCE PRJ",
+            "contactHours": 40.0,
+            "description": "Advanced studio projects utilizing the actor's physical and vocal skills to develop original theater.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": 3.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LAB",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "48447",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": "Y",
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": null,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+THTR",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1101",
+                            "building": "TD-E",
+                            "roomCapacity": null,
+                            "days": " T R   ",
+                            "beginTime": "11:00",
+                            "endTime": "13:50"
+                        }
+                    ],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR    111B ",
+            "title": "ADV VOICE LAB",
+            "contactHours": 10.0,
+            "description": "Advanced problems in voice for the actor with continued emphasis on craft, plus the creative and expressive uses of the voice with the body.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": 2.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LAB",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "48454",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 10,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": true,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+THTR",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1507",
+                            "building": "TD-W",
+                            "roomCapacity": null,
+                            "days": "M W    ",
+                            "beginTime": "11:00",
+                            "endTime": "12:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "MORGAN M",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR    123  ",
+            "title": "ADV STG LIGHT DES",
+            "contactHours": 10.0,
+            "description": "Lecture-demonstration of controllable properties and   functions of light. Includes technical drawing: light   plots, scheduling and organization for lighting design,   drawing using light and shadow, perspective drawing. Practical application through studio exercise.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 4.0,
+            "unitsVariableLow": 2.0,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "54080",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 18,
+                    "maxEnroll": 20,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1530",
+                            "building": "TD-W",
+                            "roomCapacity": null,
+                            "days": "M W    ",
+                            "beginTime": "13:00",
+                            "endTime": "14:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "SCOTT V",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "54098",
+                    "section": "0101",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 18,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1530",
+                            "building": "TD-W",
+                            "roomCapacity": null,
+                            "days": "M W    ",
+                            "beginTime": "13:00",
+                            "endTime": "14:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "SCOTT V",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR    133A ",
+            "title": "HISTORY COSTUME I",
+            "contactHours": 40.0,
+            "description": "A survey of the development of western clothing and costume from Biblical times to the Restoration as related to the changing patterns of culture. Short survey of non-Western clothing and costume.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "66761",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 13,
+                    "maxEnroll": 15,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1530",
+                            "building": "TD-W",
+                            "roomCapacity": null,
+                            "days": " T     ",
+                            "beginTime": "10:00",
+                            "endTime": "12:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "BEHM A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR    140A ",
+            "title": "ADV ACTING WKSHOP I",
+            "contactHours": 40.0,
+            "description": "Advanced exploration, performances, and criticism of scenes from a broad ra nge of dramatic scripts with focus on the actor's perspective.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "48470",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": "Y",
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": null,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1703",
+                            "building": "TD-W",
+                            "roomCapacity": null,
+                            "days": "M W    ",
+                            "beginTime": "15:00",
+                            "endTime": "16:50"
+                        }
+                    ],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR    142  ",
+            "title": "I.V. LIVE",
+            "contactHours": 60.0,
+            "description": "This course produces a weekly performance series in Isla Vista. Students get   first-hand experience in the rigors of theatrical production, as they learn to   execute all logistical, technical and promotional details. The course is affiliated   with Isla Vista Arts (www.islavista-arts.org).",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": 2.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "FLD",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "48488",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 12,
+                    "maxEnroll": 12,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [
+                        "THTR     42  0100"
+                    ],
+                    "timeLocations": [
+                        {
+                            "room": "2609",
+                            "building": "TD-E",
+                            "roomCapacity": null,
+                            "days": " T     ",
+                            "beginTime": "10:00",
+                            "endTime": "10:50"
+                        },
+                        {
+                            "room": "HALL",
+                            "building": "EMBAR",
+                            "roomCapacity": 247,
+                            "days": "    F  ",
+                            "beginTime": "18:00",
+                            "endTime": "23:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "KIMBALL G R",
+                            "functionCode": "Teaching but not in charge"
+                        },
+                        {
+                            "instructor": "BRAININ R",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR    149  ",
+            "title": "THEATRE WORKSHOP",
+            "contactHours": 30.0,
+            "description": "Projects in costume, scenery, lighting, acting, directing.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 6.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LAB",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "48496",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 100,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": true,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "63768",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 4,
+                    "maxEnroll": 100,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": true,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "BRAININ R",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "63859",
+                    "section": "0300",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 14,
+                    "maxEnroll": 100,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": true,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "SHEFFIELD C A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "67959",
+                    "section": "0400",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 2,
+                    "maxEnroll": 100,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": true,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "MITCHELL G M",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "70284",
+                    "section": "0500",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 2,
+                    "maxEnroll": 100,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": true,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "SCOTT V",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "75200",
+                    "section": "0600",
+                    "session": "00000002",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 100,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": true,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "SHEFFIELD C A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "75721",
+                    "section": "0700",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 2,
+                    "maxEnroll": 100,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": true,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "FISHELL J K",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "76570",
+                    "section": "0800",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 100,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": true,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "TORSIGLIERI A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "81158",
+                    "section": "0900",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 9,
+                    "maxEnroll": 100,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": true,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "BENAVIDES-NEL",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR    151B ",
+            "title": "ADVANCED ACTING",
+            "contactHours": 40.0,
+            "description": "Scene work and exercises exploring various acting styles which may include Shakespeare, Boal, Artaud, Greek, period comedy and farce, and Absurd.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "STD",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "48504",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 10,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+THTR",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1507",
+                            "building": "TD-W",
+                            "roomCapacity": null,
+                            "days": " T     ",
+                            "beginTime": "12:00",
+                            "endTime": "13:50"
+                        },
+                        {
+                            "room": "1507",
+                            "building": "TD-W",
+                            "roomCapacity": null,
+                            "days": "   R   ",
+                            "beginTime": "12:00",
+                            "endTime": "14:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "FISHELL J K",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR    151D ",
+            "title": "MODERN TRENDS",
+            "contactHours": 40.0,
+            "description": "Study and performance of contemporary acting developments.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "STD",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "48512",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 9,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+THTR",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1703",
+                            "building": "TD-W",
+                            "roomCapacity": null,
+                            "days": "M      ",
+                            "beginTime": "11:00",
+                            "endTime": "12:50"
+                        },
+                        {
+                            "room": "1703",
+                            "building": "TD-W",
+                            "roomCapacity": null,
+                            "days": "  W    ",
+                            "beginTime": "10:00",
+                            "endTime": "12:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "TORSIGLIERI A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR    151S ",
+            "title": "SR ONE-PERSON SHOW",
+            "contactHours": 40.0,
+            "description": "Individually researched performance projects.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": 3.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "78790",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 9,
+                    "maxEnroll": 15,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1101",
+                            "building": "TD-E",
+                            "roomCapacity": null,
+                            "days": " T     ",
+                            "beginTime": "11:00",
+                            "endTime": "13:50"
+                        },
+                        {
+                            "room": "1101",
+                            "building": "TD-E",
+                            "roomCapacity": null,
+                            "days": "   R   ",
+                            "beginTime": "11:00",
+                            "endTime": "12:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "STEIN D A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR    152B ",
+            "title": "TECHNIQUES DIRECTNG",
+            "contactHours": 40.0,
+            "description": "Laboratory in directorial scene work. Students take on scenes from contempo rary plays. Focus is on text analysis, visual storytelling, and collaborati on with actors.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "48520",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 8,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1101",
+                            "building": "TD-E",
+                            "roomCapacity": null,
+                            "days": " T R   ",
+                            "beginTime": "15:00",
+                            "endTime": "16:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "BRAININ R",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR    153P ",
+            "title": "DESIGN & PRODUCTION",
+            "contactHours": 30.0,
+            "description": "Special projects in each area of concentration.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 6.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "Y",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "STD",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "48538",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "77487",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "SHEFFIELD C A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "81505",
+                    "section": "0300",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "SCOTT V",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR    160C ",
+            "title": "APPLIED TH. BASICS",
+            "contactHours": 40.0,
+            "description": "The Artist as Activist Basics introduces the student to the fundamentals of Applied Theater through examination of theory, history and imagining as a preparation for application and fieldwork. The course prepares the student to implement a project in the community. The project can be teaching or per formance based. In addition to developing as researchers and theater activi sts, students will learn about the producing, promotional and ethical dimen sions of self-starting a Theater & Community initiative.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "48546",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 8,
+                    "maxEnroll": 12,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": "+THTR",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1703",
+                            "building": "TD-W",
+                            "roomCapacity": null,
+                            "days": "M W    ",
+                            "beginTime": "13:00",
+                            "endTime": "14:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "MORGAN M",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR    187MU",
+            "title": "EXPERIMENT CREATE",
+            "contactHours": 30.0,
+            "description": "Through creative arts practices, analysis, workshops and new performance, t his course explores processes of transformation and translation of traces o f memories and experiences into provocative art works. Experimental perform ance practices encompass theatrical, movement based, sonic, music-based and visual arts.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "48587",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 11,
+                    "maxEnroll": 9,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [
+                        "MUS     168P 0100"
+                    ],
+                    "timeLocations": [
+                        {
+                            "room": "1703",
+                            "building": "TD-W",
+                            "roomCapacity": null,
+                            "days": " T     ",
+                            "beginTime": "14:00",
+                            "endTime": "16:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "HELLIER R",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR    188D ",
+            "title": "HISTORY OF DIR",
+            "contactHours": 30.0,
+            "description": "Special topics in the history of directing.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "54114",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 58,
+                    "maxEnroll": 60,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1425",
+                            "building": "PHELP",
+                            "roomCapacity": 65,
+                            "days": " T R   ",
+                            "beginTime": "12:30",
+                            "endTime": "13:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "BREMSER C R",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR    188S ",
+            "title": "SHAKESPEARE",
+            "contactHours": 30.0,
+            "description": "An investigation of Shakespeare's plays through the media of performance; viewing of Shakespearean productions on film and videotape, in calssroom rehearsal, and in stage performances as available; reading and critical analysis of selected Shakespearean plays.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [
+                {
+                    "geCode": "WRT",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "F  ",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "F  ",
+                    "geCollege": "ENGR"
+                },
+                {
+                    "geCode": "WRT",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "54130",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 60,
+                    "maxEnroll": 60,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1213",
+                            "building": "ED",
+                            "roomCapacity": 60,
+                            "days": " T R   ",
+                            "beginTime": "11:00",
+                            "endTime": "12:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "GARCIA DAHAN",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR    190  ",
+            "title": "PRODUCTION ADMIN",
+            "contactHours": null,
+            "description": "Workshop for advanced students functioning as assistants to directors, designers, and technical directors. portfolio, promptbook, or paper required.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": 3.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "48595",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "78683",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "BRAININ R",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR    193H ",
+            "title": "SR HONORS PROJECT",
+            "contactHours": 40.0,
+            "description": "Senior honors project. Advanced thesis project in either academic researchor creative activity, supervised by a faculty adviser. Students successfully completing the project, as evalutated by a three-person committee, will graduate with distinction in the major.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "48603",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 5,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "S",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR    193HB",
+            "title": "SR HONORS PROJECT",
+            "contactHours": 20.0,
+            "description": "Senior honors project. Advanced thesis project in either academic research or creative activity, supervised by a faculty advisor. Students successfully completing the project, as evaluated by a three-person committee, will graduate with distinction in the major.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 4.0,
+            "unitsVariableLow": 2.0,
+            "delayedSectioning": "I",
+            "inProgressCourse": "Y",
+            "gradingOption": "L",
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "48611",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "S",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "75713",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "S",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "STEIN D A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "75739",
+                    "section": "0300",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 2,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "S",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "BRAININ R",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "76588",
+                    "section": "0400",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "S",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "TORSIGLIERI A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR    194D ",
+            "title": "GRP STUDIES: DESIGN",
+            "contactHours": 10.0,
+            "description": "Intensive study, research, and project preparation in theatrical design.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 4.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "48637",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 4,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1530",
+                            "building": "TD-W",
+                            "roomCapacity": null,
+                            "days": "M W    ",
+                            "beginTime": "15:00",
+                            "endTime": "16:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "MITCHELL G M",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR    195P ",
+            "title": "STG MANAGEMENT PRAC",
+            "contactHours": 80.0,
+            "description": "Production oriented course allowing student practical experience in stage m anagement training. Student will serve as assistant stage manager or stagem anager for a main stage or student directed departmental production.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 4.0,
+            "unitsVariableLow": 2.0,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LAB",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "48645",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 15,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "71282",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 6,
+                    "maxEnroll": 15,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "HERRERA D J",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "THTR    199  ",
+            "title": "INDEPENDENT STUDIES",
+            "contactHours": null,
+            "description": "Independent studies in theater.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "THTR    ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 5.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "Y",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "THTDA",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "48652",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 35,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "63867",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 2,
+                    "maxEnroll": 35,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "SHEFFIELD C A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "75085",
+                    "section": "0300",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 35,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "MCCARTHY C R",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "77230",
+                    "section": "0400",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 35,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "ENDERS J",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "78014",
+                    "section": "0500",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 35,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "GARCIA DAHAN",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "79814",
+                    "section": "0600",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 35,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "BRAININ R",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

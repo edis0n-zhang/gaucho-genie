@@ -1,0 +1,3415 @@
+{
+    "pageNumber": 1,
+    "pageSize": 100,
+    "total": 35,
+    "classes": [
+        {
+            "quarter": "20241",
+            "courseId": "COMM      1  ",
+            "title": "INTRO COMMUNICATION",
+            "contactHours": 30.0,
+            "description": "An introduction to the basic concepts and principles in the field of commun ication. Contexts include intrapersonal, interpersonal, intercultural, publ ic, small group, organizational, and mass communication.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 5.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [
+                {
+                    "geCode": "WRT",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "WRT",
+                    "geCollege": "ENGR"
+                },
+                {
+                    "geCode": "D  ",
+                    "geCollege": "ENGR"
+                },
+                {
+                    "geCode": "D  ",
+                    "geCollege": "L&S "
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "09175",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 373,
+                    "maxEnroll": 371,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "THEA1",
+                            "building": "IV",
+                            "roomCapacity": 529,
+                            "days": " T R   ",
+                            "beginTime": "12:30",
+                            "endTime": "13:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "TRUSCELLI N I",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "09183",
+                    "section": "0101",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 25,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2120",
+                            "building": "GIRV",
+                            "roomCapacity": 29,
+                            "days": "    F  ",
+                            "beginTime": "08:00",
+                            "endTime": "08:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "KUHLMAN J",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "09191",
+                    "section": "0102",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 26,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2115",
+                            "building": "GIRV",
+                            "roomCapacity": 30,
+                            "days": "    F  ",
+                            "beginTime": "09:00",
+                            "endTime": "09:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "KUHLMAN J",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "09209",
+                    "section": "0103",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 25,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2112",
+                            "building": "GIRV",
+                            "roomCapacity": 30,
+                            "days": "    F  ",
+                            "beginTime": "10:00",
+                            "endTime": "10:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "WANG YIFEI",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "09217",
+                    "section": "0104",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 25,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2112",
+                            "building": "GIRV",
+                            "roomCapacity": 30,
+                            "days": "    F  ",
+                            "beginTime": "09:00",
+                            "endTime": "09:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "WANG YIFEI",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "09225",
+                    "section": "0105",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 25,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2120",
+                            "building": "GIRV",
+                            "roomCapacity": 29,
+                            "days": "    F  ",
+                            "beginTime": "10:00",
+                            "endTime": "10:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "KUHLMAN J",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "09233",
+                    "section": "0106",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 25,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2119",
+                            "building": "GIRV",
+                            "roomCapacity": 30,
+                            "days": "    F  ",
+                            "beginTime": "11:00",
+                            "endTime": "11:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "LEN S M",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "09241",
+                    "section": "0107",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 25,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2119",
+                            "building": "GIRV",
+                            "roomCapacity": 30,
+                            "days": "    F  ",
+                            "beginTime": "12:00",
+                            "endTime": "12:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "LEN S M",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "09258",
+                    "section": "0108",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 26,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2120",
+                            "building": "GIRV",
+                            "roomCapacity": 29,
+                            "days": "    F  ",
+                            "beginTime": "11:00",
+                            "endTime": "11:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "HWANG G",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "09266",
+                    "section": "0109",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 25,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2112",
+                            "building": "GIRV",
+                            "roomCapacity": 30,
+                            "days": "    F  ",
+                            "beginTime": "13:00",
+                            "endTime": "13:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "WILKENFELD N",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "09274",
+                    "section": "0110",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 25,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2116",
+                            "building": "GIRV",
+                            "roomCapacity": 30,
+                            "days": "    F  ",
+                            "beginTime": "12:00",
+                            "endTime": "12:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "HWANG G",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "09282",
+                    "section": "0111",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 24,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2120",
+                            "building": "GIRV",
+                            "roomCapacity": 29,
+                            "days": "    F  ",
+                            "beginTime": "13:00",
+                            "endTime": "13:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "HWANG G",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "09290",
+                    "section": "0112",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 25,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2115",
+                            "building": "GIRV",
+                            "roomCapacity": 30,
+                            "days": "    F  ",
+                            "beginTime": "14:00",
+                            "endTime": "14:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "LEN S M",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "56184",
+                    "section": "0113",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 25,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2112",
+                            "building": "GIRV",
+                            "roomCapacity": 30,
+                            "days": "    F  ",
+                            "beginTime": "14:00",
+                            "endTime": "14:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "WILKENFELD N",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "56176",
+                    "section": "0114",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 24,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2115",
+                            "building": "GIRV",
+                            "roomCapacity": 30,
+                            "days": "    F  ",
+                            "beginTime": "15:00",
+                            "endTime": "15:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "WANG YIFEI",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "56192",
+                    "section": "0115",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 23,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2112",
+                            "building": "GIRV",
+                            "roomCapacity": 30,
+                            "days": "    F  ",
+                            "beginTime": "15:00",
+                            "endTime": "15:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "WILKENFELD N",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM     87  ",
+            "title": "STAT ANALY COMM",
+            "contactHours": 30.0,
+            "description": "An introduction to basic statistical concepts and applications in communica tion research. Through lecture and computer labs, students are exposed to t he principles and procedures involved in quantitative data analysis.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 5.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [
+                {
+                    "geCode": "C  ",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "QNT",
+                    "geCollege": "L&S "
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "09308",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 74,
+                    "maxEnroll": 75,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1902",
+                            "building": "PSYCH",
+                            "roomCapacity": 77,
+                            "days": " T R   ",
+                            "beginTime": "11:00",
+                            "endTime": "12:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "WEBER R",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "09316",
+                    "section": "0101",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 25,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1304",
+                            "building": "SSMS",
+                            "roomCapacity": 25,
+                            "days": "    F  ",
+                            "beginTime": "14:00",
+                            "endTime": "15:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "WOODMAN K S",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "09324",
+                    "section": "0102",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 25,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1304",
+                            "building": "SSMS",
+                            "roomCapacity": 25,
+                            "days": "    F  ",
+                            "beginTime": "08:00",
+                            "endTime": "09:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "WOODMAN K S",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "09332",
+                    "section": "0103",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 24,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1304",
+                            "building": "SSMS",
+                            "roomCapacity": 25,
+                            "days": "    F  ",
+                            "beginTime": "10:00",
+                            "endTime": "11:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "WOODMAN K S",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM     88  ",
+            "title": "COMM RESEARCH METH",
+            "contactHours": 30.0,
+            "description": "An introduction to social scientific research methods in the study of commu nication. Important issues in conducting research are examined in the conte xts of survey research, experimental design, content analysis, and qualitat ive research.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 5.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "09340",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 180,
+                    "maxEnroll": 178,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1004",
+                            "building": "GIRV",
+                            "roomCapacity": 206,
+                            "days": " T R   ",
+                            "beginTime": "08:00",
+                            "endTime": "09:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "TRUSCELLI N I",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "09357",
+                    "section": "0101",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 30,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "3207",
+                            "building": "ILP",
+                            "roomCapacity": 30,
+                            "days": "    F  ",
+                            "beginTime": "08:00",
+                            "endTime": "09:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "GONZALES C E",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "09365",
+                    "section": "0102",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 30,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "3211",
+                            "building": "ILP",
+                            "roomCapacity": 30,
+                            "days": "    F  ",
+                            "beginTime": "10:00",
+                            "endTime": "11:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "CHAN C",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "09373",
+                    "section": "0103",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 30,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "3312",
+                            "building": "ILP",
+                            "roomCapacity": 30,
+                            "days": "    F  ",
+                            "beginTime": "09:00",
+                            "endTime": "10:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "WANG L H",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "09381",
+                    "section": "0104",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 30,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "3310",
+                            "building": "ILP",
+                            "roomCapacity": 30,
+                            "days": "    F  ",
+                            "beginTime": "11:00",
+                            "endTime": "12:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "WANG L H",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "09399",
+                    "section": "0105",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 30,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "3209",
+                            "building": "ILP",
+                            "roomCapacity": 30,
+                            "days": "    F  ",
+                            "beginTime": "10:00",
+                            "endTime": "11:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "GONZALES C E",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "09407",
+                    "section": "0106",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 30,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2127",
+                            "building": "GIRV",
+                            "roomCapacity": 31,
+                            "days": "    F  ",
+                            "beginTime": "12:00",
+                            "endTime": "13:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "CHAN C",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM     89  ",
+            "title": "THEORIES OF COMM",
+            "contactHours": 30.0,
+            "description": "An introduction to major theories and theoretical influences in the field o f communication. Theories are examined in the areas of verbal and nonverbal messages, cognition and persuasion, and the contexts of interpersonal, int ercultural, small group, organizational, and mass communication.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 5.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "09456",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 178,
+                    "maxEnroll": 178,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1004",
+                            "building": "GIRV",
+                            "roomCapacity": 206,
+                            "days": "M W    ",
+                            "beginTime": "09:30",
+                            "endTime": "10:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "MEROLLA A J",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "09464",
+                    "section": "0101",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 33,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1353",
+                            "building": "ARTS",
+                            "roomCapacity": 54,
+                            "days": "   R   ",
+                            "beginTime": "16:00",
+                            "endTime": "17:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "KIM K",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "09472",
+                    "section": "0102",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 30,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2127",
+                            "building": "GIRV",
+                            "roomCapacity": 31,
+                            "days": "    F  ",
+                            "beginTime": "08:00",
+                            "endTime": "09:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "CAVANESS S A",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "09480",
+                    "section": "0103",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 28,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "4105",
+                            "building": "ILP",
+                            "roomCapacity": 30,
+                            "days": "   R   ",
+                            "beginTime": "18:00",
+                            "endTime": "19:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "KIM K",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "09498",
+                    "section": "0104",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 30,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "3207",
+                            "building": "ILP",
+                            "roomCapacity": 30,
+                            "days": "    F  ",
+                            "beginTime": "10:00",
+                            "endTime": "11:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "CAVANESS S A",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "09506",
+                    "section": "0105",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 27,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "4103",
+                            "building": "ILP",
+                            "roomCapacity": 30,
+                            "days": "   R   ",
+                            "beginTime": "18:00",
+                            "endTime": "19:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "SALEHUDDIN A",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "09514",
+                    "section": "0106",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 30,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM",
+                    "restrictionMajorPass": "1",
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2127",
+                            "building": "GIRV",
+                            "roomCapacity": 31,
+                            "days": "    F  ",
+                            "beginTime": "10:00",
+                            "endTime": "11:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "SALEHUDDIN A",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM     99RA",
+            "title": "INDEP RESEARCH ASST",
+            "contactHours": 10.0,
+            "description": "Coursework consists of faculty supervised research   assistance.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 5.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "Y",
+            "inProgressCourse": null,
+            "gradingOption": "P",
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "09522",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 60,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM+COMM",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "80911",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 60,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM+COMM",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "LEONARDI P M",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "80929",
+                    "section": "0300",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 60,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM+COMM",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "METZGER M J",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "80945",
+                    "section": "0400",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 60,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM+COMM",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "LANE D S",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "81000",
+                    "section": "0500",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 60,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCOM+COMM",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "KAM J A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    106  ",
+            "title": "SMALL GROUP COMM",
+            "contactHours": 30.0,
+            "description": "Theory and research in communication in groups, teams,  and   work units in a variety  of organizational contexts. Includes   sections in which students observe and analyze communication   processes in small group projects and exercises.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "09548",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 78,
+                    "maxEnroll": 79,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "Z",
+                    "restrictionMajor": "+COMM +INTST",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2211",
+                            "building": "ILP",
+                            "roomCapacity": 100,
+                            "days": "M W    ",
+                            "beginTime": "12:30",
+                            "endTime": "13:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "KIM YOUNG JI",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "HUANG Q",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    108  ",
+            "title": "CORP SOC RESPONS",
+            "contactHours": 30.0,
+            "description": "Examines 1) the ways in which global expectations regarding   organizationa l behavior toward employees, communities, and   the environment are changin g and 2) the communicative   challenges and opportunities businesses and di verse   stakeholder groups face as they strive to make contemporary   organ izations socially responsible.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "09555",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 54,
+                    "maxEnroll": 50,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "Z",
+                    "restrictionMajor": "+COMM +INTST",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1349",
+                            "building": "ARTS",
+                            "roomCapacity": 54,
+                            "days": "M W    ",
+                            "beginTime": "14:00",
+                            "endTime": "15:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "NAVICK N",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    111  ",
+            "title": "NONVERBAL COMM",
+            "contactHours": 30.0,
+            "description": "Review of theories and empirical research on structure and   function of nonverbal messages in interaction, including body   and facial gestures, paralinguistics, touch, territory,   environment, and physical appearance. Students conduct and   report original studies or applied research projects on   nonverbal communication.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "56200",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 160,
+                    "maxEnroll": 160,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "Z",
+                    "restrictionMajor": "+COMM +INTST",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1101",
+                            "building": "ILP",
+                            "roomCapacity": 175,
+                            "days": "M W    ",
+                            "beginTime": "12:30",
+                            "endTime": "13:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "MEROLLA A J",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "MALIK M I",
+                            "functionCode": "Teaching but not in charge"
+                        },
+                        {
+                            "instructor": "CRAWLEY A",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    117  ",
+            "title": "PERSUASION",
+            "contactHours": 30.0,
+            "description": "Analysis and synthesis of current persuasion theory to   understand how messages influence attitudes and behaviors.   Topics covered include: theories for altering attitudes and   behaviors, the persuasion process, and the use of persuasion   in applied contexts.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "09589",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 83,
+                    "maxEnroll": 80,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "Z",
+                    "restrictionMajor": "+COMM +INTST",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1100",
+                            "building": "WEBB",
+                            "roomCapacity": 92,
+                            "days": "M W    ",
+                            "beginTime": "12:30",
+                            "endTime": "13:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "NABI R L",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "MILLER L B",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    118  ",
+            "title": "SOC/HIST EVOL TECHS",
+            "contactHours": 30.0,
+            "description": "This course is about how technologies and people have evolved together over time. Although we are surrounded by technologies in our daily lives we rar ely consider the tremendous impacts they are having on us, the complex hist orical circumstances that result in the adoption and use of particular tool s, and the complicated relations between technologies and society. The inte ntion is to understand the social and historical co-evolution of technologi es by examining theories of human behavior and society as well as research evidence in these domains. Ultimately, the goal is to generate a complete a nd contextualized understanding of technologies and social relations that i s both historically rich and currently relevant.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "09597",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": "Y",
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 66,
+                    "maxEnroll": 79,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "Z",
+                    "restrictionMajor": "+COMM +INTST",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1001",
+                            "building": "BIOEN",
+                            "roomCapacity": 97,
+                            "days": "M W    ",
+                            "beginTime": "09:30",
+                            "endTime": "10:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "FLANAGIN A J",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    124  ",
+            "title": "FAMILY COMM",
+            "contactHours": 30.0,
+            "description": "Communication strategies and patterns of interaction in family relationships. Topics include closeness and affection,   disclosure, sibling interaction, adolescence, parenting,   marital roles and conflict.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "09621",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 80,
+                    "maxEnroll": 80,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "Z",
+                    "restrictionMajor": "+COMM +INTST",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1003",
+                            "building": "ICA",
+                            "roomCapacity": 98,
+                            "days": "M W    ",
+                            "beginTime": "11:00",
+                            "endTime": "12:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "AFIFI T D",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "WILSON V M",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    127  ",
+            "title": "LEADERSHIP & GENDER",
+            "contactHours": 30.0,
+            "description": "Focuses on communication research and scholarship in gender and leadership. Topics covered include women's rights and sex discrimination, sexual haras sment and violence in the workplace and on campus, women leaders in busines s, politics, and the legal system, as well as the intersection of women, ra ce, and leadership.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "56218",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 79,
+                    "maxEnroll": 79,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "Z",
+                    "restrictionMajor": "+COMM +INTST",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1260",
+                            "building": "PHELP",
+                            "roomCapacity": 90,
+                            "days": " T R   ",
+                            "beginTime": "11:00",
+                            "endTime": "12:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "HOUSTON R",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "PLUNKETT M E",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    132  ",
+            "title": "ELECTR MEDIA POLICY",
+            "contactHours": 30.0,
+            "description": "Introduction to the process by which communication policy is constructed, including analysis of the role of key   participants. Survey of the fundamental regulatory structure   governing broadcasting and other electronic media.   Examination of current media policies.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "56226",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 194,
+                    "maxEnroll": 160,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "Z",
+                    "restrictionMajor": "+COMM +INTST",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1104",
+                            "building": "HFH",
+                            "roomCapacity": 188,
+                            "days": "M W    ",
+                            "beginTime": "17:00",
+                            "endTime": "18:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "LINZ D G",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "OTMAR C D",
+                            "functionCode": "Teaching but not in charge"
+                        },
+                        {
+                            "instructor": "MCLEOD C N",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    137  ",
+            "title": "GLOBAL COMM",
+            "contactHours": 30.0,
+            "description": "Examines the nature, role, and influence of the global   communication on international relations and the relationship   between the media and policy making and advocacy.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [
+                {
+                    "geCode": "WRT",
+                    "geCollege": "L&S "
+                },
+                {
+                    "geCode": "WRT",
+                    "geCollege": "ENGR"
+                }
+            ],
+            "classSections": [
+                {
+                    "enrollCode": "09639",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 49,
+                    "maxEnroll": 50,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "Z",
+                    "restrictionMajor": "+COMM +INTST",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1430",
+                            "building": "SH",
+                            "roomCapacity": 50,
+                            "days": " T R   ",
+                            "beginTime": "12:30",
+                            "endTime": "13:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "FANG C",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    138  ",
+            "title": "ADVERTISING LIT",
+            "contactHours": 30.0,
+            "description": "Begins with an examination of the advertising industry   from academic perspectives--  economics, psychology, sociology, and history. Then the course shifts to a practical   perspective as we examine how advertising agencies are   organized, how they get clients, how they conduct research to create advertising campaigns, how they make   media buys, and how they design advertising messages. Students complete   exercises in researching a   situational analysis, making a media buy, and designing a TV ad.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "09647",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 68,
+                    "maxEnroll": 79,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "Z",
+                    "restrictionMajor": "+COMM +INTST",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1260",
+                            "building": "PHELP",
+                            "roomCapacity": 90,
+                            "days": " T R   ",
+                            "beginTime": "15:30",
+                            "endTime": "16:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "POTTER W J",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "WANG MINGHUI",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    139  ",
+            "title": "COMM AND EMOTION",
+            "contactHours": 30.0,
+            "description": "Overview of emotion and its role in communication. Addresses   theoretical perspectives on emotion; issues of emotional   display and recognition; and different emotions' effects in   interpersonal, media, and social systems contexts.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "09654",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 82,
+                    "maxEnroll": 80,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "Z",
+                    "restrictionMajor": "+COMM +INTST",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1003",
+                            "building": "ICA",
+                            "roomCapacity": 98,
+                            "days": "M W    ",
+                            "beginTime": "09:30",
+                            "endTime": "10:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "NABI R L",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "PENG Q",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    148  ",
+            "title": "RISK COMMUNICATION",
+            "contactHours": 30.0,
+            "description": "Covers a number of issues such as risk assessment, risk perception, message design, media options, and barriers to effective risk communication.   Across all topics, considers how access to risk information, perceptions of risk, and reactions to risk messages vary depending on the audience.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "09662",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 80,
+                    "maxEnroll": 80,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "Z",
+                    "restrictionMajor": "+COMM +INTST",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1174",
+                            "building": "HSSB",
+                            "roomCapacity": 95,
+                            "days": "M W    ",
+                            "beginTime": "11:00",
+                            "endTime": "12:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "KAM J A",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "LEE HYOJIN",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    150  ",
+            "title": "GRP COM MULT CONTXT",
+            "contactHours": 30.0,
+            "description": "Integrates social and behavioral sciences with the latest   communication approaches to group behavior. Students develop   an understanding of how communication networks within and   outside a particular group constitutes the essential nature of group processes.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "09670",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 80,
+                    "maxEnroll": 80,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "Z",
+                    "restrictionMajor": "+COMM +INTST",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1100",
+                            "building": "WEBB",
+                            "roomCapacity": 92,
+                            "days": " T R   ",
+                            "beginTime": "08:00",
+                            "endTime": "09:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "ABRA G J",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "WHEELER B M",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    160DM",
+            "title": "DIGITAL CONSUMER BX",
+            "contactHours": 30.0,
+            "description": "Gain an understanding of the foundations of consumer behavior and explore h ow these foundational concepts apply to the ?digital world? inhabited by mo dern consumers?one defined by the interaction of ?new? technologies with ?o ld? psychological processes and environments.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "09688",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 90,
+                    "maxEnroll": 79,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "Z",
+                    "restrictionMajor": "+COMM +INTST",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1640",
+                            "building": "BRDA",
+                            "roomCapacity": 94,
+                            "days": " T R   ",
+                            "beginTime": "12:30",
+                            "endTime": "13:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "HAMILTON K A",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "LIU XINGYU",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    160OH",
+            "title": "ONLINE HATE SPEECH",
+            "contactHours": 30.0,
+            "description": "Focuses on online hate messages: racist/ethnic/sexist social media postings , websites, and discussion forums; harassment, toxicity, and cyberbullying. Topics include the prevalence, content, and effects of online hate; motivat ons; coordinated organized attacks; media use by existing offline hate grou ps; potential for offline aggression; remediation messages (human and robot ic), and related topics. Readings primarily are research articles. Student groups complete original comprehensive literature reviews on a particular s ubtopic with reports to a California civil rights commission. This course i nvolves exposure to and discussion of extremely offensive terms and materia ls. It\u2019s heavy on reading and writing.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "71084",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 63,
+                    "maxEnroll": 79,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "Z",
+                    "restrictionMajor": "+COMM +INTST",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2211",
+                            "building": "ILP",
+                            "roomCapacity": 100,
+                            "days": "  W    ",
+                            "beginTime": "17:00",
+                            "endTime": "19:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "WALTHER J B",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "ZHANG YIDI",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    160WB",
+            "title": "EMOTION & WORK LIFE",
+            "contactHours": 30.0,
+            "description": "This course examines how communication behaviors relate to the role of emotions (like stress and satisfaction) at work in the pursuit of well- being. Topics include emotional labor, gratitude, conflict, social support, social networks and communicative contagion of mood -- intersecting with issues of group and organizational communication. Students are encouraged to bring their personal insights into the classroom and use theories and concepts to evaluate their own experiences. Course activities include field exercises, journal writing, and culminates with a team-based project.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "56234",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 79,
+                    "maxEnroll": 79,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "Z",
+                    "restrictionMajor": "+COMM +INTST",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1174",
+                            "building": "HSSB",
+                            "roomCapacity": 95,
+                            "days": " T R   ",
+                            "beginTime": "09:30",
+                            "endTime": "10:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "HOUSTON R",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "QI L",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    169  ",
+            "title": "SOCIAL NETWORKS",
+            "contactHours": 30.0,
+            "description": "Addresses the emergent structures, relational   dynamics, and importance of communication and social   networks.  It covers networks across levels (interpersonal, group, organizational, global), types (e.g. face-to-face, mediated, semantic) and content (e.g. friendship, advice,   task, innovation).",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "09712",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 90,
+                    "maxEnroll": 90,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "Z",
+                    "restrictionMajor": "+COMM +INTST",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1930",
+                            "building": "BUCHN",
+                            "roomCapacity": 100,
+                            "days": " T R   ",
+                            "beginTime": "17:00",
+                            "endTime": "18:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "RICE R E",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "OVERBYE H E",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    175GW",
+            "title": "COMM AND GIG WORK",
+            "contactHours": 30.0,
+            "description": "Examines the communicative and organizational dynamics associated with the rise of the \"gig\" economy as it reshapes work all around the world. Heralde d by many as a new form of employment which offers workers flexibility and autonomy, others raise questions regarding equitable work practices, worker privacy, algorithmic control, work motivation, work overload, technostress , and workers' rights. The course explores the ways in which communication plays a central role in how states regulate and classify gig work, how work ers experience gig work, and the ways in which these emerging platforms may reproduce gender and racial disparities in opportunities and wage earnings .",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "09738",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 32,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "S",
+                    "restrictionMajor": "+COMM +INTST",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1009",
+                            "building": "SSMS",
+                            "roomCapacity": null,
+                            "days": " T     ",
+                            "beginTime": "14:00",
+                            "endTime": "16:20"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "STOHL C",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    175PF",
+            "title": "SR CAP: POL & FILM",
+            "contactHours": 30.0,
+            "description": "The course will examine the ways that concepts and theories of government/politics are illustrated in popular   fiction and film.  We will view full-length feature films and analyze/discuss how the filmmaker uses the   medium to influence the audience.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "56242",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 30,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "S",
+                    "restrictionMajor": "+COMM +INTST",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "4211",
+                            "building": "ILP",
+                            "roomCapacity": 30,
+                            "days": " T     ",
+                            "beginTime": "14:00",
+                            "endTime": "16:20"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "STOHL M S",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    177  ",
+            "title": "LEGAL CMTY/COURT",
+            "contactHours": 30.0,
+            "description": "The legal system is a core social institution in every human society. In this course we will examine and critique the communication events that structure legal interaction. In order to discern the effects of particular communication styles and expectations, our analysis will focus on three key contexts: the courtroom, the legal profession and the public sphere.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "09746",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 80,
+                    "maxEnroll": 80,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "Z",
+                    "restrictionMajor": "+COMM +INTST",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1100",
+                            "building": "WEBB",
+                            "roomCapacity": 92,
+                            "days": " T R   ",
+                            "beginTime": "09:30",
+                            "endTime": "10:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "ABRA G J",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "KUBITZA S M",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    178  ",
+            "title": "DARK SIDE OF COMM",
+            "contactHours": 30.0,
+            "description": "Provides an examination of recent and noteworthy   scholarship from a   var iety of social scientific disciplines regarding the   ?dark side? of   inte rpersonal/relational communication. Dark side topics   covered   include, b ut are not limited to: social aggression,   online dating,   jealousy, infi delity, intimate partner violence, and   narcissism.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "56259",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 56,
+                    "maxEnroll": 50,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "Z",
+                    "restrictionMajor": "+COMM +INTST",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1430",
+                            "building": "SH",
+                            "roomCapacity": 50,
+                            "days": " T R   ",
+                            "beginTime": "17:00",
+                            "endTime": "18:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "MAZUR A P",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    181A ",
+            "title": "SENIOR HONORS THES",
+            "contactHours": 30.0,
+            "description": "Independent work with faculty sponsor culminating in senior thesis.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "09753",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 7,
+                    "maxEnroll": 15,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "S",
+                    "restrictionMajor": "+COMM +INTST",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1009",
+                            "building": "SSMS",
+                            "roomCapacity": null,
+                            "days": " T R   ",
+                            "beginTime": "12:30",
+                            "endTime": "13:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "ABRA G J",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    184  ",
+            "title": "SOC MED CONTROVERSY",
+            "contactHours": 30.0,
+            "description": "Examines the beneficial, harmful, and always complicated implications of so cial media use across micro- and macro- levels of analyses. We focus on how these systems enhance and impede individual and socio-political self-expre ssion, especially for those from marginalized populations (e.g racial/ethni c/religious minorities, immigrants, women, LGBTQ individuals, people with d isabilities, etc.). The class focuses on three primary topics: new media an d social movements; new media and health; and new media and identity. Stude nts gain both a theoretical and an applied understanding of how social medi a shape life in the 21st century.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "56275",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": "Y",
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 79,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "Z",
+                    "restrictionMajor": "+COMM +INTST",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1100",
+                            "building": "WEBB",
+                            "roomCapacity": 92,
+                            "days": "  W    ",
+                            "beginTime": "17:00",
+                            "endTime": "19:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "WALTHER J B",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    185  ",
+            "title": "COMM TECH & REL",
+            "contactHours": 30.0,
+            "description": "Explores issues and questions about computer-mediated communication and soc ial media in a variety of relationship stages (such as impression formation and relational development to relationship maintenance and termination), c ontexts (friendship and romantic relationships, collaboration and work), an d technologies, in order to understand the psychological, interpersonal, pr ofessional, social, and cultural impacts of digital communication media on human relationships. The main course objective is to develop a critical and practical view of online communication--how it differs and how it doesn?t- -by applying the processes and principles from theories and research to iss ues and patterns of interactive communication technology use.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "56283",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 77,
+                    "maxEnroll": 80,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "Z",
+                    "restrictionMajor": "+COMM +INTST",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2211",
+                            "building": "ILP",
+                            "roomCapacity": 100,
+                            "days": "M W    ",
+                            "beginTime": "15:30",
+                            "endTime": "16:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "WALTHER J B",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "KING  J L K",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    188  ",
+            "title": "NEWS POLITICS DEMOC",
+            "contactHours": 30.0,
+            "description": "Explores the role of the news media in sustaining American democracy. Stude nt projects identify the most difficult problems facing American journalism and propose creative solutions for helping the news media fulfill its demo cratic function. Topics include news industry consolidation, \"fake news,\" p olitical polarization, and the role of social media. Students will come awa y from this course with a more engaged, critical, and empowered view of wha t \"the news can do for democracy.\"",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "09761",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 79,
+                    "maxEnroll": 79,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "Z",
+                    "restrictionMajor": "+COMM +INTST",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2617",
+                            "building": "ELLSN",
+                            "roomCapacity": 90,
+                            "days": "M W    ",
+                            "beginTime": "14:00",
+                            "endTime": "15:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "LANE D S",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "PETRO G Z",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    191  ",
+            "title": "COMM INTERNSHIP",
+            "contactHours": 30.0,
+            "description": "Field experience combined with communication theory and current literature. Students must hold an 8-10 hour internship in the field of communication throughout the quarter in which they are enrolled in the class. Weekly lecture topics include theories of interpersonal communication, organizational structures, management, and communication styles. The extensive term project analyzes, integrates and applies lay and academic approaches to understanding interns' communicative interactions.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "56291",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": "Y",
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 20,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": "+COMM",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1009",
+                            "building": "SSMS",
+                            "roomCapacity": null,
+                            "days": " T     ",
+                            "beginTime": "10:00",
+                            "endTime": "12:20"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "KIM YOUNG JI",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    194  ",
+            "title": "GROUP STUDIES ADV",
+            "contactHours": 10.0,
+            "description": "Selected topics in accordance with instructor's area of   specialization.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 12.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "Y",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "SEM",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "09779",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 50,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": "+COMM",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "AFIFI W A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "76109",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 3,
+                    "maxEnroll": 50,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": "+COMM",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "AFIFI W A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    197  ",
+            "title": "COMM INTERNSHIP",
+            "contactHours": 50.0,
+            "description": "An opportunity for pre-communication and communication   majors to obtain c redit for career-related experience and   application of academic training in a communication-  related   internship. Required are 50 hours minimum of internship   work, a final five-page report, and a supervisor's letter   o f verification.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": 1.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "P",
+            "instructionType": "FLD",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "09787",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 3,
+                    "maxEnroll": 50,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+COMM +PRCOM",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "KIM YOUNG JI",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    199  ",
+            "title": "INDEPENDENT STUDIES",
+            "contactHours": null,
+            "description": "Independent studies in communication.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 5.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "09795",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": "+COMM",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "80879",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 3,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": "+COMM",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "TRUSCELLI N I",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20241",
+            "courseId": "COMM    199RA",
+            "title": "INDEP RESEARCH ASST",
+            "contactHours": 10.0,
+            "description": "Coursework consists of faculty supervised research assistance.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "COMM    ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 5.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "COMM ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "09803",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 60,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": "+COMM",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "79251",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 6,
+                    "maxEnroll": 60,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": "+COMM",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "MYERS K K",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "79277",
+                    "section": "0300",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 2,
+                    "maxEnroll": 60,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": "+COMM",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "KAM J A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "79285",
+                    "section": "0400",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 3,
+                    "maxEnroll": 60,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": "+COMM",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "LIU JIAYING",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "79293",
+                    "section": "0500",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 3,
+                    "maxEnroll": 60,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": "+COMM",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "GONZALES A L",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "79350",
+                    "section": "0600",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 2,
+                    "maxEnroll": 60,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": "+COMM",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "METZGER M J",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "80937",
+                    "section": "0700",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 60,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": "+COMM",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "NABI R L",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
