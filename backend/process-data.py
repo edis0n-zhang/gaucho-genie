@@ -8,13 +8,13 @@ from dotenv import load_dotenv
 
 # load .env file and retrieve API key
 load_dotenv()
-pinecone_api_key = os.getenv('PINECONE_API_KEY')
-openai_api_key = os.getenv('OPENAI_API_KEY')
+PINECONE_API_KEY = os.getenv('PINECONE_API_KEY')
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 
-embeddings = OpenAIEmbeddings()
+embeddings = OpenAIEmbeddings(model="text-embedding-ada-002")
 
 # Pinecone setup
-pinecone.init(pinecone_api_key, environment='gcp-starter')
+pinecone.init(PINECONE_API_KEY, environment='gcp-starter')
 index_name = "gaucho-genie"
 
 # Create a new Pinecone index or connect to an existing one
