@@ -1,7 +1,11 @@
 <script lang="ts">
 	import LightSwitch from '$lib/components/LightSwitch.svelte';
-<<<<<<< HEAD
 	import { goto } from '$app/navigation';
+	import {Label} from '$lib/components/ui/label';
+	import {Input} from '$lib/components/ui/input';
+	import FileUpload from '$lib/components/FileUpload.svelte';
+	import Header from '$lib/components/Header.svelte';
+	import {Button} from '$lib/components/ui/button';
   </script>
   
   <LightSwitch />
@@ -13,15 +17,6 @@
 	  </button>
 	</div>
   </div>
-  
-=======
-	import {Label} from '$lib/components/ui/label';
-	import {Input} from '$lib/components/ui/input';
-	import FileUpload from '$lib/components/FileUpload.svelte';
-	import Header from '$lib/components/Header.svelte';
-	import {Button} from '$lib/components/ui/button';
-	import {goto} from '$app/navigation';
-</script>
 
 	<Header/>
 
@@ -69,4 +64,3 @@
 
 <style>
 </style>
->>>>>>> origin
