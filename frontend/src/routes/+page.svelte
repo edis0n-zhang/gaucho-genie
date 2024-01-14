@@ -24,30 +24,38 @@
 		<span class="italic">Simplifying and Enhancing Your Course Selection Process with AI</span>
 	</p>
 
-	<button on:click={() => goto('/chat')}
-		class="font-bold inline-flex items-center text-3xl px-4 py-2 bg-yellow-400 dark:bg-white-900 text-gray rounded-md cursor-pointer hover:bg-yellow-300 dark:hover:bg-yellow-700"
-		>Let the Genie Know Your Wishes</button>
+	<button
+		on:click={() => goto('/chat')}
+		class="font-bold inline-flex items-center text-3xl px-4 py-2 dark:bg-yellow-500 text-gray rounded-md cursor-pointer dark:hover:bg-yellow-400 bg-blue-950 hover:bg-blue-950/90 text-white dark:text-black"
+		>Let the Genie Know Your Wishes</button
+	>
 
 	<main class="container mx-auto p-4 text-foreground">
 		<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-			<div class="bg-green-500 text-white p-6 rounded-md shadow-lg">
-			  <h2 class="text-lg font-semibold mb-2 text-center">Transcript Analysis</h2>
-			  <p class="text-sm italic text-center">
-				Our system employs advanced algorithms to analyze your transcript.
-			  </p>
+			<div
+				class="bg-blue-950 dark:bg-yellow-500 p-6 rounded-md shadow-lg dark:text-black text-white"
+			>
+				<h2 class="text-lg font-semibold mb-2 text-center">Transcript Analysis</h2>
+				<p class="text-sm italic text-center">
+					Our system employs advanced algorithms to analyze your transcript.
+				</p>
 			</div>
-			<div class="bg-green-500 text-white p-6 rounded-md shadow-lg">
-			<h2 class="text-lg font-semibold mb-2 text-center">Personalized Recommendations</h2>
-			<p class="text-sm italic text-center">
-				Tailored course recommendations are generated based on the analysis.
-			</p>
+			<div
+				class="bg-blue-950 dark:bg-yellow-500 p-6 rounded-md shadow-lg dark:text-black text-white"
+			>
+				<h2 class="text-lg font-semibold mb-2 text-center">Personalized Recommendations</h2>
+				<p class="text-sm italic text-center">
+					Tailored course recommendations are generated based on the analysis.
+				</p>
 			</div>
 
-			<div class="bg-green-500 text-white p-6 rounded-md shadow-lg">
-			<h2 class="text-lg font-semibold mb-2 text-center">Optimized Learning Journey</h2>
-			<p class="text-sm italic text-center">
-				Experience an optimized learning journey with personalized course suggestions.
-			</p>
+			<div
+				class="bg-blue-950 dark:bg-yellow-500 p-6 rounded-md shadow-lg dark:text-black text-white"
+			>
+				<h2 class="text-lg font-semibold mb-2 text-center">Optimized Learning Journey</h2>
+				<p class="text-sm italic text-center">
+					Experience an optimized learning journey with personalized course suggestions.
+				</p>
 			</div>
 		</div>
 	</main>
@@ -56,7 +64,6 @@
 		*We are not affiliated with the University of California, Santa Barbara.<br />
 		<span class="italic text-gray-500">This is a disclaimer statement.</span>
 	</p>
-
 </div>
 
 <style>
