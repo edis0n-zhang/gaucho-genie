@@ -7,7 +7,7 @@ app = Flask(__name__)
 @app.route("/rand")
 def hello():
     # Access the query parameters
-    user_input = request.args.get("input", "")
+    user_input = str(request.args.get("input", ""))
 
     result = chatbot_query.process_query(user_input)
 

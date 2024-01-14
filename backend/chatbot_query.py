@@ -118,15 +118,19 @@ def process_query(query):
 
     # Print and store the system response
     print(f"\n\nChatbot Response: {res.content}\n\n")
+    conversation_history[:-1] = f"conversation_history[:-1] \n {res.content}"
+
+    if len(conversation_history[:-1]) > 1000:
+        conversation_history[:-1] = conversation_history[:1000]
 
     # Create a text representation of the conversation history
     summarize_prompt = (
-        "You are a helpful course planning assistant. "
-        "I have a conversation history that needs to be summarized and the summary must be less than 1500 characters. "
-        "Please keep track of the most recent courses that you have mentioned in the summary and the context of the conversation, especially more recent information. "
-        "Important info to includes recent course codes mentioned and the order that you mentioned them. Do not forget those courses"
-        "Be as detailed as possible but keep it under 1500 characters"
-        "Here is the conversation history:\n\n" + history[:-1]
+        """You are a helpful course planning assistant.
+        I have a conversation history that needs to be summarized and the summary must be less than 1000 characters.
+        Please keep track of the most recent courses that you have mentioned in the summary and the context of the conversation, especially more recent information.
+        Important info to includes recent course codes mentioned and the order that you mentioned them. Do not forget those courses
+        Be as detailed as possible but keep it under 1000 characters
+        Here is the conversation history:\n\n""" + conversation_history[:-1]
     )
 
     # Call the chat model for summarization
@@ -135,10 +139,12 @@ def process_query(query):
     # Print the summarized history
     print("\n\nSummarized history\n\n")
     print(res2.content)
-    if(len(res2.content) > 1700):
-        res2_string = res2.content[:1700]
+    if(len(res2.content) > 1000):
+        res2_string = res2.content[:1000]
     else:
         res2_string = res2.content
+    
+    conversation_history.clear()
 
     conversation_history.append(res2_string)
 
