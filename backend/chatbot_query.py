@@ -83,6 +83,7 @@ def process_query(query, conversation_history):
 
         The course difficulty is rated on a scale of 1-10 with 1 being the easiest and 10 being the hardest.
         When giving a response and including course difficulty, round to the nearest integer.
+        You should factor the Course ID level into the difficulty, the higher the number the more difficult the class likely is.
 
         The course data is formatted as such:
         <courseId> <quarter_string> Overview:
