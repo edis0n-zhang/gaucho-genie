@@ -23,7 +23,7 @@ def get_response():
     user_input = str(request.args.get("input", ""))
     conversation_history = str(request.args.get("conversation_history", ""))
 
-    result = chatbot_query.process_query(user_input, conversation_history)
+    result, conversation_history = chatbot_query.process_query(user_input, conversation_history)
 
     # Return a JSON response
     return jsonify({

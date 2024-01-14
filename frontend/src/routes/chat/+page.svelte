@@ -46,7 +46,7 @@
 			if (response.ok) {
 				const data = await response.json();
 				conversationHistory.set(data.conversation_history);
-				responseOutput.set(data.output.slice(2, -2));
+				responseOutput.set(data.output);
 
 				// Update messages with bot response
 				messages = [...messages, { sender: 'bot', text: get(responseOutput) }];

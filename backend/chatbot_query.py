@@ -48,14 +48,13 @@ def process_query(query, conversation_history):
     index = pinecone.Index(index_name)
     docsearch = Pinecone.from_existing_index(index_name, embeddings)
 
-    chat = ChatOpenAI(temperature=0, openai_api_key=OPENAI_API_KEY, model_name="gpt-4-0613")
+    chat = ChatOpenAI(temperature=0, openai_api_key=OPENAI_API_KEY, model_name="gpt-4")
 
     # Perform similarity search
     result = docsearch.similarity_search(query)
 
     # Prepare data for language model
     response_prompt = prepare_data_for_llm(query, result)
-    conversation_history += f"{query} \n\n Please answer by utilizing the information provided: \n\n {response_prompt}"
 
     # Generate system response
     messages = [
@@ -90,9 +89,9 @@ def process_query(query, conversation_history):
             ETH - Ethnicity
 
         The course difficulty is rated on a scale of 1-10 with 1 being the easiest and 10 being the hardest.
+        The course difficulty is calculated based on the grade distribution of previous course offerings.
         When giving a response and including course difficulty, you MUST round to the nearest integer.
         If you must pick between two courses of equal difficulty, the course with the higher course ID is more difficult.
-        When providing a numerical value, IT MUST CONTAIN AT MOST ONE DECIMAL POINT.
 
         The course data is formatted as such:
         <courseId> <quarter_string> Overview:
@@ -104,13 +103,11 @@ def process_query(query, conversation_history):
         The course description is as follows: <description>
         The course is <difficuty>.
 
-        If the information provided is not very relevant to the query, please respond with 'I apologize, I do not have that information' and provide a short description of the course.
-
         Here is the past context of your conversation:
         {conversation_history}
         """),
         HumanMessage(
-            content=f"{query} \n\n Please answer by utilizing the information provided, however if you think it is not relevant, you do not have to include it in your response: \n\n {response_prompt}"
+            content=f"User Prompt: \n {query} \n\n Please answer by utilizing this information: \n\n {response_prompt}"
         ),
     ]
 
@@ -118,35 +115,37 @@ def process_query(query, conversation_history):
     res = chat.invoke(messages)
 
     # Print and store the system response
+    conversation_history += f"User Prompt: {query}"
     print(f"\n\nChatbot Response: {res.content}\n\n")
     conversation_history += res.content
 
-    if len(conversation_history) > 1000:
-        conversation_history = conversation_history[:1000]
+    # if len(conversation_history) > 1000:
+    #     conversation_history = conversation_history[:1000]
 
     # Create a text representation of the conversation history
     summarize_prompt = (
         """You are a helpful course planning assistant.
         I have a conversation history that needs to be summarized and the summary must be less than 3000 characters.
         Please keep track of the most recent courses that you have mentioned in the summary and the context of the conversation, especially more recent information.
-        Important info to includes recent course codes mentioned and the order that you mentioned them. Do not forget those courses.
+        Important info to includes recent course codes mentioned and the order that you mentioned them. Do not forget those courses as well as the order you listed them in.
         Be as detailed as possible but keep it under 3000 characters.
         It is highly important that you keep information that is relevant to the user, such as their major and year.
+        Make sure to label the responses by the author, either you or the user.
         Here is the conversation history:\n\n""" + conversation_history
     )
 
     # Call the chat model for summarization
-    res2 = chat.invoke([SystemMessage(content=summarize_prompt)])
+    # res2 = chat.invoke([SystemMessage(content=summarize_prompt)])
 
     # Print the summarized history
-    print("\n\nSummarized history\n\n")
-    print(res2.content)
-    if(len(res2.content) > 1000):
-        res2_string = res2.content[:1000]
-    else:
-        res2_string = res2.content
+    # print("\n\nSummarized history\n\n")
+    # print(res2.content)
+    # if(len(res2.content) > 1000):
+        # res2_string = res2.content[:1000]
+    # else:
+        # res2_string = res2.content
 
-    conversation_history = res2_string
+    # conversation_history = res2_string
 
     output = format_string(res.content)
     # output = res.content
