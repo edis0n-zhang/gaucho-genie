@@ -1,0 +1,3706 @@
+{
+    "pageNumber": 1,
+    "pageSize": 100,
+    "total": 34,
+    "classes": [
+        {
+            "quarter": "20222",
+            "courseId": "ECE       1B ",
+            "title": "PROBLEMS COMP ENG",
+            "contactHours": 10.0,
+            "description": "Gaining familiarity with, and motivation to study, the field   of computer engineering, through puzzle-like problems that   represent a range of challenges facing computer engineers in   their daily problem-solving efforts and at the frontiers of   research.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": 1.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "P",
+            "instructionType": "SEM",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "12476",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 91,
+                    "maxEnroll": 100,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+PRCME+CMPEN",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1924",
+                            "building": "PSYCH",
+                            "roomCapacity": 124,
+                            "days": "M      ",
+                            "beginTime": "17:00",
+                            "endTime": "18:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "WANG L C",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE      10B ",
+            "title": "FOUNDTN CIRC & SYS",
+            "contactHours": 30.0,
+            "description": "The objective of the course is to introduce the MOSFET both   as a simple digital switch and as controlled current source   for analog design. The course will cover basic digital   design, small-signal analysis, charge storage elements and   operational amplifiers.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": 3.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "12484",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 27,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+CMPEN+EE",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1206",
+                            "building": "HSSB",
+                            "roomCapacity": 26,
+                            "days": " T R   ",
+                            "beginTime": "17:00",
+                            "endTime": "18:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "CAMSARI K Y",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE      10BL",
+            "title": "FOUNDTN CIRC LAB",
+            "contactHours": 40.0,
+            "description": "The goal of 10BL is to provide the student with a hands-  on   application of the concepts discussed in ECE 10B. The lab   will utilize the microcontroller to introduce students to   the understanding of datasheets for both digital and   analog   circuits, single-stage amplifier design and basic   instrumentation.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": 2.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LAB",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "12492",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 17,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+CMPEN+EE",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "5162C",
+                            "building": "HFH",
+                            "roomCapacity": null,
+                            "days": " T     ",
+                            "beginTime": "19:00",
+                            "endTime": "22:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "CAMSARI K Y",
+                            "functionCode": "In charge but not teaching"
+                        },
+                        {
+                            "instructor": "LU ZHENGZHI",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE      10C ",
+            "title": "FOUNDTN CIRC & SYS",
+            "contactHours": 30.0,
+            "description": "The objective of the course is to introduce the student to   the basics of transient analysis. The course will energy   and power dissipation in digital circuits, first-order and   second-order linear time invariant circuits, sinusoidal   steady state,  impedance representation, feedback and   resonance.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": 3.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "12500",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 115,
+                    "maxEnroll": 160,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+CMPEN+EE",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1104",
+                            "building": "HFH",
+                            "roomCapacity": 188,
+                            "days": " T R   ",
+                            "beginTime": "17:00",
+                            "endTime": "18:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "ALIZADEH M",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE      10CL",
+            "title": "FOUNDTN CIRC LAB",
+            "contactHours": 40.0,
+            "description": "The goal of 10CL is to provide the student with a hands-  on application of the concepts discussed in ECE 10C. The   lab will utilize the microcontroller to introduce   students to the understanding of propagation delay in   digital circuits and the resulting power dissipation,   first order linear networks, second order linear networks, sinusoidal steady-state, impedance analysis and   op-amp circuits.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": 2.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LAB",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "12518",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 19,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+CMPEN+EE",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "5162C",
+                            "building": "HFH",
+                            "roomCapacity": null,
+                            "days": "  W    ",
+                            "beginTime": "18:00",
+                            "endTime": "21:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "OH W",
+                            "functionCode": "Teaching but not in charge"
+                        },
+                        {
+                            "instructor": "ALIZADEH M",
+                            "functionCode": "In charge but not teaching"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12526",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 12,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+CMPEN+EE",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "5162C",
+                            "building": "HFH",
+                            "roomCapacity": null,
+                            "days": "  W    ",
+                            "beginTime": "12:00",
+                            "endTime": "15:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "KUMAR A U",
+                            "functionCode": "Teaching but not in charge"
+                        },
+                        {
+                            "instructor": "ALIZADEH M",
+                            "functionCode": "In charge but not teaching"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12534",
+                    "section": "0300",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 20,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+CMPEN+EE",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "5162C",
+                            "building": "HFH",
+                            "roomCapacity": null,
+                            "days": "   R   ",
+                            "beginTime": "08:00",
+                            "endTime": "11:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "YUNG A S",
+                            "functionCode": "Teaching but not in charge"
+                        },
+                        {
+                            "instructor": "ALIZADEH M",
+                            "functionCode": "In charge but not teaching"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12542",
+                    "section": "0400",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 20,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+CMPEN+EE",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "5162C",
+                            "building": "HFH",
+                            "roomCapacity": null,
+                            "days": "    F  ",
+                            "beginTime": "12:00",
+                            "endTime": "15:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "HUTCHINSON S",
+                            "functionCode": "Teaching but not in charge"
+                        },
+                        {
+                            "instructor": "ALIZADEH M",
+                            "functionCode": "In charge but not teaching"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12559",
+                    "section": "0500",
+                    "session": null,
+                    "classClosed": "Y",
+                    "courseCancelled": "C         ",
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+CMPEN+EE",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "5162C",
+                            "building": "HFH",
+                            "roomCapacity": null,
+                            "days": "    F  ",
+                            "beginTime": "18:00",
+                            "endTime": "21:50"
+                        }
+                    ],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "12567",
+                    "section": "0600",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 19,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+CMPEN+EE",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "5162C",
+                            "building": "HFH",
+                            "roomCapacity": null,
+                            "days": "   R   ",
+                            "beginTime": "19:00",
+                            "endTime": "22:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "PARSAY A",
+                            "functionCode": "Teaching but not in charge"
+                        },
+                        {
+                            "instructor": "ALIZADEH M",
+                            "functionCode": "In charge but not teaching"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12575",
+                    "section": "0700",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 15,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+CMPEN+EE",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "5162C",
+                            "building": "HFH",
+                            "roomCapacity": null,
+                            "days": "    F  ",
+                            "beginTime": "08:00",
+                            "endTime": "11:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "REZAEI F",
+                            "functionCode": "Teaching but not in charge"
+                        },
+                        {
+                            "instructor": "ALIZADEH M",
+                            "functionCode": "In charge but not teaching"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "58131",
+                    "section": "0800",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 10,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+CMPEN+EE",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "5162C",
+                            "building": "HFH",
+                            "roomCapacity": null,
+                            "days": "  W    ",
+                            "beginTime": "08:00",
+                            "endTime": "11:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "FUFUENGSIN I",
+                            "functionCode": "Teaching but not in charge"
+                        },
+                        {
+                            "instructor": "ALIZADEH M",
+                            "functionCode": "In charge but not teaching"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE      92  ",
+            "title": "PROJ ELECT COMP ENG",
+            "contactHours": 40.0,
+            "description": "Projects in electrical and computer engineering for advanced undergraduate students.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "12583",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+EE   +CMPEN",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE      96  ",
+            "title": "UNDERGRAD RESEARCH",
+            "contactHours": 4.0,
+            "description": "Research opportunities for undergraduate students. students   will be expected to give regular oral presentations, actively   participate in a weekly seminar, and prepare at least one   written report on their research.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 4.0,
+            "unitsVariableLow": 2.0,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "SEM",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "12591",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+CMPEN+EE",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE     120B ",
+            "title": "INTEGRATED CIRCUITS",
+            "contactHours": 30.0,
+            "description": "Design, simulation, fabrication, and characterization of NMOS integrated ci rcuits. Circuit design and layout is performed using commercial layout soft ware. Circuits are fabricated using modern VLSI processing techniques. Circ uit and discrete device electrical performance are analyzed.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "12609",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 37,
+                    "maxEnroll": 40,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2119",
+                            "building": "GIRV",
+                            "roomCapacity": 42,
+                            "days": "M W    ",
+                            "beginTime": "09:30",
+                            "endTime": "10:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "MOODY G A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12617",
+                    "section": "0101",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 19,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1141D",
+                            "building": "ENGR2",
+                            "roomCapacity": null,
+                            "days": " T     ",
+                            "beginTime": "19:00",
+                            "endTime": "21:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "AGASHIWALA K",
+                            "functionCode": "Teaching but not in charge"
+                        },
+                        {
+                            "instructor": "WANG S",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12625",
+                    "section": "0102",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 18,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1141D",
+                            "building": "ENGR2",
+                            "roomCapacity": null,
+                            "days": "   R   ",
+                            "beginTime": "19:00",
+                            "endTime": "21:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "WANG S",
+                            "functionCode": "Teaching but not in charge"
+                        },
+                        {
+                            "instructor": "AGASHIWALA K",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE     130B ",
+            "title": "SIGNAL ANALYSIS",
+            "contactHours": 30.0,
+            "description": "Analysis of discrete time linear systems in the time and frequency domains. Z transforms, Discrete Fourier transforms. Sampling and aliasing.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "12633",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 19,
+                    "maxEnroll": 35,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+EE   +CMPEN",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2129",
+                            "building": "GIRV",
+                            "roomCapacity": 40,
+                            "days": "M W    ",
+                            "beginTime": "12:30",
+                            "endTime": "13:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "ESLAMI RASEKH",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12641",
+                    "section": "0101",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 19,
+                    "maxEnroll": 35,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+EE   +CMPEN",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2116",
+                            "building": "GIRV",
+                            "roomCapacity": 42,
+                            "days": "    F  ",
+                            "beginTime": "08:00",
+                            "endTime": "09:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "TAHERI H",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE     130C ",
+            "title": "SIGNAL ANALYSIS",
+            "contactHours": 30.0,
+            "description": "Basic techniques for the analysis of linear models in electrical engineerin g: Gaussian elimination, vector spaces and linear equations, orthogonality, determinatnts, eigenvalues and eigenvectors, systems of linear differentia l equations, positive definite matrices, singular value decomposition.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "12658",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 16,
+                    "maxEnroll": 60,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": "+EE   +CMPEN",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2516",
+                            "building": "PHELP",
+                            "roomCapacity": 60,
+                            "days": "M W    ",
+                            "beginTime": "12:30",
+                            "endTime": "13:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "CHANDRASEKARA",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12666",
+                    "section": "0101",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 16,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": "+EE   +CMPEN",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2516",
+                            "building": "PHELP",
+                            "roomCapacity": 60,
+                            "days": "    F  ",
+                            "beginTime": "10:00",
+                            "endTime": "11:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "IBBETSON T K",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12674",
+                    "section": "0102",
+                    "session": null,
+                    "classClosed": "Y",
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": "+EE   +CMPEN",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1111",
+                            "building": "NH",
+                            "roomCapacity": 42,
+                            "days": "    F  ",
+                            "beginTime": "08:00",
+                            "endTime": "09:50"
+                        }
+                    ],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE     135  ",
+            "title": "OPT FIBER COMM",
+            "contactHours": 30.0,
+            "description": "Optical fiber as a transmission medium, dispersion and nonlinear effects in fiber transmission, fiber and semiconductor optical amplifiers and lasers, optical modulators, photo detectors, optical receivers, wavelength division multiplexing components, optical filters, basic transmission system analysis and design.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "12682",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 10,
+                    "maxEnroll": 30,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1444",
+                            "building": "PHELP",
+                            "roomCapacity": 35,
+                            "days": " T R   ",
+                            "beginTime": "11:00",
+                            "endTime": "12:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "DAGLI N",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12690",
+                    "section": "0101",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 10,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1109",
+                            "building": "NH",
+                            "roomCapacity": 48,
+                            "days": "  W    ",
+                            "beginTime": "17:00",
+                            "endTime": "17:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "LIM H M",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE     137B ",
+            "title": "CIRCUIT & ELECTR II",
+            "contactHours": 30.0,
+            "description": "Analysis and design of single stage and multistage   transistor circuits at low and high frequencies. Transient   response.  Analysis and design of feedback circuits.   Stability criteria.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "12708",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 62,
+                    "maxEnroll": 80,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": "+ECE  +EE",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1174",
+                            "building": "HSSB",
+                            "roomCapacity": 95,
+                            "days": " T R   ",
+                            "beginTime": "09:30",
+                            "endTime": "10:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "THEOGARAJAN L",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12716",
+                    "section": "0101",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 13,
+                    "maxEnroll": 26,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": "+ECE  +EE",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "5160A",
+                            "building": "HFH",
+                            "roomCapacity": null,
+                            "days": "  W    ",
+                            "beginTime": "14:00",
+                            "endTime": "16:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "BAE J",
+                            "functionCode": "Teaching but not in charge"
+                        },
+                        {
+                            "instructor": "KITTUR O H",
+                            "functionCode": "Teaching but not in charge"
+                        },
+                        {
+                            "instructor": "STEPHANSON B",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12724",
+                    "section": "0102",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 28,
+                    "maxEnroll": 28,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": "+ECE  +EE",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "5160A",
+                            "building": "HFH",
+                            "roomCapacity": null,
+                            "days": "  W    ",
+                            "beginTime": "19:00",
+                            "endTime": "21:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "BAE J",
+                            "functionCode": "Teaching but not in charge"
+                        },
+                        {
+                            "instructor": "KITTUR O H",
+                            "functionCode": "Teaching but not in charge"
+                        },
+                        {
+                            "instructor": "STEPHANSON B",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12732",
+                    "section": "0103",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 21,
+                    "maxEnroll": 26,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": "+ECE  +EE",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "5160A",
+                            "building": "HFH",
+                            "roomCapacity": null,
+                            "days": " T     ",
+                            "beginTime": "19:00",
+                            "endTime": "21:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "BAE J",
+                            "functionCode": "Teaching but not in charge"
+                        },
+                        {
+                            "instructor": "KITTUR O H",
+                            "functionCode": "Teaching but not in charge"
+                        },
+                        {
+                            "instructor": "STEPHANSON B",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE     139  ",
+            "title": "PROB & STAT",
+            "contactHours": 30.0,
+            "description": "Fundamentals of probability, conditional probability, Bayes rule, random variables, functions of random variables, expectation and high-order moments, Markov chains, hypothesis testing.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "12740",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 113,
+                    "maxEnroll": 120,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": "+ECE  +CMPEN+EE   +PRCME",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1924",
+                            "building": "PSYCH",
+                            "roomCapacity": 124,
+                            "days": "M W    ",
+                            "beginTime": "11:00",
+                            "endTime": "12:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "ROSE K",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12757",
+                    "section": "0101",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 24,
+                    "maxEnroll": 26,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": "+ECE  +CMPEN+EE   +PRCME",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1111",
+                            "building": "NH",
+                            "roomCapacity": 42,
+                            "days": " T     ",
+                            "beginTime": "19:00",
+                            "endTime": "20:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "KORATTI SIVAK",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12765",
+                    "section": "0102",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 26,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": "+ECE  +CMPEN+EE   +PRCME",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1119",
+                            "building": "GIRV",
+                            "roomCapacity": 48,
+                            "days": "    F  ",
+                            "beginTime": "08:00",
+                            "endTime": "09:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "CEBECI C",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12773",
+                    "section": "0103",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 26,
+                    "maxEnroll": 26,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": "+ECE  +CMPEN+EE   +PRCME",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1111",
+                            "building": "NH",
+                            "roomCapacity": 42,
+                            "days": "    F  ",
+                            "beginTime": "12:00",
+                            "endTime": "13:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "DENG Z",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12781",
+                    "section": "0104",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 11,
+                    "maxEnroll": 16,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": "+ECE  +CMPEN+EE   +PRCME",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "3202",
+                            "building": "HSSB",
+                            "roomCapacity": 24,
+                            "days": "    F  ",
+                            "beginTime": "15:00",
+                            "endTime": "16:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "BISWAL M",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12799",
+                    "section": "0105",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 26,
+                    "maxEnroll": 27,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": "+ECE  +CMPEN+EE   +PRCME",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1111",
+                            "building": "NH",
+                            "roomCapacity": 42,
+                            "days": "   R   ",
+                            "beginTime": "19:00",
+                            "endTime": "20:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "YOGI S",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE     141B ",
+            "title": "MEMS: SEMICOND PROC",
+            "contactHours": 20.0,
+            "description": "Lectures and laboratory on semiconductor-based processing for MEMS. Description of key equipment and characterization tools used for MEMS and design, fabrication, characterization and testing of MEMS Emphasis on current   MEMS devices including accelerometers, comb drives, micro-reactors and   capacitor-actuators.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "12807",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": "Y",
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 3,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [
+                        "ME      141B 0100"
+                    ],
+                    "timeLocations": [
+                        {
+                            "room": "2243",
+                            "building": "ENGR2",
+                            "roomCapacity": null,
+                            "days": " T R   ",
+                            "beginTime": "15:30",
+                            "endTime": "16:45"
+                        }
+                    ],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE     142  ",
+            "title": "INTRO TO POWER ELEC",
+            "contactHours": 3.0,
+            "description": "An introduction to modern switched-mode power electronics and   associated devices.  Covers modern converter/inverter   topologies for the control and conversion of electrical power   with high efficiency with applications in power supplies,   renewable energy systems, lighting, electric/hybrid vehicles,   and motor drivers.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "12815",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 32,
+                    "maxEnroll": 42,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+EE",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2112",
+                            "building": "GIRV",
+                            "roomCapacity": 42,
+                            "days": " T R   ",
+                            "beginTime": "14:00",
+                            "endTime": "15:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "SALEM L G",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "MISHRA U",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "INGVARSSON S",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE     145C ",
+            "title": "COMM ELECTRONIC III",
+            "contactHours": 30.0,
+            "description": "Modern wireless communication standards. Cellular phone. Wireless LAN. Introduction to multi-access techniques. Advanced modulation schemes. Interference and distortion. Modern transceiver architectures. Direct conversion   vs. low IF vs. super-heterodyne. Sub-sampling receiver. Direct polar modulator.   Frequency synthesis using PLL.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": 5.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "12823",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 4,
+                    "maxEnroll": 20,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [
+                        "ECE     218C 0100"
+                    ],
+                    "timeLocations": [
+                        {
+                            "room": "2129",
+                            "building": "GIRV",
+                            "roomCapacity": 40,
+                            "days": " T R   ",
+                            "beginTime": "15:30",
+                            "endTime": "16:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "BUCKWALTER J",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12831",
+                    "section": "0101",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 4,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [
+                        "ECE     218C 0101"
+                    ],
+                    "timeLocations": [
+                        {
+                            "room": "5162D",
+                            "building": "HFH",
+                            "roomCapacity": null,
+                            "days": "   R   ",
+                            "beginTime": "19:00",
+                            "endTime": "21:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "SAJEEB M",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12849",
+                    "section": "0102",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [
+                        "ECE     218C 0102"
+                    ],
+                    "timeLocations": [
+                        {
+                            "room": "5162D",
+                            "building": "HFH",
+                            "roomCapacity": null,
+                            "days": " T     ",
+                            "beginTime": "19:00",
+                            "endTime": "21:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "SAJEEB M",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE     146B ",
+            "title": "COMM SYS DESIGN",
+            "contactHours": 30.0,
+            "description": "Optimal demodulation, including signal space geometry; communication perfor mance characterization; advanced wireless communication techniques, includi ng multi-antenna and multicarrier systems; other emerging frontiers in comm unications.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": 5.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "12856",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 6,
+                    "maxEnroll": 20,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+EE   +ECE",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1437",
+                            "building": "PHELP",
+                            "roomCapacity": null,
+                            "days": "M W    ",
+                            "beginTime": "11:00",
+                            "endTime": "12:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "GIBSON J D",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12864",
+                    "section": "0101",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 5,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+EE   +ECE",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "4152",
+                            "building": "HFH",
+                            "roomCapacity": null,
+                            "days": "M      ",
+                            "beginTime": "19:00",
+                            "endTime": "21:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "ATREYA T",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12872",
+                    "section": "0102",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+EE   +ECE",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "4152",
+                            "building": "HFH",
+                            "roomCapacity": null,
+                            "days": " T     ",
+                            "beginTime": "19:00",
+                            "endTime": "21:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "ATREYA T",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE     147C ",
+            "title": "CONTROL SYS PROJ",
+            "contactHours": 30.0,
+            "description": "Students are required to design, implement, and document a significant control systems project. The project is implemented in hardware or in high-fidelity numerical simulators. Lectures and laboratories cover special topics related to the practical implementation of control systems.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": 5.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "12880",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 6,
+                    "maxEnroll": 20,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": "+EE   +ECE  +CMPEN",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [
+                        "ME      155C 0100"
+                    ],
+                    "timeLocations": [
+                        {
+                            "room": "1448",
+                            "building": "PHELP",
+                            "roomCapacity": 35,
+                            "days": "M W    ",
+                            "beginTime": "09:30",
+                            "endTime": "10:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "HESPANHA J P",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12898",
+                    "section": "0101",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 5,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": "+EE   +ECE  +CMPEN",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [
+                        "ME      155C 0101"
+                    ],
+                    "timeLocations": [
+                        {
+                            "room": "3120",
+                            "building": "HFH",
+                            "roomCapacity": null,
+                            "days": "M      ",
+                            "beginTime": "18:00",
+                            "endTime": "20:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "DUMAN Z",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12906",
+                    "section": "0102",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": "+EE   +ECE  +CMPEN",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [
+                        "ME      155C 0102"
+                    ],
+                    "timeLocations": [
+                        {
+                            "room": "3120",
+                            "building": "HFH",
+                            "roomCapacity": null,
+                            "days": "   R   ",
+                            "beginTime": "18:00",
+                            "endTime": "20:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "DUMAN Z",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE     148  ",
+            "title": "SIGNAL ANALYSIS",
+            "contactHours": 30.0,
+            "description": "A sequence of engineering applications of signal analysis and processing te chniques; in communications, image processing, analog and digital filter de sign, signal detection and parameter estimation, holography and tomography, Fourier optics, and microwave and acoustic sensing.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "12914",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 14,
+                    "maxEnroll": 35,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2123",
+                            "building": "GIRV",
+                            "roomCapacity": 42,
+                            "days": " T R   ",
+                            "beginTime": "12:30",
+                            "endTime": "13:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "LEE H",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12922",
+                    "section": "0101",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 14,
+                    "maxEnroll": 35,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1353",
+                            "building": "ARTS",
+                            "roomCapacity": 54,
+                            "days": "  W    ",
+                            "beginTime": "14:00",
+                            "endTime": "15:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "SANCHEZ C D",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE     152A ",
+            "title": "DIGITAL DESIN PRIN.",
+            "contactHours": 30.0,
+            "description": "Design of synchronous digital systems: timing diagrams, propagation   delay , latches and flip-  flops, shift registers and counters, Mealy/Moore finit e state   machines, Verilog, 2-phase   clocking, timing analysis, CMOS impl ementation, S-RAM, RAM-based   designs, ASM charts, state   minimization.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": 5.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "12930",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 125,
+                    "maxEnroll": 130,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": "+CMPSC+CPSCI+EE   +ECE  +CMPEN",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1006",
+                            "building": "NH",
+                            "roomCapacity": 132,
+                            "days": "  W F  ",
+                            "beginTime": "15:30",
+                            "endTime": "16:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "ISUKAPALLI Y",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12948",
+                    "section": "0101",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 22,
+                    "maxEnroll": 22,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": "+CMPSC+CPSCI+EE   +ECE  +CMPEN",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1124",
+                            "building": "HFH",
+                            "roomCapacity": null,
+                            "days": " T     ",
+                            "beginTime": "19:00",
+                            "endTime": "21:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "BOONE R G",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12955",
+                    "section": "0102",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 19,
+                    "maxEnroll": 22,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": "+CMPSC+CPSCI+EE   +ECE  +CMPEN",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1124",
+                            "building": "HFH",
+                            "roomCapacity": null,
+                            "days": "  W    ",
+                            "beginTime": "18:00",
+                            "endTime": "20:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "XU B",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12963",
+                    "section": "0103",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 22,
+                    "maxEnroll": 22,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": "+CMPSC+CPSCI+EE   +ECE  +CMPEN",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1124",
+                            "building": "HFH",
+                            "roomCapacity": null,
+                            "days": "    F  ",
+                            "beginTime": "12:00",
+                            "endTime": "14:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "BURD J M",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12971",
+                    "section": "0104",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 22,
+                    "maxEnroll": 22,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": "+CMPSC+CPSCI+EE   +ECE  +CMPEN",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1124",
+                            "building": "HFH",
+                            "roomCapacity": null,
+                            "days": "   R   ",
+                            "beginTime": "19:00",
+                            "endTime": "21:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "YANG M J",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12989",
+                    "section": "0105",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 22,
+                    "maxEnroll": 22,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": "+CMPSC+CPSCI+EE   +ECE  +CMPEN",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1124",
+                            "building": "HFH",
+                            "roomCapacity": null,
+                            "days": "   R   ",
+                            "beginTime": "13:00",
+                            "endTime": "15:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "LI SIQI",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "12997",
+                    "section": "0106",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 18,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": "+CMPSC+CPSCI+EE   +ECE  +CMPEN",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1124",
+                            "building": "HFH",
+                            "roomCapacity": null,
+                            "days": " T     ",
+                            "beginTime": "08:00",
+                            "endTime": "10:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "DUPREE M J",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE     160  ",
+            "title": "MULTIMEDIA SYSTEMS",
+            "contactHours": 30.0,
+            "description": "Introduction to multimedia and applications, including WWW,   image/video databases and video streaming. Covers media content   analysis, media data organization and indexing (image/video databases), and   media data distribution and interaction (video   on-demand and interactive TV).",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "54916",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 49,
+                    "maxEnroll": 90,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": "+ECE  +CMPEN+CPSCI+CMPSC+CRTST+EE",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1260",
+                            "building": "PHELP",
+                            "roomCapacity": 90,
+                            "days": "M W    ",
+                            "beginTime": "17:00",
+                            "endTime": "18:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "VISELL Y",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "54924",
+                    "section": "0101",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 22,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": "+ECE  +CMPEN+CPSCI+CMPSC+CRTST+EE",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2532",
+                            "building": "PHELP",
+                            "roomCapacity": 40,
+                            "days": " T     ",
+                            "beginTime": "17:00",
+                            "endTime": "17:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "COREY M",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "54932",
+                    "section": "0102",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 7,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": "+ECE  +CMPEN+CPSCI+CMPSC+CRTST+EE",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1444",
+                            "building": "PHELP",
+                            "roomCapacity": 35,
+                            "days": "    F  ",
+                            "beginTime": "09:00",
+                            "endTime": "09:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "JONNALAGADDA",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "54940",
+                    "section": "0103",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 20,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": "+ECE  +CMPEN+CPSCI+CMPSC+CRTST+EE",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1448",
+                            "building": "PHELP",
+                            "roomCapacity": 35,
+                            "days": "    F  ",
+                            "beginTime": "10:00",
+                            "endTime": "10:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "RUSCHEL DOS S",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE     162C ",
+            "title": "OPTOEL MAT & DEV",
+            "contactHours": 30.0,
+            "description": "Optical transitions in solids. Direct and indirect gap semiconductors. Luminescence. Excitons and photons. Fundamentals of optoelectronic devices: semiconductor lasers, Led's photoconductors, solar cells, photo diodes, modulators. Photoemission. Integrated circuits.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "54965",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 6,
+                    "maxEnroll": 16,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+ECE  +EE   +MATRL",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1106",
+                            "building": "GIRV",
+                            "roomCapacity": 16,
+                            "days": " T R   ",
+                            "beginTime": "12:30",
+                            "endTime": "13:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "BLUMENTHAL D",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "54973",
+                    "section": "0101",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 6,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+ECE  +EE   +MATRL",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1508",
+                            "building": "PHELP",
+                            "roomCapacity": 48,
+                            "days": "  W    ",
+                            "beginTime": "14:00",
+                            "endTime": "14:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "SINGH R P",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE     183  ",
+            "title": "NONLINEAR PHENOMENA",
+            "contactHours": 30.0,
+            "description": "An introduction to nonlinear phenomena. Flows and   bifurcations in one and two dimensions, chaos, fractals,   strange attractors. Applications to physics, engineering,   chemistry, and biology.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "13078",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 13,
+                    "maxEnroll": 17,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [
+                        "ME      169  0100",
+                        "PHYS    106  0100"
+                    ],
+                    "timeLocations": [
+                        {
+                            "room": "1353",
+                            "building": "ARTS",
+                            "roomCapacity": 54,
+                            "days": " T R   ",
+                            "beginTime": "11:00",
+                            "endTime": "12:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "BYL K A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "13086",
+                    "section": "0101",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 6,
+                    "maxEnroll": 9,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [
+                        "ME      169  0101",
+                        "PHYS    106  0101"
+                    ],
+                    "timeLocations": [
+                        {
+                            "room": "4201",
+                            "building": "HSSB",
+                            "roomCapacity": 24,
+                            "days": "  W    ",
+                            "beginTime": "17:00",
+                            "endTime": "17:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "OZMEN I A",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "13094",
+                    "section": "0102",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 7,
+                    "maxEnroll": 8,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [
+                        "ME      169  0102",
+                        "PHYS    106  0102"
+                    ],
+                    "timeLocations": [
+                        {
+                            "room": "1207",
+                            "building": "HSSB",
+                            "roomCapacity": 26,
+                            "days": "    F  ",
+                            "beginTime": "12:00",
+                            "endTime": "12:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "GADE S R",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE     188C ",
+            "title": "SENIOR EE PROJECT",
+            "contactHours": 30.0,
+            "description": "Student groups design a significant project based on the   knowledge and sk ills acquired in earlier coursework and   integrate their technical knowled ge through a practical   design experience. The project is evaluated throug h written   reports, oral presentations, and demonstrations of   performanc e.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": 3.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "13102",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 70,
+                    "maxEnroll": 75,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+EE   +CMPEN",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1173",
+                            "building": "HSSB",
+                            "roomCapacity": 75,
+                            "days": "M W    ",
+                            "beginTime": "12:30",
+                            "endTime": "13:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "ISUKAPALLI Y",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "ABDOLEE R",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "13110",
+                    "section": "0101",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 70,
+                    "maxEnroll": 75,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+EE   +CMPEN",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1173",
+                            "building": "HSSB",
+                            "roomCapacity": 75,
+                            "days": "    F  ",
+                            "beginTime": "13:00",
+                            "endTime": "13:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "GEPIGON M V",
+                            "functionCode": "Teaching but not in charge"
+                        },
+                        {
+                            "instructor": "MCGIVNEY M S",
+                            "functionCode": "Teaching but not in charge"
+                        },
+                        {
+                            "instructor": "WONG D H",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE     189C ",
+            "title": "SR CMPTR PROJ",
+            "contactHours": 30.0,
+            "description": "Student groups design a significant computer-based project. The focus in th is course will be on the integration of both hardware and software componen ts. Students continue to work in groups. Apart from project reports and pre sentations, the evaluation will be based on successful demonstration of bot h hardware and software aspects of the project.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "13128",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 36,
+                    "maxEnroll": 45,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1115",
+                            "building": "GIRV",
+                            "roomCapacity": 48,
+                            "days": " T R   ",
+                            "beginTime": "11:00",
+                            "endTime": "12:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "ISUKAPALLI Y",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "13136",
+                    "section": "0101",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 36,
+                    "maxEnroll": 45,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1437",
+                            "building": "PHELP",
+                            "roomCapacity": null,
+                            "days": "    F  ",
+                            "beginTime": "13:00",
+                            "endTime": "15:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "CHENEY C R",
+                            "functionCode": "Teaching but not in charge"
+                        },
+                        {
+                            "instructor": "WESTGARTH B H",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE     192  ",
+            "title": "PROJ ELECT COMP ENG",
+            "contactHours": 20.0,
+            "description": "Projects in electrical and computer engineering for advanced undergraduate students.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "13144",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 5,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE     193  ",
+            "title": "INTERN IN INDUSTRY",
+            "contactHours": null,
+            "description": "Special projects for selected students. Offered in conjunction with engineering practice in selected industrial and research firms, under direct faculty supervision.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 8.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "FLD",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "13151",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": true,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "81521",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": true,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "K",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "ISUKAPALLI Y",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE     194BB",
+            "title": "COMPUTER ENGR",
+            "contactHours": 10.0,
+            "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "DIS",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "55012",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 3,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [
+                        "ECE     594BB0300"
+                    ],
+                    "timeLocations": [
+                        {
+                            "room": "2532",
+                            "building": "PHELP",
+                            "roomCapacity": 40,
+                            "days": " T R   ",
+                            "beginTime": "14:00",
+                            "endTime": "15:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "BREWER F",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE     194E ",
+            "title": "GROUP STUDIES ECE",
+            "contactHours": 10.0,
+            "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "DIS",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "13169",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 14,
+                    "maxEnroll": 30,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2124",
+                            "building": "GIRV",
+                            "roomCapacity": 30,
+                            "days": "M W    ",
+                            "beginTime": "15:30",
+                            "endTime": "16:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "PEDARSANI R",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "13177",
+                    "section": "0101",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 14,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1445",
+                            "building": "PHELP",
+                            "roomCapacity": 35,
+                            "days": " T     ",
+                            "beginTime": "18:00",
+                            "endTime": "18:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "BELIAEV M",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE     194N ",
+            "title": "SPECIAL TOPICS ECE",
+            "contactHours": 10.0,
+            "description": "Group studies intended for small number of advanced students who share an i nterest in a topic not included in the regular departmental curriculum.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "DIS",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "54981",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 3,
+                    "maxEnroll": 10,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [
+                        "ECE     594N 0100"
+                    ],
+                    "timeLocations": [
+                        {
+                            "room": "1431",
+                            "building": "PHELP",
+                            "roomCapacity": null,
+                            "days": " T R   ",
+                            "beginTime": "16:00",
+                            "endTime": "17:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "MIOLANE N",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE     194P ",
+            "title": "SPECIAL TOPICS ECE",
+            "contactHours": 10.0,
+            "description": "Group studies intended for small number of advanced students who share an i nterest in a topic not included in the regular departmental curriculum.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 5.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "DIS",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "82099",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 6,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1431",
+                            "building": "PHELP",
+                            "roomCapacity": null,
+                            "days": "    F  ",
+                            "beginTime": "09:00",
+                            "endTime": "11:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "SEN P",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE     194U ",
+            "title": "GROUP STUDIES ECE",
+            "contactHours": 10.0,
+            "description": "Group studies intended for small number of advanced students who share an interest in a topic not included in the regular departmental curriculum. Topics are coded as follows: u. optics/optoelectronics.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "DIS",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "54957",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": "Y",
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 13,
+                    "maxEnroll": 24,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [
+                        "ECE     594U 0300"
+                    ],
+                    "timeLocations": [
+                        {
+                            "room": "2516",
+                            "building": "PHELP",
+                            "roomCapacity": 60,
+                            "days": "M W    ",
+                            "beginTime": "17:00",
+                            "endTime": "18:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "MOODY G A",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "PATEL S D",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE     196  ",
+            "title": "UNDERGRAD RESEARCH",
+            "contactHours": 10.0,
+            "description": "Research opportunities for undergraduate students. students will be expected to give regular oral presentations, actively participate in a weekly seminar, and prepare at least one written report on their research.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 4.0,
+            "unitsVariableLow": 2.0,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "SEM",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "13193",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "79970",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "SMITH S L",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "82602",
+                    "section": "0300",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "BYL K A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "83147",
+                    "section": "0400",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "VISELL Y",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "83402",
+                    "section": "0500",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 2,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "BALKIND J M",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "84350",
+                    "section": "0600",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "MADHOW U",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "86413",
+                    "section": "0700",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "ZHANG Z",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "ECE     199  ",
+            "title": "IND STUD-ECE",
+            "contactHours": null,
+            "description": "Directed individual study, normally experimental.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ECE     ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 5.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "ECE  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "13201",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": null,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "86561",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": null,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "SALEM L G",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "86942",
+                    "section": "0300",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": null,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "BEN-YAACOV I",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,9 +1,10 @@
 <script>
     import LightSwitch from "$lib/components/LightSwitch.svelte";
     import { LampWallUp } from "lucide-svelte";
+    import { goto } from '$app/navigation';
   
     function handleClick() {
-      window.location.href = "";
+     goto('/');
     }
   </script>
   

@@ -1,0 +1,71 @@
+{
+    "pageNumber": 1,
+    "pageSize": 100,
+    "total": 1,
+    "classes": [
+        {
+            "quarter": "20224",
+            "courseId": "BIOE    120A ",
+            "title": "MOLECULAR BIOENGR",
+            "contactHours": 30.0,
+            "description": "Introduces students to molecular components of biology with application of engineering principles for analysis. Topics include: molecular components o f cells, DNA/RNA structure and function, protein structure/function/folding , gene and protein regulation, DNA replication, and experimental and comput ational research methods.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "BIOE    ",
+            "unitsFixed": 3.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "BENG ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "68163",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 2,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [
+                        "BIOE    211  0100",
+                        "BIOE    220A 0100"
+                    ],
+                    "timeLocations": [
+                        {
+                            "room": "2516",
+                            "building": "PHELP",
+                            "roomCapacity": 60,
+                            "days": " T R   ",
+                            "beginTime": "11:00",
+                            "endTime": "12:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "STOWERS R S",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "DEY S S",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

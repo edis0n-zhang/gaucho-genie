@@ -1,0 +1,320 @@
+{
+    "pageNumber": 1,
+    "pageSize": 100,
+    "total": 5,
+    "classes": [
+        {
+            "quarter": "20222",
+            "courseId": "MATH CS 108B ",
+            "title": "LINEAR ALGEBRA II",
+            "contactHours": 45.0,
+            "description": "Eigenvalues, eigenvectors, and diagonalization. Canonical form under similarity:   Jordan canonical form and rational canonical form, inner product and norm.   Gram-Schmidt process, adjoint of a linear operator, normal and self-adjoint   operators, unitary and orthogonal operators, spectral theorem.",
+            "college": "CRST",
+            "objLevelCode": "U",
+            "subjectArea": "MATH CS ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 5.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "P",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "CRSTU",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "32268",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 17,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+MATCS",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "164B",
+                            "building": "CRST",
+                            "roomCapacity": null,
+                            "days": "M W F  ",
+                            "beginTime": "11:00",
+                            "endTime": "12:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "BUENO CACHADI",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "MATH CS 117  ",
+            "title": "INTRO. ANALYSIS",
+            "contactHours": 30.0,
+            "description": "A rigorous introduction to the elements of analysis. Covers sequences, accumulation points, Bolzano-Weierstrass, Cauchy's criterion, the completeness property of the real number system, limits of functions, continuity,   differentiability, compact sets, and the Heine-Borel theorem.",
+            "college": "CRST",
+            "objLevelCode": "U",
+            "subjectArea": "MATH CS ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 5.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "P",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "CRSTU",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "32276",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 14,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+MATCS",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "164B",
+                            "building": "CRST",
+                            "roomCapacity": null,
+                            "days": " T R   ",
+                            "beginTime": "08:00",
+                            "endTime": "09:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "LABUTIN D A",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "MATH CS 120FV",
+            "title": "GAME THEORY",
+            "contactHours": 30.0,
+            "description": "Introduction to game theory and related topics. Includes classical game the ory and combinatorial game theory up through the Sprague-Grundy Theorem.",
+            "college": "CRST",
+            "objLevelCode": "U",
+            "subjectArea": "MATH CS ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 6.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "P",
+            "instructionType": "SEM",
+            "onLineCourse": false,
+            "deptCode": "CRSTU",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "63560",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 19,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+MATCS",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "164B",
+                            "building": "CRST",
+                            "roomCapacity": null,
+                            "days": "M W    ",
+                            "beginTime": "09:30",
+                            "endTime": "10:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "CASTEELS K L",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "MATH CS 120RT",
+            "title": "REPRESENTATION",
+            "contactHours": 30.0,
+            "description": "Introduction to representation theory of finite groups, with a focus on exa mples and applications.",
+            "college": "CRST",
+            "objLevelCode": "U",
+            "subjectArea": "MATH CS ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 6.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "P",
+            "instructionType": "SEM",
+            "onLineCourse": false,
+            "deptCode": "CRSTU",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "62331",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 10,
+                    "maxEnroll": 15,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+MATCS+MATH",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "160B",
+                            "building": "CRST",
+                            "roomCapacity": null,
+                            "days": "M W F  ",
+                            "beginTime": "11:00",
+                            "endTime": "11:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "ZHAO XIAOLEI",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20222",
+            "courseId": "MATH CS 199  ",
+            "title": "INDEPENDENT STUDIES",
+            "contactHours": 10.0,
+            "description": "Serious independent study in mathematics with consenting faculty member.",
+            "college": "CRST",
+            "objLevelCode": "U",
+            "subjectArea": "MATH CS ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 6.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "P",
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "CRSTU",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "32300",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 2,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "&CRSTU",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "32318",
+                    "section": "0200",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 1,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "&CRSTU",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "32326",
+                    "section": "0300",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": null,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "&CRSTU",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        }
+    ]
+}

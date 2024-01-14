@@ -1,0 +1,630 @@
+{
+    "pageNumber": 1,
+    "pageSize": 100,
+    "total": 10,
+    "classes": [
+        {
+            "quarter": "20223",
+            "courseId": "ME       14  ",
+            "title": "STATICS",
+            "contactHours": 40.0,
+            "description": "Introduction to applied mechanics. Forces, moments, couples, and resultants ;   vector algebra; construction of free body diagrams; equilibrium in 2- a nd 3-  dimensions; analysis of frames, machines, trusses and beams; distrib uted   forces; friction.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ME      ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "ME   ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "13631",
+                    "section": "0100",
+                    "session": "00000E  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 16,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+ME",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1115",
+                            "building": "GIRV",
+                            "roomCapacity": 48,
+                            "days": "MTWRF  ",
+                            "beginTime": "14:00",
+                            "endTime": "15:40"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "BELTZ G",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "ZIMET M J",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "13649",
+                    "section": "0101",
+                    "session": "00000E  ",
+                    "classClosed": null,
+                    "courseCancelled": "C         ",
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+ME",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2243",
+                            "building": "ENGR2",
+                            "roomCapacity": null,
+                            "days": "  W F  ",
+                            "beginTime": "16:00",
+                            "endTime": "17:25"
+                        }
+                    ],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "ME       15  ",
+            "title": "STRENGTH-MATERIALS",
+            "contactHours": 30.0,
+            "description": "Properties of structural materials, including Hooke?s law and behavior beyond the   elastic limit. Concepts of stress, strain, displacement, force, force systems, and   multiaxial stress states. Design applications to engineering structures, including   problems of bars in tension, compression, and torsion, beams subject to flexure,   pressure vessels, and buckling.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ME      ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "ME   ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "13656",
+                    "section": "0100",
+                    "session": "00000F  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 13,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+ME",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1115",
+                            "building": "GIRV",
+                            "roomCapacity": 48,
+                            "days": "MTWRF  ",
+                            "beginTime": "09:00",
+                            "endTime": "10:40"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "BELTZ G",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "EMERICK M J",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "13664",
+                    "section": "0101",
+                    "session": "00000F  ",
+                    "classClosed": null,
+                    "courseCancelled": "C         ",
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+ME",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2243",
+                            "building": "ENGR2",
+                            "roomCapacity": null,
+                            "days": "   R   ",
+                            "beginTime": "14:00",
+                            "endTime": "15:25"
+                        }
+                    ],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "ME       16  ",
+            "title": "ENGR MECH: DYNAMICS",
+            "contactHours": 40.0,
+            "description": "Vectorial kinematics of particles. Coordinate systems, moving frames, relative   and constrained motion. Dynamics of particles and systems of particles.   Energy   and momentum methods. Collisions. Planar kinematics and kinematics   of rigid   bodies. Energy and momentum methods for rigid body systems.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ME      ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "ME   ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "13672",
+                    "section": "0100",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 16,
+                    "maxEnroll": 30,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+ME",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "LINE",
+                            "building": "ON",
+                            "roomCapacity": 999,
+                            "days": "MTWR   ",
+                            "beginTime": "11:00",
+                            "endTime": "12:20"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "MOEHLIS J M",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "ZIMET M J",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "13680",
+                    "section": "0101",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 16,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+ME",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "LINE",
+                            "building": "ON",
+                            "roomCapacity": 999,
+                            "days": "    F  ",
+                            "beginTime": "11:00",
+                            "endTime": "12:20"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "ZIMET M J",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "ME       17  ",
+            "title": "MATH OF ENGR",
+            "contactHours": 30.0,
+            "description": "Introduction to basic numerical and analytical methods, with implementation using MATLAB. Topics include a Matlab review, ordinary differential equati ons, partial differential equations and boundary conditions, eigenvalue/eig envectors. Graphic and visualization tools in Matlab.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ME      ",
+            "unitsFixed": 3.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "ME   ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "13698",
+                    "section": "0100",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 12,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+ME",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "LINE",
+                            "building": "ON",
+                            "roomCapacity": 999,
+                            "days": "MTWR   ",
+                            "beginTime": "12:30",
+                            "endTime": "13:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "GIBOU F G",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "CHOWDHURY R",
+                            "functionCode": "Teaching but not in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "ME       95  ",
+            "title": "INTRO TO MECH ENGR",
+            "contactHours": null,
+            "description": "Participation in projects in the laboratory or machine shop. Projects may be student- or faculty-originated depending upon student interest and consent of faculty member.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ME      ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 4.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LAB",
+            "onLineCourse": false,
+            "deptCode": "ME   ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "13706",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 35,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "ME       97  ",
+            "title": "DESIGN PROJECTS",
+            "contactHours": 10.0,
+            "description": "Course offers students opportunity to work on established departmental design projects.  P/NP grading, does not satisfy technical elective requirement.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ME      ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 4.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": "P",
+            "instructionType": "LAB",
+            "onLineCourse": false,
+            "deptCode": "ME   ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "13714",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 35,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "ME       99  ",
+            "title": "INTRO RESEARCH",
+            "contactHours": 10.0,
+            "description": "Directed study to be arranged with individual faculty members. Course offer s exceptional students an opportunity to participate in a research group.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ME      ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 4.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": "P",
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "ME   ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "13722",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 35,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "ME      193  ",
+            "title": "INTERN IN INDUSTRY",
+            "contactHours": 10.0,
+            "description": "Students obtain credit for a mechanical engineering related internship and/or industrial experience under faculty supervision. A 6-10 page written report is required for credit. It may NOT be used to satisfy the engineering elective requirement for ME majors.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ME      ",
+            "unitsFixed": 1.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": "I",
+            "inProgressCourse": null,
+            "gradingOption": "P",
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "ME   ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "13730",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+ME",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "ME      197  ",
+            "title": "IND STUDIES DESIGN",
+            "contactHours": 10.0,
+            "description": "Special projects in design engineering. Course offers motivated students opportunity to synthesize academic skills by designing and building new machines.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ME      ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 4.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "Y",
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LAB",
+            "onLineCourse": false,
+            "deptCode": "ME   ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "13748",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 30,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                }
+            ]
+        },
+        {
+            "quarter": "20223",
+            "courseId": "ME      199  ",
+            "title": "INDEP STUDIES IN ME",
+            "contactHours": 10.0,
+            "description": "Directed individual study.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "ME      ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 5.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": "Y",
+            "inProgressCourse": null,
+            "gradingOption": "L",
+            "instructionType": "LAB",
+            "onLineCourse": false,
+            "deptCode": "ME   ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "13755",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": "+ME",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": []
+                },
+                {
+                    "enrollCode": "25965",
+                    "section": "0200",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 1,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": true,
+                    "restrictionLevel": "U",
+                    "restrictionMajor": "+ME",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [],
+                    "instructors": [
+                        {
+                            "instructor": "HAWKES E W",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

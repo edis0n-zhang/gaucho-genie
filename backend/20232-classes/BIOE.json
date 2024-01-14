@@ -1,0 +1,64 @@
+{
+    "pageNumber": 1,
+    "pageSize": 100,
+    "total": 1,
+    "classes": [
+        {
+            "quarter": "20232",
+            "courseId": "BIOE    101  ",
+            "title": "RCR",
+            "contactHours": 10.0,
+            "description": "The responsible conduct of research (RCR) is essential to good science.   E xamples of goals of RCR education and training are to:  Develop, foster, an d maintain a culture of integrity in science;  discourage and prevent uneth ical conduct; empower researchers to hold themselves and others accountable to high ethical standards; increase knowledge of, and sensitivity to, ethi cal issues surrounding the conduct of research by researchers with diverse backgrounds; improve the ability to make responsible choices when faced wit h ethical dilemmas involving research; provide an appreciation for the rang e of accepted scientific practices for conducting research; inform scientis ts and research trainees about the regulations, policies, and statutes.",
+            "college": "ENGR",
+            "objLevelCode": "U",
+            "subjectArea": "BIOE    ",
+            "unitsFixed": 1.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "P",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "BENG ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "60038",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 27,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2532",
+                            "building": "PHELP",
+                            "roomCapacity": 40,
+                            "days": "    F  ",
+                            "beginTime": "12:00",
+                            "endTime": "12:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "CLEGG D O",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

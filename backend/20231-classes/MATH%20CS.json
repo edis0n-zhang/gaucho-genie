@@ -1,0 +1,313 @@
+{
+    "pageNumber": 1,
+    "pageSize": 100,
+    "total": 6,
+    "classes": [
+        {
+            "quarter": "20231",
+            "courseId": "MATH CS 101B ",
+            "title": "PROBLEM SOLVING II",
+            "contactHours": 30.0,
+            "description": "Discussion and solution of nonroutine problems in different   areas of mathematics like Graph Theory, Number Theory,   Combinatorics, Geometry, Game Theory, Topology, Algebra, and Analysis.",
+            "college": "CRST",
+            "objLevelCode": "U",
+            "subjectArea": "MATH CS ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 4.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "P",
+            "instructionType": "SEM",
+            "onLineCourse": false,
+            "deptCode": "CRSTU",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "32037",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 13,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+MATCS",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "164B",
+                            "building": "CRST",
+                            "roomCapacity": null,
+                            "days": "M W    ",
+                            "beginTime": "14:00",
+                            "endTime": "15:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "KORATTI CHENG",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20231",
+            "courseId": "MATH CS 108A ",
+            "title": "LINEAR ALGEBRA I",
+            "contactHours": 45.0,
+            "description": "An introduction to the theory of Linear Algebra with topics: Algebra of matrices, linear systems of equations, vector spaces, linear independence, basis and dimension, infinite-dimensional vectors spaces, linear transformations, matrix representation, isomorphisms, quotient spaces, dual   spaces, and determinants.",
+            "college": "CRST",
+            "objLevelCode": "U",
+            "subjectArea": "MATH CS ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 5.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "P",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "CRSTU",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "32045",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 19,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+MATCS",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "164B",
+                            "building": "CRST",
+                            "roomCapacity": null,
+                            "days": " T R   ",
+                            "beginTime": "11:00",
+                            "endTime": "12:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "CASTEELS K L",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20231",
+            "courseId": "MATH CS 120C ",
+            "title": "COMBINATORICS",
+            "contactHours": 30.0,
+            "description": "Combinatorics has its historical roots in mathematical recreations and game s. Combinatorics is concerned with arrangements of the objects in a set int o patterns satisfying specified rules.",
+            "college": "CRST",
+            "objLevelCode": "U",
+            "subjectArea": "MATH CS ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 6.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "P",
+            "instructionType": "SEM",
+            "onLineCourse": false,
+            "deptCode": "CRSTU",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "61663",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 8,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+MATCS",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "164B",
+                            "building": "CRST",
+                            "roomCapacity": null,
+                            "days": "M W F  ",
+                            "beginTime": "10:00",
+                            "endTime": "10:50"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "MCCAMMOND J P",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20231",
+            "courseId": "MATH CS 120PA",
+            "title": "P-ADIC ANALYSIS",
+            "contactHours": 30.0,
+            "description": "Introduces p-adic numbers which can be obtained by completing rational numb ers with respect to an absolute value different from the usual Euclidean ab solute value. Discusses p-adic analysis and a p-adic version of Riemann zet a functions.",
+            "college": "CRST",
+            "objLevelCode": "U",
+            "subjectArea": "MATH CS ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 6.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "P",
+            "instructionType": "SEM",
+            "onLineCourse": false,
+            "deptCode": "CRSTU",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "63396",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 17,
+                    "maxEnroll": 20,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+MATCS",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "160B",
+                            "building": "CRST",
+                            "roomCapacity": null,
+                            "days": " T R   ",
+                            "beginTime": "14:00",
+                            "endTime": "15:15"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "LIU Z",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20231",
+            "courseId": "MATH CS 122A ",
+            "title": "COMPLEX I",
+            "contactHours": 30.0,
+            "description": "Covers the basics of the topology of the complex plane, series of complex numbers, differentiability of functions of a complex variable, the complex exponential and logarithm functions, contour integration, power series   and analytic continuation, among other related topics.",
+            "college": "CRST",
+            "objLevelCode": "U",
+            "subjectArea": "MATH CS ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 4.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "P",
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "CRSTU",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "61655",
+                    "section": "0100",
+                    "session": null,
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 24,
+                    "maxEnroll": 24,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": "+MATCS+MATH",
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "136",
+                            "building": "CRST",
+                            "roomCapacity": null,
+                            "days": " T R   ",
+                            "beginTime": "15:30",
+                            "endTime": "16:45"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "PONCE G",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "quarter": "20231",
+            "courseId": "MATH CS 199  ",
+            "title": "INDEPENDENT STUDIES",
+            "contactHours": 10.0,
+            "description": "Serious independent study in mathematics with consenting faculty member.",
+            "college": "CRST",
+            "objLevelCode": "U",
+            "subjectArea": "MATH CS ",
+            "unitsFixed": null,
+            "unitsVariableHigh": 6.0,
+            "unitsVariableLow": 1.0,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": "P",
+            "instructionType": "TUT",
+            "onLineCourse": false,
+            "deptCode": "CRSTU",
+            "generalEducation": [],
+            "classSections": []
+        }
+    ]
+}

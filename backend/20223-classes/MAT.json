@@ -1,0 +1,133 @@
+{
+    "pageNumber": 1,
+    "pageSize": 100,
+    "total": 1,
+    "classes": [
+        {
+            "quarter": "20223",
+            "courseId": "MAT      80VR",
+            "title": "VIRTUAL REALITY",
+            "contactHours": 20.0,
+            "description": "Enacting the Metaverse studies the imminent integration of real and virtual worlds. Recent advancements in parallel computation have fueled the growth of transformative new technologies. Artificial intelligence performs tasks at a level that exceeds human ability. Blockchain technology enables virtu al ownership of digital assets. Extended reality augments and reconfigures our experience of the world. The metaverse is the outgrowth of these techno logies. It is a shared virtual 3D world that intermeshes with the real. We will be the citizens of this new hyper-mediated world. It is our responsibi lity to confront these developments from technical and critical perspective s. This course develops the knowledge and skills needed.",
+            "college": "L&S",
+            "objLevelCode": "U",
+            "subjectArea": "MAT     ",
+            "unitsFixed": 4.0,
+            "unitsVariableHigh": null,
+            "unitsVariableLow": null,
+            "delayedSectioning": null,
+            "inProgressCourse": null,
+            "gradingOption": null,
+            "instructionType": "LEC",
+            "onLineCourse": false,
+            "deptCode": "MAT  ",
+            "generalEducation": [],
+            "classSections": [
+                {
+                    "enrollCode": "21741",
+                    "section": "0100",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 19,
+                    "maxEnroll": 25,
+                    "secondaryStatus": "R",
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2514",
+                            "building": "PHELP",
+                            "roomCapacity": 35,
+                            "days": " T R   ",
+                            "beginTime": "15:30",
+                            "endTime": "17:25"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "FLATLEY D J",
+                            "functionCode": "Teaching and in charge"
+                        },
+                        {
+                            "instructor": "NOVAK M J",
+                            "functionCode": "In charge but not teaching"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "21758",
+                    "section": "0101",
+                    "session": "00000B  ",
+                    "classClosed": null,
+                    "courseCancelled": null,
+                    "gradingOptionCode": null,
+                    "enrolledTotal": 19,
+                    "maxEnroll": 25,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "2514",
+                            "building": "PHELP",
+                            "roomCapacity": 35,
+                            "days": "  W    ",
+                            "beginTime": "15:30",
+                            "endTime": "17:25"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "instructor": "FLATLEY D J",
+                            "functionCode": "Teaching and in charge"
+                        }
+                    ]
+                },
+                {
+                    "enrollCode": "21766",
+                    "section": "0102",
+                    "session": "00000B  ",
+                    "classClosed": "Y",
+                    "courseCancelled": "C         ",
+                    "gradingOptionCode": null,
+                    "enrolledTotal": null,
+                    "maxEnroll": 3,
+                    "secondaryStatus": null,
+                    "departmentApprovalRequired": false,
+                    "instructorApprovalRequired": false,
+                    "restrictionLevel": null,
+                    "restrictionMajor": null,
+                    "restrictionMajorPass": null,
+                    "restrictionMinor": null,
+                    "restrictionMinorPass": null,
+                    "concurrentCourses": [],
+                    "timeLocations": [
+                        {
+                            "room": "1445",
+                            "building": "PHELP",
+                            "roomCapacity": 35,
+                            "days": "  W    ",
+                            "beginTime": "16:00",
+                            "endTime": "16:50"
+                        }
+                    ],
+                    "instructors": []
+                }
+            ]
+        }
+    ]
+}
