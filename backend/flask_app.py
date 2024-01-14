@@ -1,8 +1,10 @@
 from flask import Flask, request, jsonify, send_from_directory
 import random
 import chatbot_query
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 # Path for our main Svelte page
 @app.route("/")
