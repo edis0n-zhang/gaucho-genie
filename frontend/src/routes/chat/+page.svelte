@@ -35,7 +35,7 @@
   <Header />
 </div>
 
-<main class="container mx-auto p-4">
+<main class="container mx-auto p-4 bg-background text-foreground">
   <div class="chat-box">
     {#each messages as { sender, text } (text)}
       <div class="{sender === 'user' ? 'text-right' : 'text-left'} mb-2">
@@ -44,7 +44,7 @@
     {/each} 
   </div>
 
-  <div class="mt-4 flex items-center">
+  <div class="mt-4 flex items-center bg-background text-foreground">
     <input
       bind:value={userInput}
       class="w-full p-2 border rounded"
