@@ -18,11 +18,7 @@ OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 
 def format_string(input_str):
     # Replace \n with <br>
-    # formatted_str = input_str.replace("\n", "<br>")
-    formatted_str = input_str
-    # Remove parentheses at the start and end, if they exist
-    if formatted_str.startswith("('") and formatted_str.endswith("')"):
-        formatted_str = formatted_str[1:-1]
+    formatted_str = input_str.replace("\n", "<br>")
 
     return formatted_str
 
@@ -51,7 +47,7 @@ def process_query(query, conversation_history):
     index = pinecone.Index(index_name)
     docsearch = Pinecone.from_existing_index(index_name, embeddings)
 
-    chat = ChatOpenAI(temperature=0, openai_api_key=OPENAI_API_KEY, model_name="gpt-3.5-turbo-0613")
+    chat = ChatOpenAI(temperature=0, openai_api_key=OPENAI_API_KEY, model_name="gpt-4-0613")
 
     # Perform similarity search
     result = docsearch.similarity_search(query)
@@ -63,8 +59,7 @@ def process_query(query, conversation_history):
     # Generate system response
     messages = [
         # System's understanding of its role
-        SystemMessage(content=f"""
-            You are a helpful course planning assistant.
+        SystemMessage(content=f"""You are a helpful course planning assistant.
         You are given a query and a list containing important information formatted as such 'ID: <id> Info: <metadata>'.
         You must return the most relevant courses to the query as well as provide a short description based on the knowledge you have.
 
@@ -96,6 +91,7 @@ def process_query(query, conversation_history):
         The course difficulty is rated on a scale of 1-10 with 1 being the easiest and 10 being the hardest.
         When giving a response and including course difficulty, you MUST round to the nearest integer.
         If you must pick between two courses of equal difficulty, the course with the higher course ID is more difficult.
+        When providing a numerical value, IT MUST CONTAIN AT MOST ONE DECIMAL POINT.
 
         The course data is formatted as such:
         <courseId> <quarter_string> Overview:
@@ -113,7 +109,7 @@ def process_query(query, conversation_history):
         {conversation_history}
         """),
         HumanMessage(
-            content=f"{query} \n\n Please answer by utilizing the information provided: \n\n {response_prompt}"
+            content=f"{query} \n\n Please answer by utilizing the information provided, however if you think it is not relevant, you do not have to include it in your response: \n\n {response_prompt}"
         ),
     ]
 
@@ -130,10 +126,11 @@ def process_query(query, conversation_history):
     # Create a text representation of the conversation history
     summarize_prompt = (
         """You are a helpful course planning assistant.
-        I have a conversation history that needs to be summarized and the summary must be less than 1000 characters.
+        I have a conversation history that needs to be summarized and the summary must be less than 3000 characters.
         Please keep track of the most recent courses that you have mentioned in the summary and the context of the conversation, especially more recent information.
-        Important info to includes recent course codes mentioned and the order that you mentioned them. Do not forget those courses
-        Be as detailed as possible but keep it under 1000 characters
+        Important info to includes recent course codes mentioned and the order that you mentioned them. Do not forget those courses.
+        Be as detailed as possible but keep it under 3000 characters.
+        It is highly important that you keep information that is relevant to the user, such as their major and year.
         Here is the conversation history:\n\n""" + conversation_history
     )
 
