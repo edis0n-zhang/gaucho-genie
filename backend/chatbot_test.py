@@ -1,3 +1,4 @@
+# This is a standalone chatbot that you can interact with in the terminal
 from langchain.vectorstores.pinecone import Pinecone
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain.prompts.chat import (
