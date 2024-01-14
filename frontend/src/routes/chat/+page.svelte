@@ -22,9 +22,7 @@
 		{#each messages as { sender, text } (text)}
 			<div class="{sender === 'user' ? 'text-right' : 'text-left'} mb-2">
 				<span
-					class="inline-block dark:bg-blue-500 text-white p-2 rounded {sender === 'user'
-						? 'user-message'
-						: ''}">{text}</span
+					class="inline-block bg-blue-500 text-white p-2 rounded {sender === 'user' ? 'user-message': ''}">{text}</span
 				>
 			</div>
 		{/each}

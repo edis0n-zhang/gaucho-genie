@@ -24,26 +24,39 @@
 		<span class="italic">Simplifying and Enhancing Your Course Selection Process with AI</span>
 	</p>
 
-	<h2
-		class="text-xl sm:text-xl md:text-xl lg:text-4xl max-w-[1200px] mx-auto w-full text-center font-semibold"
-	>
-		How It Works<br />
-	</h2>
-	<p class="text-xl sm:text-xl md:text-xl text-center max-w-[1000px] mx-auto w-full">
-		<span class="italic">
-			Our system utilizes advanced algorithms to analyze your transcript. Course Recommendations are
-			tailored from our extensive school database, ensuring personalized course suggestions for an
-			optimized learning journey.</span
-		>
-	</p>
-	<FileUpload />
+	<button on:click={() => goto('/chat')}
+		class="font-bold inline-flex items-center text-3xl px-4 py-2 bg-yellow-400 dark:bg-white-900 text-gray rounded-md cursor-pointer hover:bg-yellow-300 dark:hover:bg-yellow-700"
+		>Let the Genie Know Your Wishes</button>
+
+	<main class="container mx-auto p-4 text-foreground">
+		<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+			<div class="bg-green-500 text-white p-6 rounded-md shadow-lg">
+			  <h2 class="text-lg font-semibold mb-2 text-center">Transcript Analysis</h2>
+			  <p class="text-sm italic text-center">
+				Our system employs advanced algorithms to analyze your transcript.
+			  </p>
+			</div>
+			<div class="bg-green-500 text-white p-6 rounded-md shadow-lg">
+			<h2 class="text-lg font-semibold mb-2 text-center">Personalized Recommendations</h2>
+			<p class="text-sm italic text-center">
+				Tailored course recommendations are generated based on the analysis.
+			</p>
+			</div>
+
+			<div class="bg-green-500 text-white p-6 rounded-md shadow-lg">
+			<h2 class="text-lg font-semibold mb-2 text-center">Optimized Learning Journey</h2>
+			<p class="text-sm italic text-center">
+				Experience an optimized learning journey with personalized course suggestions.
+			</p>
+			</div>
+		</div>
+	</main>
 
 	<p class="text-s text-center">
-		We are not affiliated with the University of California, Santa Barbara.<br />
+		*We are not affiliated with the University of California, Santa Barbara.<br />
 		<span class="italic text-gray-500">This is a disclaimer statement.</span>
 	</p>
 
-	<button on:click={() => goto('/chat')}>Talk to the Genie</button>
 </div>
 
 <style>
