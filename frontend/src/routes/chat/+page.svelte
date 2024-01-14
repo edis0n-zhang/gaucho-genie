@@ -1,16 +1,42 @@
 <script>
-	import Header from '$lib/components/Header.svelte';
-	import { ArrowLeftFromLine } from 'lucide-svelte';
-	import { Button } from '$lib/components/ui/button';
-	let messages = [];
-	let userInput = '';
+    import Header from '$lib/components/Header.svelte';
+    import { ArrowLeftFromLine } from 'lucide-svelte';
+    import { Button } from '$lib/components/ui/button';
+    import { writable, get } from 'svelte/store';
 
-	const sendMessage = () => {
-		if (userInput.trim() !== '') {
-			messages = [...messages, { sender: 'user', text: userInput }];
-			userInput = '';
-		}
-	};
+    let messages = [];
+    let userInput = '';
+    const responseOutput = writable('');
+    const conversationHistory = writable('');
+
+    const sendMessage = () => {
+        if (userInput.trim() !== '') {
+            messages = [...messages, { sender: 'user', text: userInput }];
+            simulateBotResponse(userInput);
+            userInput = '';
+        }
+    };
+
+    async function simulateBotResponse(userInput){
+        try {
+            const response = await fetch(
+                `http://127.0.0.1:5000/get_response?input=${encodeURIComponent(userInput)}&conversation_history=${encodeURIComponent(get(conversationHistory))}`
+            );
+            
+            if (response.ok) {
+                const data = await response.json();
+                conversationHistory.set(data.conversation_history);
+                responseOutput.set(data.output);
+                
+                // Update messages with bot response
+                messages = [...messages, { sender: 'bot', text: get(responseOutput) }];
+            } else {
+                console.error('Failed to fetch response');
+            }
+        } catch (error) {
+            console.error('Error fetching response:', error);
+        }
+    };
 </script>
 <main class="h-screen bg-white dark:bg-black">
 	<div>
@@ -22,7 +48,9 @@
 			{#each messages as { sender, text } (text)}
 				<div class="{sender === 'user' ? 'text-right' : 'text-left'} mb-2">
 					<span
-						class="inline-block bg-blue-500 text-white p-2 rounded {sender === 'user' ? 'user-message': ''}">{text}</span
+						class="text-message inline-block bg-blue-500 text-white p-2 rounded {sender === 'user' ? 'user-message': ''}">
+						{text}
+						</span
 					>
 				</div>
 			{/each}
@@ -63,5 +91,9 @@
 
 	:global(.dark) .bg-background {
 		background-color: var(--background-dark);
+	}
+
+	.text-message {
+		white-space : pre-line;
 	}
 </style>

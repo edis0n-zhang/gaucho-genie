@@ -18,10 +18,10 @@ OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 
 def format_string(input_str):
     # Replace \n with <br>
-    formatted_str = input_str.replace("\n", "<br>")
-
+    # formatted_str = input_str.replace("\n", "<br>")
+    formatted_str = input_str
     # Remove parentheses at the start and end, if they exist
-    if formatted_str.startswith("(") and formatted_str.endswith(")"):
+    if formatted_str.startswith("('") and formatted_str.endswith("')"):
         formatted_str = formatted_str[1:-1]
 
     return formatted_str
@@ -151,6 +151,7 @@ def process_query(query, conversation_history):
     conversation_history = res2_string
 
     output = format_string(res.content)
+    # output = res.content
     print(f"Output STRING:   {output}")
 
     return output, conversation_history
