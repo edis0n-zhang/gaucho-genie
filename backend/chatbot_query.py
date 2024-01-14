@@ -9,6 +9,7 @@ from langchain.schema import HumanMessage, SystemMessage
 from langchain.chains.question_answering import load_qa_chain
 from dotenv import load_dotenv
 import pinecone
+import re
 import os
 
 load_dotenv()
@@ -18,7 +19,7 @@ OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 
 def format_string(input_str):
     # Replace \n with <br>
-    formatted_str = input_str.replace("\n", "<br>")
+    formatted_str = re.sub(r'\n+', '<br>', input_str)
 
     return formatted_str
 

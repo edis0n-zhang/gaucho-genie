@@ -31,8 +31,16 @@
 			<LightGenie class="mr-2" />
 		{/if}
 		<div class="ml-2">
-			<p class="font-bold dark:text-blue-900 text-yellow-400">GAUCHO GENIE</p>
+			<p class="logoFont text-xl font-bold dark:text-blue-900 text-yellow-400">Gaucho Genie</p>
 		</div>
 	</button>
 	<LightSwitch />
 </div>
+
+<style>
+	@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600;700&display=swap');
+
+	.logoFont {
+		font-family: 'Hanken Grotesk', sans-serif;
+	}
+</style>
