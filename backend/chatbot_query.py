@@ -82,7 +82,7 @@ def process_query(query, conversation_history):
             ETH - Ethnicity
 
         The course difficulty is rated on a scale of 1-10 with 1 being the easiest and 10 being the hardest.
-        When giving a response and including course difficulty, round to the nearest integer.
+        When giving a response and including course difficulty, you MUST round to the nearest integer.
         If you must pick between two courses of equal difficulty, the course with the higher course ID is more difficult.
 
         The course data is formatted as such:
@@ -95,7 +95,7 @@ def process_query(query, conversation_history):
         The course description is as follows: <description>
         The course is <difficuty>.
 
-        If the information provided is not very relevat to the query, please respond with 'I apologize, I do not have that information' and provide a short description of the course.
+        If the information provided is not very relevant to the query, please respond with 'I apologize, I do not have that information' and provide a short description of the course.
 
         Here is the past context of your conversation:
         {conversation_history}
