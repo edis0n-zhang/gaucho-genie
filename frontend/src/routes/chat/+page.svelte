@@ -32,7 +32,7 @@
 			<input
 				bind:value={userInput}
 				class="text-white-900  w-full p-2 border border-gray dark:border-white dark:text-white rounded bg-transparent mr-2 bg-transparent"
-				placeholder="Ask the Genie"
+				placeholder="Ask the Genie..."
 				on:keydown={(e) => e.key === 'Enter' && sendMessage()}
 			/>
 			<Button on:click={sendMessage}>

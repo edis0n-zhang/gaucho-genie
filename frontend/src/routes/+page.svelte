@@ -6,6 +6,7 @@
 	import Header from '$lib/components/Header.svelte';
 	import { Button } from '$lib/components/ui/button';
 	import { goto } from '$app/navigation';
+	import BigButton from '$lib/components/BigButton.svelte';
 </script>
 
 <main class="h-full bg-white dark:bg-black">
@@ -27,11 +28,7 @@
 			<span class="italic">Simplifying and Enhancing Your Course Selection Process with AI</span>
 		</p>
 
-		<button
-			on:click={() => goto('/chat')}
-			class="font-bold inline-flex items-center text-3xl px-8 py-6 dark:bg-yellow-500 text-gray rounded-md cursor-pointer dark:hover:bg-yellow-400 bg-blue-950 hover:bg-blue-950/90 text-white dark:text-black"
-			>Let The Genie Know Your Wishes</button
-		>
+		<BigButton />
 
 		<main class="container mx-auto p-4 text-foreground">
 			<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
