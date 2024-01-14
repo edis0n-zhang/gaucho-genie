@@ -82,6 +82,8 @@ def process_query(query, conversation_history):
             ETH - Ethnicity
 
         The course difficulty is rated on a scale of 1-10 with 1 being the easiest and 10 being the hardest.
+        When giving a response and including course difficulty, round to the nearest integer.
+        You should factor the Course ID level into the difficulty, the higher the number the more difficult the class likely is.
 
         The course data is formatted as such:
         <courseId> <quarter_string> Overview:
@@ -92,6 +94,8 @@ def process_query(query, conversation_history):
         Please refer to the key when interpreting the general education credits.
         The course description is as follows: <description>
         The course is <difficuty>.
+
+        If the information provided is not very relevat to the query, please respond with 'I apologize, I do not have that information' and provide a short description of the course.
 
         Here is the past context of your conversation:
         {conversation_history}
@@ -134,4 +138,4 @@ def process_query(query, conversation_history):
 
     conversation_history = res2_string
 
-    return res.content
+    return res.content, conversation_history
