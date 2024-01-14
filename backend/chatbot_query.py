@@ -15,6 +15,18 @@ load_dotenv()
 PINECONE_API_KEY = os.getenv('PINECONE_API_KEY')
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 
+
+def format_string(input_str):
+    # Replace \n with <br>
+    formatted_str = input_str.replace("\n", "<br>")
+
+    # Remove parentheses at the start and end, if they exist
+    if formatted_str.startswith("(") and formatted_str.endswith(")"):
+        formatted_str = formatted_str[1:-1]
+
+    return formatted_str
+
+
 def prepare_data_for_llm(query, results):
     if not results:
         return f"Query: {query}\n\nNo results found."
@@ -138,4 +150,7 @@ def process_query(query, conversation_history):
 
     conversation_history = res2_string
 
-    return res.content, conversation_history
+    output = format_string(res.content)
+    print(f"Output STRING:   {output}")
+
+    return output, conversation_history
