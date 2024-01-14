@@ -8,7 +8,7 @@
 	import { goto } from '$app/navigation';
 </script>
 
-<main class="h-screen bg-white dark:bg-black">
+<main class="h-full bg-white dark:bg-black">
 	<div>
 		<Header />
 	</div>
