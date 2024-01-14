@@ -12,12 +12,18 @@ import pinecone
 import os
 
 load_dotenv()
+
+def prepare_data_for_llm(query, results):
+    if not results:
+        return f"Query: {query}\n\nNo results found."
+
+    response_prompt = f"Query: {query}\n\nResults:\n {results}"
+
+    return response_prompt
+
 PINECONE_API_KEY = os.getenv('PINECONE_API_KEY')
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 
-conversation_history = []
-
-# conversation_history.append(SystemMessage(content = str(history)))
 # initialize pinecone
 pinecone.init(
     api_key=PINECONE_API_KEY,  # find at app.pinecone.io
@@ -32,26 +38,12 @@ docsearch = Pinecone.from_existing_index(index_name, embeddings)
 
 chat = ChatOpenAI(temperature=0, openai_api_key=OPENAI_API_KEY, model_name="gpt-3.5-turbo-0613")
 
-# conversation_history = []
+# Conversation history
+conversation_history = []
 
-def prepare_data_for_llm(query, results):
-    if not results:
-        return f"Query: {query}\n\nNo results found."
-
-    response_prompt = f"Query: {query}\n\nResults:\n {results}"
-
-    return response_prompt
-
-
-
-
-def process_query(query):
-    global conversation_history
-    global index_name
-    global embeddings
-    global index
-    global docsearch
-    global chat
+while True:
+    # Get user query
+    query = input("Enter your query: ")
 
     # Perform similarity search
     result = docsearch.similarity_search(query)
@@ -60,12 +52,14 @@ def process_query(query):
     response_prompt = prepare_data_for_llm(query, result)
     conversation_history.append(HumanMessage(content=f"{query} \n\n Please answer by utilizing the information provided: \n\n {response_prompt}"))
 
+    
+
     # Generate system response
     messages = [
         # System's understanding of its role
-        SystemMessage(content=f"""
-            You are a helpful course planning assistant.
-        You are given a query and a list containing important information formatted as such 'ID: <id> Info: <metadata>'.
+        SystemMessage(content="""
+           You are a helpful course planning assistant.
+        You are given a query and a list containing important information formatted as such 'ID: {id} Info: {metadata}'.
         You must return the most relevant courses to the query as well as provide a short description based on the knowledge you have.
 
         If the information is a course here is helpful information on how it is formatted, use this to help you generate a better response:
@@ -96,21 +90,16 @@ def process_query(query):
         The course difficulty is rated on a scale of 1-10 with 1 being the easiest and 10 being the hardest.
 
         The course data is formatted as such:
-        <courseId> <quarter_string> Overview:
-        The course is titled <title>.
-        It is offered by the <college> college and is in the <subjectArea> subject area.
-        It is worth <unitsFixed> units and is in the <deptCode> department.
-        It offers the following general education credits: <generalEducation>.
+        {courseId} {quarter_string} Overview:
+        The course is titled {title}.
+        It is offered by the {college} college and is in the {subjectArea} subject area.
+        It is worth {unitsFixed} units and is in the {deptCode} department.
+        It offers the following general education credits: {generalEducation}.
         Please refer to the key when interpreting the general education credits.
-        The course description is as follows: <description>
-        The course is <difficuty>.
-
-        Here is the past context of your conversation:
-        {conversation_history[:-1]}
+        The course description is as follows: {description}
+        The course is {difficuty}.
         """),
-        HumanMessage(
-            content=f"{query} \n\n Please answer by utilizing the information provided: \n\n {response_prompt}"
-        ),
+        *conversation_history  # Add all previous messages
     ]
 
     # Get response from chat model
@@ -118,28 +107,30 @@ def process_query(query):
 
     # Print and store the system response
     print(f"\n\nChatbot Response: {res.content}\n\n")
+    conversation_history.append(SystemMessage(content=res.content))
+    # Calculating the total length of the conversation history
+    total_length = sum(len(message.content) for message in conversation_history)
 
-    # Create a text representation of the conversation history
-    summarize_prompt = (
-        "You are a helpful course planning assistant. "
-        "I have a conversation history that needs to be summarized and the summary must be less than 1500 characters. "
-        "Please keep track of the most recent courses that you have mentioned in the summary and the context of the conversation, especially more recent information. "
-        "Important info to includes recent course codes mentioned and the order that you mentioned them. Do not forget those courses"
-        "Be as detailed as possible but keep it under 1500 characters"
-        "Here is the conversation history:\n\n" + history[:-1]
-    )
+    if total_length > 2000:
+        
+        # Create a text representation of the conversation history
+        history_text = "\n".join([msg.content for msg in conversation_history])
 
-    # Call the chat model for summarization
-    res2 = chat.invoke([SystemMessage(content=summarize_prompt)])
+        # Prepare the summarization prompt
+        summarize_prompt = (
+            "You are a helpful course planning assistant. "
+            "I have a conversation history that needs to be summarized and the summary must be less than 2000 characters. "
+            "Please keep track of the most recent courses that you have mentioned in the summary and the context of the conversation, especially more recent information. "
+            "Important info to includes recent course codes mentioned and the order that you mentioned them. Do not forget those courses"
+            "Be as detailed as possible but keep it under 2000 characters"
+            "Here is the conversation history:\n\n" + history_text
+        )
 
-    # Print the summarized history
-    print("\n\nSummarized history\n\n")
-    print(res2.content)
-    if(len(res2.content) > 1700):
-        res2_string = res2.content[:1700]
-    else:
-        res2_string = res2.content
+        # Call the chat model for summarization
+        res2 = chat.invoke([SystemMessage(content=summarize_prompt)])
+        conversation_history.clear()
+        conversation_history.append(SystemMessage(content = res2.content))
+        # Print the summarized history
+        print("\n\nSummarized history\n\n")
+        print(res2.content)
 
-    conversation_history.append(res2_string)
-
-    return res.content

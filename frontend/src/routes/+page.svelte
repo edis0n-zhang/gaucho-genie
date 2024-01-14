@@ -35,9 +35,9 @@
 			<div
 				class="bg-blue-950 dark:bg-yellow-500 p-6 rounded-md shadow-lg dark:text-black text-white"
 			>
-				<h2 class="text-lg font-semibold mb-2 text-center">Transcript Analysis</h2>
+				<h2 class="text-lg font-semibold mb-2 text-center">Estimate Course Difficulty</h2>
 				<p class="text-sm italic text-center">
-					Our system employs advanced algorithms to analyze your transcript.
+					Analyzes past student grades to estimate course diffiulty.
 				</p>
 			</div>
 			<div
@@ -45,16 +45,17 @@
 			>
 				<h2 class="text-lg font-semibold mb-2 text-center">Personalized Recommendations</h2>
 				<p class="text-sm italic text-center">
-					Tailored course recommendations are generated based on the analysis.
+					Tailored course recommendations are generated based on the analysis and specific user input.
 				</p>
 			</div>
 
 			<div
 				class="bg-blue-950 dark:bg-yellow-500 p-6 rounded-md shadow-lg dark:text-black text-white"
 			>
-				<h2 class="text-lg font-semibold mb-2 text-center">Optimized Learning Journey</h2>
+				<h2 class="text-lg font-semibold mb-2 text-center">Instant Response</h2>
 				<p class="text-sm italic text-center">
-					Experience an optimized learning journey with personalized course suggestions.
+					No delays or waiting times whatsoever. 
+					Our system ensures immediate replies, providing a seamless and efficient user experience.
 				</p>
 			</div>
 		</div>
@@ -68,8 +69,8 @@
 
 <style>
 	:global(body) {
-		--background-light: --background: 0 0% 100%; /* Light mode background color */
-		--background-dark: 222.2 84% 4.9%; /* Dark mode background color */
+		--background-light: hsl(0 0% 100%); /* Light mode background color */
+		--background-dark: hsl(226.2 57% 21%); /* Dark mode background color */
 	}
 
 	:global(body:not(.dark)) {
