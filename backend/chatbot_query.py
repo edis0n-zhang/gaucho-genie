@@ -11,7 +11,18 @@ from dotenv import load_dotenv
 import pinecone
 import os
 
+load_dotenv()
+PINECONE_API_KEY = os.getenv('PINECONE_API_KEY')
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
+
 conversation_history = []
+
+# conversation_history.append(SystemMessage(content = str(history)))
+# initialize pinecone
+pinecone.init(
+    api_key=PINECONE_API_KEY,  # find at app.pinecone.io
+    environment="gcp-starter",  # next to api key in console
+)
 
 # Index and embeddings setup
 index_name = "gaucho-genie"
@@ -21,9 +32,6 @@ docsearch = Pinecone.from_existing_index(index_name, embeddings)
 
 chat = ChatOpenAI(temperature=0, openai_api_key=OPENAI_API_KEY, model_name="gpt-3.5-turbo-0613")
 
-load_dotenv()
-PINECONE_API_KEY = os.getenv('PINECONE_API_KEY')
-OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 # conversation_history = []
 
 def prepare_data_for_llm(query, results):
@@ -44,13 +52,6 @@ def process_query(query):
     global index
     global docsearch
     global chat
-
-    # conversation_history.append(SystemMessage(content = str(history)))
-    # initialize pinecone
-    pinecone.init(
-        api_key=PINECONE_API_KEY,  # find at app.pinecone.io
-        environment="gcp-starter",  # next to api key in console
-    )
 
     # Perform similarity search
     result = docsearch.similarity_search(query)
