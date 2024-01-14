@@ -15,7 +15,9 @@
 			if (response.ok) {
 				const data = await response.json();
 				conversationHistory.set(data.conversation_history); // Update conversation history
+				console.log(conversationHistory);
 				responseOutput.set(data.output); // Update response output
+				console.log(responseOutput);
 			} else {
 				console.error('Failed to fetch response');
 			}
